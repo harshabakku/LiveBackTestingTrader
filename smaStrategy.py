@@ -49,7 +49,7 @@ class TestStrategy(bt.Strategy):
         if order.status in [order.Completed]:
             if order.isbuy():
                 self.log(
-                    'BUY EXECUTED, Price: %.2f, Cost: %.2f, Comm %.2f' %
+                    'BUY EXECUTED, Price: %.7f, Cost: %.7f, Comm %.7f' %
                     (order.executed.price,
                      order.executed.value,
                      order.executed.comm))
@@ -57,11 +57,11 @@ class TestStrategy(bt.Strategy):
                 self.buyprice = order.executed.price
                 self.buycomm = order.executed.comm
             else:  # Sell
-                self.log('SELL EXECUTED, Price: %.2f, Cost: %.2f, Comm %.2f' %
+                self.log('SELL EXECUTED, Price: %.7f, Cost: %.7f, Comm %.7f' %
                          (order.executed.price,
                           order.executed.value,
                           order.executed.comm))
-                print('current Portfolio Value: %.2f' % cerebro.broker.getvalue())          
+                print('current Portfolio Value: %.7f' % cerebro.broker.getvalue())          
 
             self.bar_executed = len(self)
 
@@ -75,12 +75,12 @@ class TestStrategy(bt.Strategy):
         if not trade.isclosed:
             return
 
-        self.log('OPERATION PROFIT, GROSS %.2f, NET %.2f' %
+        self.log('OPERATION PROFIT, GROSS %.7f, NET %.7f' %
                  (trade.pnl, trade.pnlcomm))
 
     def next(self):
         # Simply log the closing price of the series from the reference
-        self.log('Open %.2f , Close %.2f,  SMA %.2f' % (self.dataopen[0], self.dataclose[0], self.sma[0]))
+        self.log('Open %.7f , Close %.7f,  SMA %.7f' % (self.dataopen[0], self.dataclose[0], self.sma[0]))
         
 #        handle NaN data that causes Order Canceled/Margin/Rejected error 
         if (math.isnan(self.dataopen[0]) or math.isnan(self.dataclose[0]) or math.isnan(self.sma[0])):
@@ -96,7 +96,7 @@ class TestStrategy(bt.Strategy):
             if self.dataclose[0] > self.sma[0]:
 
                 # BUY, BUY, BUY!!! (with all possible default parameters)
-                self.log('BUY CREATE, %.2f' % self.dataclose[0])
+                self.log('BUY CREATE, %.7f' % self.dataclose[0])
 
                 # Keep track of the created order to avoid a 2nd order
                 self.order = self.buy()
@@ -106,13 +106,13 @@ class TestStrategy(bt.Strategy):
 
             if self.dataclose[0] < self.sma[0]:
                 # SELL, SELL, SELL!!! (with all possible default parameters)
-                self.log('SELL CREATE, %.2f' % self.dataclose[0])
+                self.log('SELL CREATE, %.7f' % self.dataclose[0])
 
                 # Keep track of the created order to avoid a 2nd order
                 self.order = self.sell()
 
     def stop(self):
-        self.log('(MA Period %2d) Ending Value %.2f' %
+        self.log('(MA Period %2d) Ending Value %.7f' %
                  (self.params.maperiod, self.broker.getvalue()), doprint=True)
 
 def printTradeAnalysis(analyzer):
@@ -218,7 +218,8 @@ if __name__ == '__main__':
                                    volume=2,
                                    timeframe=bt.TimeFrame.Minutes,
                                    compression=60,
-                                   dtformat=1)
+                                   dtformat=1,
+                                   decimals=5 )
 
 #     Add the Data Feed to Cerebro
     cerebro.adddata(data)
@@ -235,16 +236,16 @@ if __name__ == '__main__':
     
 
     # Add a FixedSize sizer according to the stake
-    cerebro.addsizer(bt.sizers.FixedSize, stake=1)
+    cerebro.addsizer(bt.sizers.FixedSize, stake=1000)
      # Set the commission - 0.25% ... divide by 100 to remove the %    
     cerebro.broker.setcommission(commission=0.0025)
 
 
-    print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
+    print('Starting Portfolio Value: %.7f' % cerebro.broker.getvalue())
 
     # Run over everything
     strategies = cerebro.run(maxcpus=1)
-    print('Final Portfolio Value: %.2f' % cerebro.broker.getvalue())
+    print('Final Portfolio Value: %.7f' % cerebro.broker.getvalue())
     
     firstStrat = strategies[0]
     # print the analyzers
