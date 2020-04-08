@@ -61,6 +61,7 @@ class TestStrategy(bt.Strategy):
                          (order.executed.price,
                           order.executed.value,
                           order.executed.comm))
+                print('current Portfolio Value: %.2f' % cerebro.broker.getvalue())          
 
             self.bar_executed = len(self)
 
@@ -204,19 +205,19 @@ if __name__ == '__main__':
 #        # Do not pass values after this date
 #        reverse=False)
 
-    data = bt.feeds.GenericCSVData(dataname="./datas/na_cleaned_2019.csv",
+    data = bt.feeds.GenericCSVData(dataname="./datas/exmo_USDT_USD.csv",
                                    datetime=1,
-                                   fromdate=datetime.datetime(2019,3,1),
-                                   todate=datetime.datetime(2019,3,2),
-                                   open=2,
+                                   fromdate=datetime.datetime(2019,12,4),
+                                   todate=datetime.datetime(2020,4,7),
+                                   open=5,
                                    high=3,
                                    low=4,
-                                   close=5,
+                                   close=0,
                                    openinterest=-1,
                                    time=-1,
-                                   volume=-1,
+                                   volume=2,
                                    timeframe=bt.TimeFrame.Minutes,
-                                   compression=1,
+                                   compression=60,
                                    dtformat=1)
 
 #     Add the Data Feed to Cerebro
@@ -226,6 +227,7 @@ if __name__ == '__main__':
     # Set our desired cash start
     cerebro.broker.setcash(100000.0)
     
+    
     # Add the analyzers we are interested in
     cerebro.addanalyzer(bt.analyzers.TradeAnalyzer, _name="ta")
     cerebro.addanalyzer(bt.analyzers.SQN, _name="sqn")
@@ -234,9 +236,10 @@ if __name__ == '__main__':
 
     # Add a FixedSize sizer according to the stake
     cerebro.addsizer(bt.sizers.FixedSize, stake=1)
+     # Set the commission - 0.25% ... divide by 100 to remove the %    
+    cerebro.broker.setcommission(commission=0.0025)
 
-    # Set the commission
-    cerebro.broker.setcommission(commission=0.0)
+
     print('Starting Portfolio Value: %.2f' % cerebro.broker.getvalue())
 
     # Run over everything
