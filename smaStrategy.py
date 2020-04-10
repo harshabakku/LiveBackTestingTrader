@@ -227,7 +227,7 @@ if __name__ == '__main__':
 #    strats = cerebro.optstrategy(
 #        TestStrategy,
 #        maperiod1=range(10, 31))
-    cerebro.addstrategy(TestStrategy);
+    cerebro.optstrategy(TestStrategy,  profit_mult = range(1,4), maperiod1 = range(15,25))
     # Datas are in a subfolder of the samples. Need to find where the script is
     # because it could have been called from anywhere
     modpath = os.path.dirname(os.path.abspath(sys.argv[0]))
@@ -284,13 +284,16 @@ if __name__ == '__main__':
 
     # Run over everything
     strategies = cerebro.run(maxcpus=1)
+    # print(strategies[0][0].analyzers)
     print('Final Portfolio Value: %.7f' % cerebro.broker.getvalue())
     
-    firstStrat = strategies[0]
-    # print the analyzers
-    printTradeAnalysis(firstStrat.analyzers.ta.get_analysis())
-    printSQN(firstStrat.analyzers.sqn.get_analysis())
-    printDrawDownAnalysis(firstStrat.analyzers.dd.get_analysis())
+    
+    for strat in strategies:
+        # print the analyzers
+        # list of list is returned this is way to find analyzer    
+        printTradeAnalysis(strat[0].analyzers.ta.get_analysis())
+        printSQN(strat[0].analyzers.sqn.get_analysis())
+        printDrawDownAnalysis(strat[0].analyzers.dd.get_analysis())
     
     
     
