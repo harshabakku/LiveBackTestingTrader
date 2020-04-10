@@ -15,7 +15,10 @@ import backtrader as bt
 # Create a Stratey
 class TestStrategy(bt.Strategy):
     params = (
-        ('maperiod', 15),
+        ('stoploss', 0.01),   
+        ('profit_mult', 4),
+        ('maperiod1', 15),
+        ('maperiod2', 30),
         ('printlog', False),
     )
 
@@ -34,10 +37,19 @@ class TestStrategy(bt.Strategy):
         self.order = None
         self.buyprice = None
         self.buycomm = None
+        
+        self.trades = 0
+        
+        self.order_dict = {}
 
         # Add a MovingAverageSimple indicator
-        self.sma = bt.indicators.SimpleMovingAverage(
-            self.datas[0], period=self.params.maperiod)
+        self.sma1 = bt.indicators.SimpleMovingAverage(
+            self.datas[0], period=self.params.maperiod1)
+        
+        self.sma2 = bt.indicators.SimpleMovingAverage(
+            self.datas[0], period=self.params.maperiod2)
+                    
+            
 
     def notify_order(self, order):
         if order.status in [order.Submitted, order.Accepted]:
@@ -47,15 +59,37 @@ class TestStrategy(bt.Strategy):
         # Check if an order has been completed
         # Attention: broker could reject order if not enough cash
         if order.status in [order.Completed]:
+                       
             if order.isbuy():
+
+                self.buyprice = order.executed.price
+                self.buycomm = order.executed.comm
+                
+                stop_loss = order.executed.price*(1.0 - (self.p.stoploss))
+                take_profit = order.executed.price*(1.0 + self.p.profit_mult*(self.p.stoploss))
+
+#                sl_ord = self.sell(exectype=bt.Order.Stop,
+#                                   price=stop_loss)
+#                sl_ord.addinfo(name="Stop")
+
+                tkp_ord = self.sell(exectype=bt.Order.Limit,
+                                    price=take_profit)
+                tkp_ord.addinfo(name="Prof")
+
+#                self.order_dict[sl_ord.ref] = tkp_ord
+#                self.order_dict[tkp_ord.ref] = sl_ord
+                
                 self.log(
                     'BUY EXECUTED, Price: %.7f, Cost: %.7f, Comm %.7f' %
                     (order.executed.price,
                      order.executed.value,
                      order.executed.comm))
 
-                self.buyprice = order.executed.price
-                self.buycomm = order.executed.comm
+                self.log(
+                    'STOP LOSS : %.7f AND TAKE PROFIT : %.7f' %
+                    (stop_loss,
+                     take_profit))                
+                
             else:  # Sell
                 self.log('SELL EXECUTED, Price: %.7f, Cost: %.7f, Comm %.7f' %
                          (order.executed.price,
@@ -74,16 +108,17 @@ class TestStrategy(bt.Strategy):
     def notify_trade(self, trade):
         if not trade.isclosed:
             return
-
+        self.trades = self.trades + 1;
+        self.log('Open %.7f , Close %.7f,  SMA1,2 %.7f %.7f' % (self.dataopen[0], self.dataclose[0], self.sma1[0], self.sma2[0]))                
         self.log('OPERATION PROFIT, GROSS %.7f, NET %.7f' %
                  (trade.pnl, trade.pnlcomm))
 
     def next(self):
         # Simply log the closing price of the series from the reference
-        self.log('Open %.7f , Close %.7f,  SMA %.7f' % (self.dataopen[0], self.dataclose[0], self.sma[0]))
+        #self.log('Open %.7f , Close %.7f,  SMA1,2 %.7f %.7f' % (self.dataopen[0], self.dataclose[0], self.sma1[0], self.sma2[0]))
         
 #        handle NaN data that causes Order Canceled/Margin/Rejected error 
-        if (math.isnan(self.dataopen[0]) or math.isnan(self.dataclose[0]) or math.isnan(self.sma[0])):
+        if (math.isnan(self.dataopen[0]) or math.isnan(self.dataclose[0]) or math.isnan(self.sma1[0]) or math.isnan(self.sma2[0])):
             return
         # Check if an order is pending ... if yes, we cannot send a 2nd one
         if self.order:
@@ -93,27 +128,30 @@ class TestStrategy(bt.Strategy):
         if not self.position:
 
             # Not yet ... we MIGHT BUY if ...
-            if self.dataclose[0] > self.sma[0]:
+            # sma1 should be breaking out sma2, so check the earlier candle as well
+            if self.sma1[-1] <= self.sma2[-1]: 
+                if self.sma1[0] > self.sma2[0]:
+    
+                    # BUY, BUY, BUY!!! (with all possible default parameters)
+                    self.log('BUY CREATE, %.7f' % self.dataclose[0])
+    
+                    # Keep track of the created order to avoid a 2nd order
+                    self.order = self.buy()
+    #                self.log(self.order)
 
-                # BUY, BUY, BUY!!! (with all possible default parameters)
-                self.log('BUY CREATE, %.7f' % self.dataclose[0])
+               
+       # else:
 
-                # Keep track of the created order to avoid a 2nd order
-                self.order = self.buy()
-#                self.log(self.order)
-
-        else:
-
-            if self.dataclose[0] < self.sma[0]:
+       #     if self.sma1[0] < self.sma2[0]:
                 # SELL, SELL, SELL!!! (with all possible default parameters)
-                self.log('SELL CREATE, %.7f' % self.dataclose[0])
+       #         self.log('SELL CREATE, %.7f' % self.dataclose[0])
 
                 # Keep track of the created order to avoid a 2nd order
-                self.order = self.sell()
+       #         self.order = self.sell()
 
     def stop(self):
-        self.log('(MA Period %2d) Ending Value %.7f' %
-                 (self.params.maperiod, self.broker.getvalue()), doprint=True)
+        self.log('(MA Periods %2d %2d) Total trades %.2f Ending Value %.7f' %
+                 (self.params.maperiod1, self.params.maperiod2, self.trades, self.broker.getvalue()), doprint=True)
 
 def printTradeAnalysis(analyzer):
         '''
@@ -188,7 +226,7 @@ if __name__ == '__main__':
     # Add a strategy
 #    strats = cerebro.optstrategy(
 #        TestStrategy,
-#        maperiod=range(10, 31))
+#        maperiod1=range(10, 31))
     cerebro.addstrategy(TestStrategy);
     # Datas are in a subfolder of the samples. Need to find where the script is
     # because it could have been called from anywhere
@@ -226,7 +264,8 @@ if __name__ == '__main__':
     # Add the Data Feed to Cerebro
 
     # Set our desired cash start
-    cerebro.broker.setcash(100000.0)
+    # trading with around 1000 dollars each time
+    cerebro.broker.setcash(2000.0)
     
     
     # Add the analyzers we are interested in
