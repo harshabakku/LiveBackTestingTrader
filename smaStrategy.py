@@ -79,23 +79,23 @@ class TestStrategy(bt.Strategy):
 #                self.order_dict[sl_ord.ref] = tkp_ord
 #                self.order_dict[tkp_ord.ref] = sl_ord
                 
-                self.log(
-                    'BUY EXECUTED, Price: %.7f, Cost: %.7f, Comm %.7f' %
-                    (order.executed.price,
-                     order.executed.value,
-                     order.executed.comm))
-
-                self.log(
-                    'STOP LOSS : %.7f AND TAKE PROFIT : %.7f' %
-                    (stop_loss,
-                     take_profit))                
+#                self.log(
+#                    'BUY EXECUTED, Price: %.7f, Cost: %.7f, Comm %.7f' %
+#                    (order.executed.price,
+#                     order.executed.value,
+#                     order.executed.comm))
+#
+#                self.log(
+#                    'STOP LOSS : %.7f AND TAKE PROFIT : %.7f' %
+#                    (stop_loss,
+#                     take_profit))                
                 
-            else:  # Sell
-                self.log('SELL EXECUTED, Price: %.7f, Cost: %.7f, Comm %.7f' %
-                         (order.executed.price,
-                          order.executed.value,
-                          order.executed.comm))
-                print('current Portfolio Value: %.7f' % cerebro.broker.getvalue())          
+#            else:  # Sell
+#                self.log('SELL EXECUTED, Price: %.7f, Cost: %.7f, Comm %.7f' %
+#                         (order.executed.price,
+#                          order.executed.value,
+#                          order.executed.comm))
+#                print('current Portfolio Value: %.7f' % cerebro.broker.getvalue())          
 
             self.bar_executed = len(self)
 
@@ -109,9 +109,9 @@ class TestStrategy(bt.Strategy):
         if not trade.isclosed:
             return
         self.trades = self.trades + 1;
-        self.log('Open %.7f , Close %.7f,  SMA1,2 %.7f %.7f' % (self.dataopen[0], self.dataclose[0], self.sma1[0], self.sma2[0]))                
-        self.log('OPERATION PROFIT, GROSS %.7f, NET %.7f' %
-                 (trade.pnl, trade.pnlcomm))
+#        self.log('Open %.7f , Close %.7f,  SMA1,2 %.7f %.7f' % (self.dataopen[0], self.dataclose[0], self.sma1[0], self.sma2[0]))                
+#        self.log('OPERATION PROFIT, GROSS %.7f, NET %.7f' %
+#                 (trade.pnl, trade.pnlcomm))
 
     def next(self):
         # Simply log the closing price of the series from the reference
@@ -133,7 +133,7 @@ class TestStrategy(bt.Strategy):
                 if self.sma1[0] > self.sma2[0]:
     
                     # BUY, BUY, BUY!!! (with all possible default parameters)
-                    self.log('BUY CREATE, %.7f' % self.dataclose[0])
+#                    self.log('BUY CREATE, %.7f' % self.dataclose[0])
     
                     # Keep track of the created order to avoid a 2nd order
                     self.order = self.buy()
@@ -219,7 +219,7 @@ def printDrawDownAnalysis(analyzer):
 
 if __name__ == '__main__':
     # Create a cerebro entity
-    cerebro = bt.Cerebro()
+    cerebro = bt.Cerebro(optreturn=False)
 
 
 # optstrategy approach doesnt work with analyzers as of now
@@ -227,7 +227,7 @@ if __name__ == '__main__':
 #    strats = cerebro.optstrategy(
 #        TestStrategy,
 #        maperiod1=range(10, 31))
-    cerebro.optstrategy(TestStrategy,  profit_mult = range(1,4), maperiod1 = range(15,25))
+    cerebro.optstrategy(TestStrategy,  profit_mult = range(1,3), maperiod1 = range(15,17))
     # Datas are in a subfolder of the samples. Need to find where the script is
     # because it could have been called from anywhere
     modpath = os.path.dirname(os.path.abspath(sys.argv[0]))
@@ -280,20 +280,35 @@ if __name__ == '__main__':
     cerebro.broker.setcommission(commission=0.0025)
 
 
-    print('Starting Portfolio Value: %.7f' % cerebro.broker.getvalue())
+#    print('Starting Portfolio Value: %.7f' % cerebro.broker.getvalue())
+#    print('Final Portfolio Value: %.7f' % cerebro.broker.getvalue())
 
     # Run over everything
     strategies = cerebro.run(maxcpus=1)
     # print(strategies[0][0].analyzers)
-    print('Final Portfolio Value: %.7f' % cerebro.broker.getvalue())
-    
+ 
+#    for run in strategies:
+#        for strategy in run:
+#            value = round(strategy.broker.get_value(),2)
+##            PnL = round(value - startcash,2)
+##            period = strategy.params.period
+##            final_results_list.append([period,PnL])
+#   
+    print('################################################################################################')
     
     for strat in strategies:
+        strategy = strat[0]
+        value = round(strategy.broker.get_value(),2)
+        profit_mult = strategy.params.profit_mult
+        print('profit multiplier: %.2f' % profit_mult)
+        print('final portfolio value: %.2f' % value)
+        print('maperiod1: %.2f' % strategy.params.maperiod1)
+        print('maperiod2: %.2f' % strategy.params.maperiod2)        
         # print the analyzers
         # list of list is returned this is way to find analyzer    
-        printTradeAnalysis(strat[0].analyzers.ta.get_analysis())
-        printSQN(strat[0].analyzers.sqn.get_analysis())
-        printDrawDownAnalysis(strat[0].analyzers.dd.get_analysis())
-    
+        printSQN(strategy.analyzers.sqn.get_analysis())
+        printTradeAnalysis(strategy.analyzers.ta.get_analysis())
+        printDrawDownAnalysis(strategy.analyzers.dd.get_analysis())
+        print('################################################################################################')
     
     

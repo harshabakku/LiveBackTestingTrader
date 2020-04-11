@@ -8,5 +8,7 @@ find signals and place multiple buy orders wait for their take profit close.
 
 test with wazirx data as well.
 
+get 30 min longer data(last 1 year)
+
 """
 
