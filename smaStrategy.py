@@ -22,7 +22,7 @@ class TestStrategy(bt.Strategy):
         ('printlog', False),
     )
 
-    def log(self, txt, dt=None, doprint=True):
+    def log(self, txt, dt=None, doprint=False):
         ''' Logging function fot this strategy'''
         if self.params.printlog or doprint:
             dt = dt or self.datas[0].datetime.datetime(0)
@@ -79,22 +79,22 @@ class TestStrategy(bt.Strategy):
 #                self.order_dict[sl_ord.ref] = tkp_ord
 #                self.order_dict[tkp_ord.ref] = sl_ord
                 
-#                self.log(
-#                    'BUY EXECUTED, Price: %.7f, Cost: %.7f, Comm %.7f' %
-#                    (order.executed.price,
-#                     order.executed.value,
-#                     order.executed.comm))
-#
-#                self.log(
-#                    'STOP LOSS : %.7f AND TAKE PROFIT : %.7f' %
-#                    (stop_loss,
-#                     take_profit))                
+                self.log(
+                    'BUY EXECUTED, Price: %.7f, Cost: %.7f, Comm %.7f' %
+                    (order.executed.price,
+                     order.executed.value,
+                     order.executed.comm))
+
+                self.log(
+                    'STOP LOSS : %.7f AND TAKE PROFIT : %.7f' %
+                    (stop_loss,
+                     take_profit))                
                 
-#            else:  # Sell
-#                self.log('SELL EXECUTED, Price: %.7f, Cost: %.7f, Comm %.7f' %
-#                         (order.executed.price,
-#                          order.executed.value,
-#                          order.executed.comm))
+            else:  # Sell
+                self.log('SELL EXECUTED, Price: %.7f, Cost: %.7f, Comm %.7f' %
+                         (order.executed.price,
+                          order.executed.value,
+                          order.executed.comm))
 #                print('current Portfolio Value: %.7f' % cerebro.broker.getvalue())          
 
             self.bar_executed = len(self)
@@ -110,12 +110,12 @@ class TestStrategy(bt.Strategy):
             return
         self.trades = self.trades + 1;
 #        self.log('Open %.7f , Close %.7f,  SMA1,2 %.7f %.7f' % (self.dataopen[0], self.dataclose[0], self.sma1[0], self.sma2[0]))                
-#        self.log('OPERATION PROFIT, GROSS %.7f, NET %.7f' %
-#                 (trade.pnl, trade.pnlcomm))
+        self.log('OPERATION PROFIT, GROSS %.7f, NET %.7f' %
+                 (trade.pnl, trade.pnlcomm))
 
     def next(self):
         # Simply log the closing price of the series from the reference
-        #self.log('Open %.7f , Close %.7f,  SMA1,2 %.7f %.7f' % (self.dataopen[0], self.dataclose[0], self.sma1[0], self.sma2[0]))
+        self.log('Open %.7f , Close %.7f,  SMA1,2 %.7f %.7f' % (self.dataopen[0], self.dataclose[0], self.sma1[0], self.sma2[0]))
         
 #        handle NaN data that causes Order Canceled/Margin/Rejected error 
         if (math.isnan(self.dataopen[0]) or math.isnan(self.dataclose[0]) or math.isnan(self.sma1[0]) or math.isnan(self.sma2[0])):
@@ -150,8 +150,8 @@ class TestStrategy(bt.Strategy):
        #         self.order = self.sell()
 
     def stop(self):
-        self.log('(MA Periods %2d %2d) Total trades %.2f Ending Value %.7f' %
-                 (self.params.maperiod1, self.params.maperiod2, self.trades, self.broker.getvalue()), doprint=True)
+        self.log('(Profit Multiplier: %2d) (MA Periods %2d %2d) Total trades %.2f Ending Value %.7f' %
+                 (self.params.profit_mult, self.params.maperiod1, self.params.maperiod2, self.trades, self.broker.getvalue()), doprint=True)
 
 def printTradeAnalysis(analyzer):
         '''
@@ -227,7 +227,7 @@ if __name__ == '__main__':
 #    strats = cerebro.optstrategy(
 #        TestStrategy,
 #        maperiod1=range(10, 31))
-    cerebro.optstrategy(TestStrategy,  profit_mult = range(1,3), maperiod1 = range(15,17))
+    cerebro.optstrategy(TestStrategy,  profit_mult = range(1,5), maperiod1 = range(15,30), maperiod2 = range(20,40))
     # Datas are in a subfolder of the samples. Need to find where the script is
     # because it could have been called from anywhere
     modpath = os.path.dirname(os.path.abspath(sys.argv[0]))
@@ -245,7 +245,7 @@ if __name__ == '__main__':
 
     data = bt.feeds.GenericCSVData(dataname="./datas/exmo_USDT_USD.csv",
                                    datetime=1,
-                                   fromdate=datetime.datetime(2019,12,4),
+                                   fromdate=datetime.datetime(2019,4,7),
                                    todate=datetime.datetime(2020,4,7),
                                    open=5,
                                    high=3,
@@ -301,7 +301,8 @@ if __name__ == '__main__':
         value = round(strategy.broker.get_value(),2)
         profit_mult = strategy.params.profit_mult
         print('profit multiplier: %.2f' % profit_mult)
-        print('final portfolio value: %.2f' % value)
+        
+#        incorrect value print('final portfolio value: %.2f' % value)
         print('maperiod1: %.2f' % strategy.params.maperiod1)
         print('maperiod2: %.2f' % strategy.params.maperiod2)        
         # print the analyzers

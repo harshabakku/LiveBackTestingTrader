@@ -1,14 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Apr 11 05:07:41 2020
 
 @author: harsha
+
+
+
+get 30 min data(last 1 year), exhaustive test using sma crossover to identify the peak profit params
 
 find signals and place multiple buy orders wait for their take profit close.
 
 test with wazirx data as well.
-
-get 30 min longer data(last 1 year)
 
 """
 
