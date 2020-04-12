@@ -1,148 +1,1200 @@
-2020-04-07T00:00:00, Ending Value 182683.9242555 (Profit Multiplier:  1) (MA Periods 15 20) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 189765.2326195 (Profit Multiplier:  2) (MA Periods 15 20) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 191633.8000118 (Profit Multiplier:  3) (MA Periods 15 20) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 197895.8689190 (Profit Multiplier:  4) (MA Periods 15 20) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 182683.9242555 (Profit Multiplier:  1) (MA Periods 16 20) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 189765.2326195 (Profit Multiplier:  2) (MA Periods 16 20) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 191633.8000118 (Profit Multiplier:  3) (MA Periods 16 20) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 197895.8689190 (Profit Multiplier:  4) (MA Periods 16 20) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 182683.9242555 (Profit Multiplier:  1) (MA Periods 17 20) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 189765.2326195 (Profit Multiplier:  2) (MA Periods 17 20) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 191633.8000118 (Profit Multiplier:  3) (MA Periods 17 20) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 197895.8689190 (Profit Multiplier:  4) (MA Periods 17 20) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 182718.6465405 (Profit Multiplier:  1) (MA Periods 18 20) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 189747.5662045 (Profit Multiplier:  2) (MA Periods 18 20) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 191633.8000118 (Profit Multiplier:  3) (MA Periods 18 20) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 197895.8689190 (Profit Multiplier:  4) (MA Periods 18 20) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 182718.6465405 (Profit Multiplier:  1) (MA Periods 19 20) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 189747.5662045 (Profit Multiplier:  2) (MA Periods 19 20) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 191633.8000118 (Profit Multiplier:  3) (MA Periods 19 20) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 197895.8689190 (Profit Multiplier:  4) (MA Periods 19 20) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 200000.0000000 (Profit Multiplier:  1) (MA Periods 20 20) Total trades 0.00 
-2020-04-07T00:00:00, Ending Value 200000.0000000 (Profit Multiplier:  2) (MA Periods 20 20) Total trades 0.00 
-2020-04-07T00:00:00, Ending Value 200000.0000000 (Profit Multiplier:  3) (MA Periods 20 20) Total trades 0.00 
-2020-04-07T00:00:00, Ending Value 200000.0000000 (Profit Multiplier:  4) (MA Periods 20 20) Total trades 0.00 
-2020-04-07T00:00:00, Ending Value 211651.1316642 (Profit Multiplier:  1) (MA Periods 21 20) Total trades 25.00 
-2020-04-07T00:00:00, Ending Value 214653.6662545 (Profit Multiplier:  2) (MA Periods 21 20) Total trades 16.00 
-2020-04-07T00:00:00, Ending Value 220056.2903320 (Profit Multiplier:  3) (MA Periods 21 20) Total trades 12.00 
-2020-04-07T00:00:00, Ending Value 221198.1289650 (Profit Multiplier:  4) (MA Periods 21 20) Total trades 9.00 
-2020-04-07T00:00:00, Ending Value 199934.1674930 (Profit Multiplier:  1) (MA Periods 22 20) Total trades 22.00 
-2020-04-07T00:00:00, Ending Value 209370.9965440 (Profit Multiplier:  2) (MA Periods 22 20) Total trades 14.00 
-2020-04-07T00:00:00, Ending Value 220579.8579447 (Profit Multiplier:  3) (MA Periods 22 20) Total trades 12.00 
-2020-04-07T00:00:00, Ending Value 221683.8588720 (Profit Multiplier:  4) (MA Periods 22 20) Total trades 9.00 
-2020-04-07T00:00:00, Ending Value 199986.8969165 (Profit Multiplier:  1) (MA Periods 23 20) Total trades 20.00 
-2020-04-07T00:00:00, Ending Value 205985.9151365 (Profit Multiplier:  2) (MA Periods 23 20) Total trades 12.00 
-2020-04-07T00:00:00, Ending Value 215099.7580045 (Profit Multiplier:  3) (MA Periods 23 20) Total trades 11.00 
-2020-04-07T00:00:00, Ending Value 219051.2938720 (Profit Multiplier:  4) (MA Periods 23 20) Total trades 9.00 
-2020-04-07T00:00:00, Ending Value 202657.9003197 (Profit Multiplier:  1) (MA Periods 24 20) Total trades 20.00 
-2020-04-07T00:00:00, Ending Value 207625.6440260 (Profit Multiplier:  2) (MA Periods 24 20) Total trades 12.00 
-2020-04-07T00:00:00, Ending Value 215542.1382317 (Profit Multiplier:  3) (MA Periods 24 20) Total trades 10.00 
-2020-04-07T00:00:00, Ending Value 221774.1315610 (Profit Multiplier:  4) (MA Periods 24 20) Total trades 9.00 
-2020-04-07T00:00:00, Ending Value 217257.5412197 (Profit Multiplier:  1) (MA Periods 25 20) Total trades 21.00 
-2020-04-07T00:00:00, Ending Value 220562.1058565 (Profit Multiplier:  2) (MA Periods 25 20) Total trades 14.00 
-2020-04-07T00:00:00, Ending Value 226153.5649375 (Profit Multiplier:  3) (MA Periods 25 20) Total trades 12.00 
-2020-04-07T00:00:00, Ending Value 237159.4637830 (Profit Multiplier:  4) (MA Periods 25 20) Total trades 12.00 
-2020-04-07T00:00:00, Ending Value 209510.7942800 (Profit Multiplier:  1) (MA Periods 26 20) Total trades 16.00 
-2020-04-07T00:00:00, Ending Value 212700.0456765 (Profit Multiplier:  2) (MA Periods 26 20) Total trades 12.00 
-2020-04-07T00:00:00, Ending Value 216482.3561955 (Profit Multiplier:  3) (MA Periods 26 20) Total trades 9.00 
-2020-04-07T00:00:00, Ending Value 220987.4870010 (Profit Multiplier:  4) (MA Periods 26 20) Total trades 8.00 
-2020-04-07T00:00:00, Ending Value 184649.9976537 (Profit Multiplier:  1) (MA Periods 27 20) Total trades 11.00 
-2020-04-07T00:00:00, Ending Value 193835.3783420 (Profit Multiplier:  2) (MA Periods 27 20) Total trades 10.00 
-2020-04-07T00:00:00, Ending Value 196493.0344437 (Profit Multiplier:  3) (MA Periods 27 20) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 199873.5108320 (Profit Multiplier:  4) (MA Periods 27 20) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 201464.2763102 (Profit Multiplier:  1) (MA Periods 28 20) Total trades 15.00 
-2020-04-07T00:00:00, Ending Value 207818.6931030 (Profit Multiplier:  2) (MA Periods 28 20) Total trades 12.00 
-2020-04-07T00:00:00, Ending Value 209766.8358450 (Profit Multiplier:  3) (MA Periods 28 20) Total trades 8.00 
-2020-04-07T00:00:00, Ending Value 214278.2565770 (Profit Multiplier:  4) (MA Periods 28 20) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 202643.8354638 (Profit Multiplier:  1) (MA Periods 29 20) Total trades 15.00 
-2020-04-07T00:00:00, Ending Value 207836.3870910 (Profit Multiplier:  2) (MA Periods 29 20) Total trades 12.00 
-2020-04-07T00:00:00, Ending Value 209746.2181342 (Profit Multiplier:  3) (MA Periods 29 20) Total trades 8.00 
-2020-04-07T00:00:00, Ending Value 214251.2205940 (Profit Multiplier:  4) (MA Periods 29 20) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 182116.9314655 (Profit Multiplier:  1) (MA Periods 15 21) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 188061.4050395 (Profit Multiplier:  2) (MA Periods 15 21) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 191633.8000118 (Profit Multiplier:  3) (MA Periods 15 21) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 197895.8689190 (Profit Multiplier:  4) (MA Periods 15 21) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 182116.9314655 (Profit Multiplier:  1) (MA Periods 16 21) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 188061.4050395 (Profit Multiplier:  2) (MA Periods 16 21) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 191633.8000118 (Profit Multiplier:  3) (MA Periods 16 21) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 197895.8689190 (Profit Multiplier:  4) (MA Periods 16 21) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 182116.9314655 (Profit Multiplier:  1) (MA Periods 17 21) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 188061.4050395 (Profit Multiplier:  2) (MA Periods 17 21) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 191633.8000118 (Profit Multiplier:  3) (MA Periods 17 21) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 197895.8689190 (Profit Multiplier:  4) (MA Periods 17 21) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 182718.6465405 (Profit Multiplier:  1) (MA Periods 18 21) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 189747.5662045 (Profit Multiplier:  2) (MA Periods 18 21) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 191633.8000118 (Profit Multiplier:  3) (MA Periods 18 21) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 197895.8689190 (Profit Multiplier:  4) (MA Periods 18 21) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 191819.2300780 (Profit Multiplier:  1) (MA Periods 19 21) Total trades 9.00 
-2020-04-07T00:00:00, Ending Value 200449.1484140 (Profit Multiplier:  2) (MA Periods 19 21) Total trades 9.00 
-2020-04-07T00:00:00, Ending Value 204645.3309760 (Profit Multiplier:  3) (MA Periods 19 21) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 202489.6948440 (Profit Multiplier:  4) (MA Periods 19 21) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 191084.6374335 (Profit Multiplier:  1) (MA Periods 20 21) Total trades 9.00 
-2020-04-07T00:00:00, Ending Value 200494.0996255 (Profit Multiplier:  2) (MA Periods 20 21) Total trades 9.00 
-2020-04-07T00:00:00, Ending Value 204691.1481110 (Profit Multiplier:  3) (MA Periods 20 21) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 202489.6948440 (Profit Multiplier:  4) (MA Periods 20 21) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 200000.0000000 (Profit Multiplier:  1) (MA Periods 21 21) Total trades 0.00 
-2020-04-07T00:00:00, Ending Value 200000.0000000 (Profit Multiplier:  2) (MA Periods 21 21) Total trades 0.00 
-2020-04-07T00:00:00, Ending Value 200000.0000000 (Profit Multiplier:  3) (MA Periods 21 21) Total trades 0.00 
-2020-04-07T00:00:00, Ending Value 200000.0000000 (Profit Multiplier:  4) (MA Periods 21 21) Total trades 0.00 
-2020-04-07T00:00:00, Ending Value 197272.4729315 (Profit Multiplier:  1) (MA Periods 22 21) Total trades 18.00 
-2020-04-07T00:00:00, Ending Value 207052.8123250 (Profit Multiplier:  2) (MA Periods 22 21) Total trades 13.00 
-2020-04-07T00:00:00, Ending Value 214495.0332053 (Profit Multiplier:  3) (MA Periods 22 21) Total trades 11.00 
-2020-04-07T00:00:00, Ending Value 222152.8611590 (Profit Multiplier:  4) (MA Periods 22 21) Total trades 10.00 
-2020-04-07T00:00:00, Ending Value 211740.0000997 (Profit Multiplier:  1) (MA Periods 23 21) Total trades 23.00 
-2020-04-07T00:00:00, Ending Value 213592.3210865 (Profit Multiplier:  2) (MA Periods 23 21) Total trades 14.00 
-2020-04-07T00:00:00, Ending Value 218153.3876615 (Profit Multiplier:  3) (MA Periods 23 21) Total trades 11.00 
-2020-04-07T00:00:00, Ending Value 225374.9579070 (Profit Multiplier:  4) (MA Periods 23 21) Total trades 10.00 
-2020-04-07T00:00:00, Ending Value 202175.0242182 (Profit Multiplier:  1) (MA Periods 24 21) Total trades 19.00 
-2020-04-07T00:00:00, Ending Value 220920.0132440 (Profit Multiplier:  2) (MA Periods 24 21) Total trades 16.00 
-2020-04-07T00:00:00, Ending Value 218146.8423565 (Profit Multiplier:  3) (MA Periods 24 21) Total trades 11.00 
-2020-04-07T00:00:00, Ending Value 225374.0414330 (Profit Multiplier:  4) (MA Periods 24 21) Total trades 10.00 
-2020-04-07T00:00:00, Ending Value 215794.9383280 (Profit Multiplier:  1) (MA Periods 25 21) Total trades 20.00 
-2020-04-07T00:00:00, Ending Value 233721.5505380 (Profit Multiplier:  2) (MA Periods 25 21) Total trades 17.00 
-2020-04-07T00:00:00, Ending Value 230368.6986850 (Profit Multiplier:  3) (MA Periods 25 21) Total trades 12.00 
-2020-04-07T00:00:00, Ending Value 240664.7339280 (Profit Multiplier:  4) (MA Periods 25 21) Total trades 12.00 
-2020-04-07T00:00:00, Ending Value 210144.5156995 (Profit Multiplier:  1) (MA Periods 26 21) Total trades 17.00 
-2020-04-07T00:00:00, Ending Value 212305.1609265 (Profit Multiplier:  2) (MA Periods 26 21) Total trades 12.00 
-2020-04-07T00:00:00, Ending Value 216089.1077717 (Profit Multiplier:  3) (MA Periods 26 21) Total trades 9.00 
-2020-04-07T00:00:00, Ending Value 220585.7286960 (Profit Multiplier:  4) (MA Periods 26 21) Total trades 8.00 
-2020-04-07T00:00:00, Ending Value 184716.1383875 (Profit Multiplier:  1) (MA Periods 27 21) Total trades 11.00 
-2020-04-07T00:00:00, Ending Value 193835.3783420 (Profit Multiplier:  2) (MA Periods 27 21) Total trades 10.00 
-2020-04-07T00:00:00, Ending Value 196494.6707700 (Profit Multiplier:  3) (MA Periods 27 21) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 199866.6372770 (Profit Multiplier:  4) (MA Periods 27 21) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 203417.4954385 (Profit Multiplier:  1) (MA Periods 28 21) Total trades 16.00 
-2020-04-07T00:00:00, Ending Value 218116.9177735 (Profit Multiplier:  2) (MA Periods 28 21) Total trades 15.00 
-2020-04-07T00:00:00, Ending Value 212718.1138695 (Profit Multiplier:  3) (MA Periods 28 21) Total trades 9.00 
-2020-04-07T00:00:00, Ending Value 204433.4272190 (Profit Multiplier:  4) (MA Periods 28 21) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 203597.6321452 (Profit Multiplier:  1) (MA Periods 29 21) Total trades 17.00 
-2020-04-07T00:00:00, Ending Value 205173.6362210 (Profit Multiplier:  2) (MA Periods 29 21) Total trades 11.00 
-2020-04-07T00:00:00, Ending Value 208935.8309235 (Profit Multiplier:  3) (MA Periods 29 21) Total trades 8.00 
-2020-04-07T00:00:00, Ending Value 213432.5821630 (Profit Multiplier:  4) (MA Periods 29 21) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 181594.3574655 (Profit Multiplier:  1) (MA Periods 15 22) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 186491.0570395 (Profit Multiplier:  2) (MA Periods 15 22) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 189015.6780117 (Profit Multiplier:  3) (MA Periods 15 22) Total trades 4.00 
-2020-04-07T00:00:00, Ending Value 194229.9729190 (Profit Multiplier:  4) (MA Periods 15 22) Total trades 4.00 
-2020-04-07T00:00:00, Ending Value 181594.3574655 (Profit Multiplier:  1) (MA Periods 16 22) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 186491.0570395 (Profit Multiplier:  2) (MA Periods 16 22) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 189015.6780117 (Profit Multiplier:  3) (MA Periods 16 22) Total trades 4.00 
-2020-04-07T00:00:00, Ending Value 194229.9729190 (Profit Multiplier:  4) (MA Periods 16 22) Total trades 4.00 
-2020-04-07T00:00:00, Ending Value 193022.5292562 (Profit Multiplier:  1) (MA Periods 17 22) Total trades 8.00 
-2020-04-07T00:00:00, Ending Value 196415.3018895 (Profit Multiplier:  2) (MA Periods 17 22) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 200125.2171992 (Profit Multiplier:  3) (MA Periods 17 22) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 198823.7988440 (Profit Multiplier:  4) (MA Periods 17 22) Total trades 4.00 
-2020-04-07T00:00:00, Ending Value 188806.4202780 (Profit Multiplier:  1) (MA Periods 18 22) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 194888.4141895 (Profit Multiplier:  2) (MA Periods 18 22) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 198598.3294992 (Profit Multiplier:  3) (MA Periods 18 22) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 198823.7988440 (Profit Multiplier:  4) (MA Periods 18 22) Total trades 4.00 
-2020-04-07T00:00:00, Ending Value 189425.0730530 (Profit Multiplier:  1) (MA Periods 19 22) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 195507.0669645 (Profit Multiplier:  2) (MA Periods 19 22) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 199216.9822742 (Profit Multiplier:  3) (MA Periods 19 22) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 198823.7988440 (Profit Multiplier:  4) (MA Periods 19 22) Total trades 4.00 
-2020-04-07T00:00:00, Ending Value 189991.1513385 (Profit Multiplier:  1) (MA Periods 20 22) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 197208.1464355 (Profit Multiplier:  2) (MA Periods 20 22) Total trades 7.00 
-2020-04-07T00:00:00, Ending Value 202053.0629308 (Profit Multiplier:  3) (MA Periods 20 22) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 207194.4837120 (Profit Multiplier:  4) (MA Periods 20 22) Total trades 5.00 
-2020-04-07T00:00:00, Ending Value 189933.8736830 (Profit Multiplier:  1) (MA Periods 21 22) Total trades 8.00 
-2020-04-07T00:00:00, Ending Value 198276.4399995 (Profit Multiplier:  2) (MA Periods 21 22) Total trades 8.00 
-2020-04-07T00:00:00, Ending Value 201425.5739940 (Profit Multiplier:  3) (MA Periods 21 22) Total trades 6.00 
-2020-04-07T00:00:00, Ending Value 208956.6281870 (Profit Multiplier:  4) (MA Periods 21 22) Total trades 6.00 
+2020-04-07T00:00:00,,Ending,Value,240664.733928,(Profit,Multiplier:,,4),(MA,Periods,25,21),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,240575.83595,(Profit,Multiplier:,,4),(MA,Periods,25,22),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,237159.463783,(Profit,Multiplier:,,4),(MA,Periods,25,20),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,233721.550538,(Profit,Multiplier:,,2),(MA,Periods,25,21),Total,trades,17
+2020-04-07T00:00:00,,Ending,Value,232964.2393828,(Profit,Multiplier:,,3),(MA,Periods,25,22),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,230368.698685,(Profit,Multiplier:,,3),(MA,Periods,25,21),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,228174.933033,(Profit,Multiplier:,,3),(MA,Periods,25,24),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,226510.806634,(Profit,Multiplier:,,4),(MA,Periods,25,24),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,226153.5649375,(Profit,Multiplier:,,3),(MA,Periods,25,20),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,225520.708785,(Profit,Multiplier:,,2),(MA,Periods,25,22),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,225374.957907,(Profit,Multiplier:,,4),(MA,Periods,23,21),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,225374.041433,(Profit,Multiplier:,,4),(MA,Periods,24,21),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,224361.245753,(Profit,Multiplier:,,4),(MA,Periods,24,22),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,222152.861159,(Profit,Multiplier:,,4),(MA,Periods,22,21),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,221774.131561,(Profit,Multiplier:,,4),(MA,Periods,24,20),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,221683.858872,(Profit,Multiplier:,,4),(MA,Periods,22,20),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,221557.9175532,(Profit,Multiplier:,,3),(MA,Periods,24,23),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,221507.5187047,(Profit,Multiplier:,,3),(MA,Periods,24,22),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,221198.128965,(Profit,Multiplier:,,4),(MA,Periods,21,20),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,220993.354798,(Profit,Multiplier:,,4),(MA,Periods,23,22),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,220987.487001,(Profit,Multiplier:,,4),(MA,Periods,26,20),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,220920.013244,(Profit,Multiplier:,,2),(MA,Periods,24,21),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,220686.9685458,(Profit,Multiplier:,,3),(MA,Periods,27,31),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,220585.728696,(Profit,Multiplier:,,4),(MA,Periods,26,21),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,220579.8579447,(Profit,Multiplier:,,3),(MA,Periods,22,20),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,220562.1058565,(Profit,Multiplier:,,2),(MA,Periods,25,20),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,220063.1697955,(Profit,Multiplier:,,2),(MA,Periods,25,24),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,220056.290332,(Profit,Multiplier:,,3),(MA,Periods,21,20),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,219722.32353,(Profit,Multiplier:,,4),(MA,Periods,25,26),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,219633.9425458,(Profit,Multiplier:,,3),(MA,Periods,27,32),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,219611.946185,(Profit,Multiplier:,,4),(MA,Periods,27,28),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,219609.4472178,(Profit,Multiplier:,,3),(MA,Periods,27,26),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,219524.418979,(Profit,Multiplier:,,4),(MA,Periods,24,23),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,219051.293872,(Profit,Multiplier:,,4),(MA,Periods,23,20),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,219040.984196,(Profit,Multiplier:,,4),(MA,Periods,26,27),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,218960.211062,(Profit,Multiplier:,,4),(MA,Periods,27,26),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,218807.728433,(Profit,Multiplier:,,4),(MA,Periods,21,28),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,218796.844976,(Profit,Multiplier:,,4),(MA,Periods,25,23),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,218727.422727,(Profit,Multiplier:,,4),(MA,Periods,23,29),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,218724.673305,(Profit,Multiplier:,,4),(MA,Periods,24,28),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,218722.38212,(Profit,Multiplier:,,4),(MA,Periods,24,26),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,218722.38212,(Profit,Multiplier:,,4),(MA,Periods,24,27),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,218557.634758,(Profit,Multiplier:,,4),(MA,Periods,21,26),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,218309.5279802,(Profit,Multiplier:,,3),(MA,Periods,28,26),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,218296.967494,(Profit,Multiplier:,,4),(MA,Periods,23,26),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,218237.11045,(Profit,Multiplier:,,4),(MA,Periods,23,27),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,218200.909727,(Profit,Multiplier:,,4),(MA,Periods,23,28),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,218153.3876615,(Profit,Multiplier:,,3),(MA,Periods,23,21),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,218146.8423565,(Profit,Multiplier:,,3),(MA,Periods,24,21),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,218116.9177735,(Profit,Multiplier:,,2),(MA,Periods,28,21),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,217890.574299,(Profit,Multiplier:,,4),(MA,Periods,26,25),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,217665.923938,(Profit,Multiplier:,,4),(MA,Periods,29,23),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,217659.050383,(Profit,Multiplier:,,4),(MA,Periods,28,24),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,217649.427406,(Profit,Multiplier:,,4),(MA,Periods,28,25),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,217643.928562,(Profit,Multiplier:,,4),(MA,Periods,28,26),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,217580.543487,(Profit,Multiplier:,,4),(MA,Periods,28,22),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,217574.586406,(Profit,Multiplier:,,4),(MA,Periods,28,23),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,217434.014,(Profit,Multiplier:,,3),(MA,Periods,23,22),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,217416.632506,(Profit,Multiplier:,,4),(MA,Periods,27,23),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,217377.224124,(Profit,Multiplier:,,4),(MA,Periods,27,25),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,217353.854037,(Profit,Multiplier:,,4),(MA,Periods,27,24),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,217257.5412197,(Profit,Multiplier:,,1),(MA,Periods,25,20),Total,trades,21
+2020-04-07T00:00:00,,Ending,Value,216869.1830645,(Profit,Multiplier:,,3),(MA,Periods,27,24),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,216725.608484,(Profit,Multiplier:,,3),(MA,Periods,26,34),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,216724.9539535,(Profit,Multiplier:,,3),(MA,Periods,27,34),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,216712.445659,(Profit,Multiplier:,,3),(MA,Periods,26,33),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,216711.7911285,(Profit,Multiplier:,,3),(MA,Periods,27,33),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,216482.3561955,(Profit,Multiplier:,,3),(MA,Periods,26,20),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,216448.5346285,(Profit,Multiplier:,,3),(MA,Periods,26,35),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,216448.5346285,(Profit,Multiplier:,,3),(MA,Periods,27,35),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,216391.7907075,(Profit,Multiplier:,,1),(MA,Periods,25,22),Total,trades,21
+2020-04-07T00:00:00,,Ending,Value,216360.867588,(Profit,Multiplier:,,4),(MA,Periods,24,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,216360.867588,(Profit,Multiplier:,,4),(MA,Periods,24,30),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,216360.409351,(Profit,Multiplier:,,4),(MA,Periods,25,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,216342.079871,(Profit,Multiplier:,,4),(MA,Periods,25,27),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,216337.497501,(Profit,Multiplier:,,4),(MA,Periods,25,28),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,216328.790998,(Profit,Multiplier:,,4),(MA,Periods,25,30),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,216089.1077717,(Profit,Multiplier:,,3),(MA,Periods,26,21),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,215996.6029828,(Profit,Multiplier:,,3),(MA,Periods,26,31),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,215794.938328,(Profit,Multiplier:,,1),(MA,Periods,25,21),Total,trades,20
+2020-04-07T00:00:00,,Ending,Value,215719.5507918,(Profit,Multiplier:,,3),(MA,Periods,29,23),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,215710.71463,(Profit,Multiplier:,,3),(MA,Periods,28,24),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,215685.5152058,(Profit,Multiplier:,,3),(MA,Periods,28,25),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,215643.613765,(Profit,Multiplier:,,4),(MA,Periods,27,31),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,215643.155528,(Profit,Multiplier:,,4),(MA,Periods,26,30),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,215643.155528,(Profit,Multiplier:,,4),(MA,Periods,26,31),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,215617.952493,(Profit,Multiplier:,,4),(MA,Periods,26,28),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,215614.286597,(Profit,Multiplier:,,4),(MA,Periods,27,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,215614.286597,(Profit,Multiplier:,,4),(MA,Periods,27,30),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,215613.370123,(Profit,Multiplier:,,4),(MA,Periods,26,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,215542.1382317,(Profit,Multiplier:,,3),(MA,Periods,24,20),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,215463.342804,(Profit,Multiplier:,,4),(MA,Periods,20,27),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,215318.5815997,(Profit,Multiplier:,,3),(MA,Periods,21,31),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,215314.4873375,(Profit,Multiplier:,,3),(MA,Periods,28,27),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,215172.145664,(Profit,Multiplier:,,4),(MA,Periods,18,26),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,215147.435004,(Profit,Multiplier:,,4),(MA,Periods,20,26),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,215147.349659,(Profit,Multiplier:,,3),(MA,Periods,26,32),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,215100.5891335,(Profit,Multiplier:,,3),(MA,Periods,27,38),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,215099.934603,(Profit,Multiplier:,,3),(MA,Periods,28,38),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,215099.7580045,(Profit,Multiplier:,,3),(MA,Periods,23,20),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,215098.2982767,(Profit,Multiplier:,,3),(MA,Periods,29,38),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,215082.7100125,(Profit,Multiplier:,,2),(MA,Periods,24,23),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,214689.438283,(Profit,Multiplier:,,4),(MA,Periods,21,31),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214684.855913,(Profit,Multiplier:,,4),(MA,Periods,22,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214684.855913,(Profit,Multiplier:,,4),(MA,Periods,22,30),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214684.397676,(Profit,Multiplier:,,4),(MA,Periods,22,31),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214666.526433,(Profit,Multiplier:,,4),(MA,Periods,21,30),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214661.485826,(Profit,Multiplier:,,4),(MA,Periods,21,32),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214653.6921863,(Profit,Multiplier:,,3),(MA,Periods,25,34),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214653.6662545,(Profit,Multiplier:,,2),(MA,Periods,21,20),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,214648.196953,(Profit,Multiplier:,,4),(MA,Periods,23,30),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214648.196953,(Profit,Multiplier:,,4),(MA,Periods,23,31),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214648.196953,(Profit,Multiplier:,,4),(MA,Periods,22,32),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214645.447531,(Profit,Multiplier:,,4),(MA,Periods,23,32),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214620.807773,(Profit,Multiplier:,,4),(MA,Periods,19,26),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214608.688783,(Profit,Multiplier:,,4),(MA,Periods,29,28),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,214590.587765,(Profit,Multiplier:,,4),(MA,Periods,27,32),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214504.8925223,(Profit,Multiplier:,,3),(MA,Periods,18,37),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214495.0332053,(Profit,Multiplier:,,3),(MA,Periods,22,21),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,214494.7719182,(Profit,Multiplier:,,3),(MA,Periods,28,39),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214493.135592,(Profit,Multiplier:,,3),(MA,Periods,29,39),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214491.0751668,(Profit,Multiplier:,,3),(MA,Periods,19,36),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214444.3596115,(Profit,Multiplier:,,3),(MA,Periods,28,23),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214377.2728613,(Profit,Multiplier:,,3),(MA,Periods,25,35),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214377.2728613,(Profit,Multiplier:,,3),(MA,Periods,25,36),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214376.6183308,(Profit,Multiplier:,,3),(MA,Periods,26,36),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214361.604504,(Profit,Multiplier:,,3),(MA,Periods,26,23),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214347.8593635,(Profit,Multiplier:,,3),(MA,Periods,26,24),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214332.295718,(Profit,Multiplier:,,2),(MA,Periods,27,26),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,214278.256577,(Profit,Multiplier:,,4),(MA,Periods,28,20),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214263.8244092,(Profit,Multiplier:,,3),(MA,Periods,27,23),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214251.220594,(Profit,Multiplier:,,4),(MA,Periods,29,20),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214237.6366243,(Profit,Multiplier:,,3),(MA,Periods,15,38),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214236.006863,(Profit,Multiplier:,,3),(MA,Periods,27,25),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214140.013433,(Profit,Multiplier:,,4),(MA,Periods,21,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214135.431063,(Profit,Multiplier:,,4),(MA,Periods,21,35),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,214113.3772585,(Profit,Multiplier:,,3),(MA,Periods,28,34),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214113.0499932,(Profit,Multiplier:,,3),(MA,Periods,28,33),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214074.784906,(Profit,Multiplier:,,3),(MA,Periods,29,26),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,214021.113405,(Profit,Multiplier:,,3),(MA,Periods,29,24),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,213945.735388,(Profit,Multiplier:,,4),(MA,Periods,28,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,213860.8482968,(Profit,Multiplier:,,3),(MA,Periods,28,36),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,213860.1937663,(Profit,Multiplier:,,3),(MA,Periods,29,34),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,213860.1937663,(Profit,Multiplier:,,3),(MA,Periods,29,35),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,213860.1937663,(Profit,Multiplier:,,3),(MA,Periods,29,36),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,213836.9579335,(Profit,Multiplier:,,3),(MA,Periods,28,35),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,213836.6306683,(Profit,Multiplier:,,3),(MA,Periods,27,36),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,213661.157081,(Profit,Multiplier:,,4),(MA,Periods,23,33),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,213641.785079,(Profit,Multiplier:,,4),(MA,Periods,22,34),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,213631.371676,(Profit,Multiplier:,,4),(MA,Periods,22,33),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,213621.622651,(Profit,Multiplier:,,4),(MA,Periods,21,34),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,213608.459826,(Profit,Multiplier:,,4),(MA,Periods,21,33),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,213592.3210865,(Profit,Multiplier:,,2),(MA,Periods,23,21),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,213570.3319473,(Profit,Multiplier:,,3),(MA,Periods,17,38),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,213508.632436,(Profit,Multiplier:,,2),(MA,Periods,24,22),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,213455.494013,(Profit,Multiplier:,,4),(MA,Periods,29,22),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,213432.582163,(Profit,Multiplier:,,4),(MA,Periods,29,21),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,213315.2239253,(Profit,Multiplier:,,3),(MA,Periods,17,33),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,213313.9148643,(Profit,Multiplier:,,3),(MA,Periods,18,35),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,213313.9148643,(Profit,Multiplier:,,3),(MA,Periods,17,36),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,213082.3059315,(Profit,Multiplier:,,3),(MA,Periods,25,31),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,213082.3059315,(Profit,Multiplier:,,3),(MA,Periods,25,32),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,213027.69104,(Profit,Multiplier:,,3),(MA,Periods,25,39),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,213022.1275308,(Profit,Multiplier:,,3),(MA,Periods,25,38),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,213022.1275308,(Profit,Multiplier:,,3),(MA,Periods,26,38),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,212883.0736093,(Profit,Multiplier:,,3),(MA,Periods,19,31),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,212867.3648773,(Profit,Multiplier:,,3),(MA,Periods,20,31),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,212866.7103468,(Profit,Multiplier:,,3),(MA,Periods,20,32),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,212718.1138695,(Profit,Multiplier:,,3),(MA,Periods,28,21),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,212700.0456765,(Profit,Multiplier:,,2),(MA,Periods,26,20),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,212630.1730685,(Profit,Multiplier:,,2),(MA,Periods,28,25),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,212543.9112663,(Profit,Multiplier:,,3),(MA,Periods,28,37),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,212543.9112663,(Profit,Multiplier:,,3),(MA,Periods,29,37),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,212533.905878,(Profit,Multiplier:,,2),(MA,Periods,28,26),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,212520.3481682,(Profit,Multiplier:,,3),(MA,Periods,27,37),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,212490.024105,(Profit,Multiplier:,,4),(MA,Periods,21,39),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,212489.5419058,(Profit,Multiplier:,,3),(MA,Periods,28,31),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,212481.317602,(Profit,Multiplier:,,4),(MA,Periods,21,38),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,212422.8556205,(Profit,Multiplier:,,3),(MA,Periods,26,39),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,212422.8556205,(Profit,Multiplier:,,3),(MA,Periods,27,39),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,212364.7921345,(Profit,Multiplier:,,3),(MA,Periods,22,36),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,212348.7561373,(Profit,Multiplier:,,3),(MA,Periods,22,37),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,212346.7925458,(Profit,Multiplier:,,3),(MA,Periods,22,38),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,212307.612954,(Profit,Multiplier:,,3),(MA,Periods,25,23),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,212305.1609265,(Profit,Multiplier:,,2),(MA,Periods,26,21),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,212286.3925762,(Profit,Multiplier:,,3),(MA,Periods,25,26),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,212260.8888643,(Profit,Multiplier:,,3),(MA,Periods,18,36),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,212260.2343338,(Profit,Multiplier:,,3),(MA,Periods,19,35),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,212241.775195,(Profit,Multiplier:,,4),(MA,Periods,24,31),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,212241.775195,(Profit,Multiplier:,,4),(MA,Periods,24,32),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,212221.2329818,(Profit,Multiplier:,,3),(MA,Periods,26,25),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,212090.9029605,(Profit,Multiplier:,,3),(MA,Periods,21,39),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,212084.6849207,(Profit,Multiplier:,,3),(MA,Periods,21,38),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,212027.31634,(Profit,Multiplier:,,3),(MA,Periods,25,33),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,212003.388228,(Profit,Multiplier:,,4),(MA,Periods,29,30),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,211997.6323643,(Profit,Multiplier:,,3),(MA,Periods,16,37),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,211997.6323643,(Profit,Multiplier:,,3),(MA,Periods,16,38),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,211997.6323643,(Profit,Multiplier:,,3),(MA,Periods,15,39),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,211990.98563,(Profit,Multiplier:,,4),(MA,Periods,24,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211988.4689373,(Profit,Multiplier:,,3),(MA,Periods,16,39),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,211898.2359665,(Profit,Multiplier:,,3),(MA,Periods,28,22),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,211859.949543,(Profit,Multiplier:,,4),(MA,Periods,15,33),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211859.949543,(Profit,Multiplier:,,4),(MA,Periods,16,33),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211853.075988,(Profit,Multiplier:,,4),(MA,Periods,15,34),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211853.075988,(Profit,Multiplier:,,4),(MA,Periods,16,34),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211853.075988,(Profit,Multiplier:,,4),(MA,Periods,15,35),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211853.075988,(Profit,Multiplier:,,4),(MA,Periods,16,35),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211837.49593,(Profit,Multiplier:,,4),(MA,Periods,16,32),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211826.040005,(Profit,Multiplier:,,4),(MA,Periods,17,32),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211820.082924,(Profit,Multiplier:,,4),(MA,Periods,16,31),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211820.082924,(Profit,Multiplier:,,4),(MA,Periods,17,31),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211820.082924,(Profit,Multiplier:,,4),(MA,Periods,18,31),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211820.082924,(Profit,Multiplier:,,4),(MA,Periods,18,32),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211820.082924,(Profit,Multiplier:,,4),(MA,Periods,18,33),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211813.209369,(Profit,Multiplier:,,4),(MA,Periods,19,32),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211808.21603,(Profit,Multiplier:,,4),(MA,Periods,21,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211808.21603,(Profit,Multiplier:,,4),(MA,Periods,22,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211791.67223,(Profit,Multiplier:,,4),(MA,Periods,19,33),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211777.008646,(Profit,Multiplier:,,4),(MA,Periods,18,30),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211769.0814085,(Profit,Multiplier:,,3),(MA,Periods,27,22),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,211768.76038,(Profit,Multiplier:,,4),(MA,Periods,17,30),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211755.56473,(Profit,Multiplier:,,4),(MA,Periods,21,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211744.04972,(Profit,Multiplier:,,2),(MA,Periods,26,25),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,211740.0000997,(Profit,Multiplier:,,1),(MA,Periods,23,21),Total,trades,23
+2020-04-07T00:00:00,,Ending,Value,211732.10142,(Profit,Multiplier:,,4),(MA,Periods,17,34),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211732.10142,(Profit,Multiplier:,,4),(MA,Periods,18,34),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211732.10142,(Profit,Multiplier:,,4),(MA,Periods,19,34),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211732.10142,(Profit,Multiplier:,,4),(MA,Periods,17,35),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211722.93668,(Profit,Multiplier:,,4),(MA,Periods,17,33),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211721.103732,(Profit,Multiplier:,,4),(MA,Periods,18,35),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211721.103732,(Profit,Multiplier:,,4),(MA,Periods,17,36),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211651.1316642,(Profit,Multiplier:,,1),(MA,Periods,21,20),Total,trades,25
+2020-04-07T00:00:00,,Ending,Value,211595.6580708,(Profit,Multiplier:,,1),(MA,Periods,25,24),Total,trades,25
+2020-04-07T00:00:00,,Ending,Value,211562.555043,(Profit,Multiplier:,,4),(MA,Periods,25,31),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211562.555043,(Profit,Multiplier:,,4),(MA,Periods,25,32),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211552.932066,(Profit,Multiplier:,,4),(MA,Periods,26,32),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211508.070795,(Profit,Multiplier:,,4),(MA,Periods,27,38),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211507.612558,(Profit,Multiplier:,,4),(MA,Periods,28,38),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211505.321373,(Profit,Multiplier:,,4),(MA,Periods,29,38),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211500.280766,(Profit,Multiplier:,,4),(MA,Periods,25,39),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211499.364292,(Profit,Multiplier:,,4),(MA,Periods,25,38),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211499.364292,(Profit,Multiplier:,,4),(MA,Periods,26,38),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211453.0629883,(Profit,Multiplier:,,3),(MA,Periods,29,27),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,211450.7721315,(Profit,Multiplier:,,3),(MA,Periods,29,25),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,211443.5887085,(Profit,Multiplier:,,2),(MA,Periods,27,31),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,211359.384049,(Profit,Multiplier:,,4),(MA,Periods,15,29),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211308.061505,(Profit,Multiplier:,,4),(MA,Periods,17,28),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211299.527005,(Profit,Multiplier:,,4),(MA,Periods,15,31),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211299.527005,(Profit,Multiplier:,,4),(MA,Periods,15,32),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211286.696369,(Profit,Multiplier:,,4),(MA,Periods,16,29),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211286.696369,(Profit,Multiplier:,,4),(MA,Periods,16,30),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211285.779895,(Profit,Multiplier:,,4),(MA,Periods,15,30),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211278.322055,(Profit,Multiplier:,,4),(MA,Periods,19,29),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211278.322055,(Profit,Multiplier:,,4),(MA,Periods,19,30),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211278.322055,(Profit,Multiplier:,,4),(MA,Periods,20,30),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211278.322055,(Profit,Multiplier:,,4),(MA,Periods,19,31),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211259.593423,(Profit,Multiplier:,,4),(MA,Periods,20,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211259.593423,(Profit,Multiplier:,,4),(MA,Periods,19,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211259.593423,(Profit,Multiplier:,,4),(MA,Periods,20,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211256.326679,(Profit,Multiplier:,,4),(MA,Periods,20,29),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211256.326679,(Profit,Multiplier:,,4),(MA,Periods,20,31),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211256.326679,(Profit,Multiplier:,,4),(MA,Periods,20,32),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211242.24738,(Profit,Multiplier:,,4),(MA,Periods,17,29),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211201.453783,(Profit,Multiplier:,,4),(MA,Periods,24,34),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211188.290958,(Profit,Multiplier:,,4),(MA,Periods,24,33),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,211036.602694,(Profit,Multiplier:,,4),(MA,Periods,16,28),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210972.697671,(Profit,Multiplier:,,3),(MA,Periods,18,38),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210933.0601705,(Profit,Multiplier:,,3),(MA,Periods,24,31),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210933.0601705,(Profit,Multiplier:,,3),(MA,Periods,24,32),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210922.285036,(Profit,Multiplier:,,4),(MA,Periods,24,35),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210922.285036,(Profit,Multiplier:,,4),(MA,Periods,24,36),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210902.580845,(Profit,Multiplier:,,4),(MA,Periods,26,39),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210902.580845,(Profit,Multiplier:,,4),(MA,Periods,27,39),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210902.122608,(Profit,Multiplier:,,4),(MA,Periods,28,39),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210899.831423,(Profit,Multiplier:,,4),(MA,Periods,29,39),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210892.957868,(Profit,Multiplier:,,4),(MA,Periods,23,38),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210867.6071205,(Profit,Multiplier:,,3),(MA,Periods,22,31),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210856.757145,(Profit,Multiplier:,,4),(MA,Periods,23,35),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210854.007723,(Profit,Multiplier:,,4),(MA,Periods,23,37),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210853.549486,(Profit,Multiplier:,,4),(MA,Periods,23,36),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210850.5893275,(Profit,Multiplier:,,3),(MA,Periods,21,32),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210841.7531658,(Profit,Multiplier:,,3),(MA,Periods,23,31),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210841.7531658,(Profit,Multiplier:,,3),(MA,Periods,22,32),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210839.7895742,(Profit,Multiplier:,,3),(MA,Periods,23,32),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210817.62318,(Profit,Multiplier:,,4),(MA,Periods,19,28),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210802.959596,(Profit,Multiplier:,,4),(MA,Periods,18,28),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210795.7600888,(Profit,Multiplier:,,1),(MA,Periods,28,39),Total,trades,22
+2020-04-07T00:00:00,,Ending,Value,210795.627804,(Profit,Multiplier:,,4),(MA,Periods,20,28),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210762.5549753,(Profit,Multiplier:,,3),(MA,Periods,15,33),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210762.5549753,(Profit,Multiplier:,,3),(MA,Periods,16,33),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210757.6459965,(Profit,Multiplier:,,3),(MA,Periods,15,34),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210757.6459965,(Profit,Multiplier:,,3),(MA,Periods,16,34),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210757.6459965,(Profit,Multiplier:,,3),(MA,Periods,15,35),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210757.6459965,(Profit,Multiplier:,,3),(MA,Periods,16,35),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210746.518978,(Profit,Multiplier:,,3),(MA,Periods,16,32),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210738.64623,(Profit,Multiplier:,,4),(MA,Periods,20,35),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210738.3373468,(Profit,Multiplier:,,3),(MA,Periods,17,32),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210737.145471,(Profit,Multiplier:,,4),(MA,Periods,18,29),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210734.0828985,(Profit,Multiplier:,,3),(MA,Periods,16,31),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210734.0828985,(Profit,Multiplier:,,3),(MA,Periods,18,33),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210729.1739198,(Profit,Multiplier:,,3),(MA,Periods,17,31),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210729.1739198,(Profit,Multiplier:,,3),(MA,Periods,18,31),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210729.1739198,(Profit,Multiplier:,,3),(MA,Periods,18,32),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210724.264941,(Profit,Multiplier:,,3),(MA,Periods,19,32),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210716.650854,(Profit,Multiplier:,,4),(MA,Periods,20,33),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210716.650854,(Profit,Multiplier:,,4),(MA,Periods,20,34),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210713.792453,(Profit,Multiplier:,,3),(MA,Periods,19,33),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210681.3498643,(Profit,Multiplier:,,3),(MA,Periods,17,37),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,210672.2064605,(Profit,Multiplier:,,2),(MA,Periods,26,31),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,210671.2479705,(Profit,Multiplier:,,3),(MA,Periods,17,34),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210671.2479705,(Profit,Multiplier:,,3),(MA,Periods,18,34),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210671.2479705,(Profit,Multiplier:,,3),(MA,Periods,19,34),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210671.2479705,(Profit,Multiplier:,,3),(MA,Periods,17,35),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210668.077732,(Profit,Multiplier:,,4),(MA,Periods,19,35),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210668.077732,(Profit,Multiplier:,,4),(MA,Periods,18,36),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210543.667043,(Profit,Multiplier:,,4),(MA,Periods,15,36),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210521.317157,(Profit,Multiplier:,,4),(MA,Periods,28,34),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210520.85892,(Profit,Multiplier:,,4),(MA,Periods,28,33),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210513.068891,(Profit,Multiplier:,,4),(MA,Periods,25,34),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210513.068891,(Profit,Multiplier:,,4),(MA,Periods,26,34),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210512.152417,(Profit,Multiplier:,,4),(MA,Periods,27,34),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210506.779621,(Profit,Multiplier:,,4),(MA,Periods,25,33),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210499.906066,(Profit,Multiplier:,,4),(MA,Periods,26,33),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210498.989592,(Profit,Multiplier:,,4),(MA,Periods,27,33),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210467.413255,(Profit,Multiplier:,,3),(MA,Periods,24,38),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210442.8683613,(Profit,Multiplier:,,3),(MA,Periods,25,37),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210442.2138308,(Profit,Multiplier:,,3),(MA,Periods,26,37),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210418.3234675,(Profit,Multiplier:,,3),(MA,Periods,24,39),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210415.81892,(Profit,Multiplier:,,4),(MA,Periods,15,37),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210404.821232,(Profit,Multiplier:,,4),(MA,Periods,16,37),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210404.821232,(Profit,Multiplier:,,4),(MA,Periods,16,38),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210404.821232,(Profit,Multiplier:,,4),(MA,Periods,15,39),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210391.990596,(Profit,Multiplier:,,4),(MA,Periods,16,39),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210349.8626628,(Profit,Multiplier:,,3),(MA,Periods,19,39),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210336.3594425,(Profit,Multiplier:,,2),(MA,Periods,23,31),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,210278.349133,(Profit,Multiplier:,,4),(MA,Periods,28,36),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210277.432659,(Profit,Multiplier:,,4),(MA,Periods,29,34),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210277.432659,(Profit,Multiplier:,,4),(MA,Periods,29,35),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210277.432659,(Profit,Multiplier:,,4),(MA,Periods,29,36),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210244.897832,(Profit,Multiplier:,,4),(MA,Periods,28,35),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210244.439595,(Profit,Multiplier:,,4),(MA,Periods,27,36),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210236.649566,(Profit,Multiplier:,,4),(MA,Periods,25,35),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210236.649566,(Profit,Multiplier:,,4),(MA,Periods,25,36),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210235.733092,(Profit,Multiplier:,,4),(MA,Periods,26,35),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210235.733092,(Profit,Multiplier:,,4),(MA,Periods,27,35),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210235.733092,(Profit,Multiplier:,,4),(MA,Periods,26,36),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210220.873871,(Profit,Multiplier:,,4),(MA,Periods,18,37),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210211.8243468,(Profit,Multiplier:,,3),(MA,Periods,15,31),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210211.8243468,(Profit,Multiplier:,,3),(MA,Periods,15,32),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,210207.711046,(Profit,Multiplier:,,4),(MA,Periods,19,36),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,210189.2614265,(Profit,Multiplier:,,2),(MA,Periods,28,27),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,210158.4233237,(Profit,Multiplier:,,3),(MA,Periods,27,28),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,210144.5156995,(Profit,Multiplier:,,1),(MA,Periods,26,21),Total,trades,17
+2020-04-07T00:00:00,,Ending,Value,210100.991719,(Profit,Multiplier:,,4),(MA,Periods,22,23),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,209985.485796,(Profit,Multiplier:,,3),(MA,Periods,19,37),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209977.9586953,(Profit,Multiplier:,,3),(MA,Periods,20,37),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209976.4986393,(Profit,Multiplier:,,1),(MA,Periods,27,39),Total,trades,20
+2020-04-07T00:00:00,,Ending,Value,209957.285182,(Profit,Multiplier:,,4),(MA,Periods,15,38),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,209938.1738105,(Profit,Multiplier:,,3),(MA,Periods,24,26),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,209921.4832828,(Profit,Multiplier:,,3),(MA,Periods,27,30),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,209912.3198557,(Profit,Multiplier:,,3),(MA,Periods,24,27),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,209912.0007968,(Profit,Multiplier:,,3),(MA,Periods,29,32),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,209911.3938625,(Profit,Multiplier:,,2),(MA,Periods,29,26),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,209899.165237,(Profit,Multiplier:,,3),(MA,Periods,29,31),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,209898.1834413,(Profit,Multiplier:,,3),(MA,Periods,29,33),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,209894.1371035,(Profit,Multiplier:,,2),(MA,Periods,27,25),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,209892.8697302,(Profit,Multiplier:,,3),(MA,Periods,24,34),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209887.7831682,(Profit,Multiplier:,,3),(MA,Periods,28,32),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,209879.7069053,(Profit,Multiplier:,,3),(MA,Periods,24,33),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209835.8533617,(Profit,Multiplier:,,3),(MA,Periods,23,33),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209825.780354,(Profit,Multiplier:,,3),(MA,Periods,22,34),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209816.616927,(Profit,Multiplier:,,3),(MA,Periods,21,35),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209814.5811205,(Profit,Multiplier:,,3),(MA,Periods,22,33),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209811.380683,(Profit,Multiplier:,,3),(MA,Periods,21,34),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209800.908195,(Profit,Multiplier:,,3),(MA,Periods,21,36),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209799.9263992,(Profit,Multiplier:,,3),(MA,Periods,23,34),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209797.5633275,(Profit,Multiplier:,,3),(MA,Periods,21,33),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209796.619937,(Profit,Multiplier:,,4),(MA,Periods,19,39),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,209767.174599,(Profit,Multiplier:,,2),(MA,Periods,24,27),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,209766.835845,(Profit,Multiplier:,,3),(MA,Periods,28,20),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,209746.2181342,(Profit,Multiplier:,,3),(MA,Periods,29,20),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,209701.5393703,(Profit,Multiplier:,,3),(MA,Periods,20,38),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209700.8848398,(Profit,Multiplier:,,3),(MA,Periods,19,38),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209692.3759433,(Profit,Multiplier:,,3),(MA,Periods,20,39),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209660.1119225,(Profit,Multiplier:,,3),(MA,Periods,20,35),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209644.4031905,(Profit,Multiplier:,,3),(MA,Periods,20,34),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209639.4942118,(Profit,Multiplier:,,3),(MA,Periods,20,33),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209614.4868138,(Profit,Multiplier:,,3),(MA,Periods,24,35),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209614.4868138,(Profit,Multiplier:,,3),(MA,Periods,24,36),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209600.1655945,(Profit,Multiplier:,,3),(MA,Periods,26,27),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,209599.128981,(Profit,Multiplier:,,4),(MA,Periods,24,37),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,209598.1235513,(Profit,Multiplier:,,3),(MA,Periods,23,38),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209577.133605,(Profit,Multiplier:,,4),(MA,Periods,23,39),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,209570.306005,(Profit,Multiplier:,,3),(MA,Periods,23,37),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209567.687883,(Profit,Multiplier:,,3),(MA,Periods,23,35),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209565.3970262,(Profit,Multiplier:,,3),(MA,Periods,23,36),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209549.361029,(Profit,Multiplier:,,3),(MA,Periods,22,35),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209534.3068275,(Profit,Multiplier:,,3),(MA,Periods,22,39),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209522.8525438,(Profit,Multiplier:,,3),(MA,Periods,21,37),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209510.79428,(Profit,Multiplier:,,1),(MA,Periods,26,20),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,209446.2724753,(Profit,Multiplier:,,3),(MA,Periods,15,36),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209432.181031,(Profit,Multiplier:,,2),(MA,Periods,23,22),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,209377.7026915,(Profit,Multiplier:,,2),(MA,Periods,29,23),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,209372.402767,(Profit,Multiplier:,,2),(MA,Periods,28,24),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,209370.996544,(Profit,Multiplier:,,2),(MA,Periods,22,20),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,209362.1502065,(Profit,Multiplier:,,2),(MA,Periods,27,32),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,209354.9654705,(Profit,Multiplier:,,3),(MA,Periods,15,37),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209347.401934,(Profit,Multiplier:,,2),(MA,Periods,26,29),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,209286.313296,(Profit,Multiplier:,,4),(MA,Periods,17,38),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,209219.355548,(Profit,Multiplier:,,4),(MA,Periods,20,23),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,209219.355548,(Profit,Multiplier:,,4),(MA,Periods,19,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,209178.44772,(Profit,Multiplier:,,4),(MA,Periods,23,34),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,209172.948876,(Profit,Multiplier:,,4),(MA,Periods,21,36),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,209138.478687,(Profit,Multiplier:,,4),(MA,Periods,20,39),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,209099.53642,(Profit,Multiplier:,,4),(MA,Periods,16,36),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,209088.538732,(Profit,Multiplier:,,4),(MA,Periods,17,37),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,209051.5797515,(Profit,Multiplier:,,3),(MA,Periods,17,39),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,209042.7435898,(Profit,Multiplier:,,3),(MA,Periods,18,39),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,208993.049494,(Profit,Multiplier:,,1),(MA,Periods,27,38),Total,trades,21
+2020-04-07T00:00:00,,Ending,Value,208961.3572848,(Profit,Multiplier:,,3),(MA,Periods,29,28),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,208961.150159,(Profit,Multiplier:,,4),(MA,Periods,28,37),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,208961.150159,(Profit,Multiplier:,,4),(MA,Periods,29,37),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,208956.628187,(Profit,Multiplier:,,4),(MA,Periods,21,22),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,208952.194186,(Profit,Multiplier:,,3),(MA,Periods,29,22),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,208947.861286,(Profit,Multiplier:,,4),(MA,Periods,24,38),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,208940.97854,(Profit,Multiplier:,,4),(MA,Periods,22,36),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,208938.229118,(Profit,Multiplier:,,4),(MA,Periods,22,35),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,208935.8309235,(Profit,Multiplier:,,3),(MA,Periods,29,21),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,208928.157095,(Profit,Multiplier:,,4),(MA,Periods,27,37),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,208920.367066,(Profit,Multiplier:,,4),(MA,Periods,25,37),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,208919.450592,(Profit,Multiplier:,,4),(MA,Periods,26,37),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,208918.524927,(Profit,Multiplier:,,4),(MA,Periods,22,37),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,208915.775505,(Profit,Multiplier:,,4),(MA,Periods,22,38),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,208910.734898,(Profit,Multiplier:,,4),(MA,Periods,22,39),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,208894.238366,(Profit,Multiplier:,,4),(MA,Periods,21,37),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,208879.583973,(Profit,Multiplier:,,4),(MA,Periods,24,39),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,208808.437755,(Profit,Multiplier:,,2),(MA,Periods,21,36),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,208706.005373,(Profit,Multiplier:,,4),(MA,Periods,21,23),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,208680.416316,(Profit,Multiplier:,,2),(MA,Periods,17,33),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,208670.994228,(Profit,Multiplier:,,2),(MA,Periods,17,34),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,208670.994228,(Profit,Multiplier:,,2),(MA,Periods,17,35),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,208666.283184,(Profit,Multiplier:,,2),(MA,Periods,17,36),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,208661.387007,(Profit,Multiplier:,,2),(MA,Periods,22,32),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,208657.853724,(Profit,Multiplier:,,2),(MA,Periods,23,32),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,208622.401411,(Profit,Multiplier:,,2),(MA,Periods,15,38),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,208531.9025577,(Profit,Multiplier:,,3),(MA,Periods,21,28),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,208525.344451,(Profit,Multiplier:,,2),(MA,Periods,21,37),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,208329.274161,(Profit,Multiplier:,,2),(MA,Periods,26,23),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,208321.029834,(Profit,Multiplier:,,2),(MA,Periods,26,24),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,208309.852265,(Profit,Multiplier:,,2),(MA,Periods,27,24),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,208293.295335,(Profit,Multiplier:,,3),(MA,Periods,24,37),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,208282.1683165,(Profit,Multiplier:,,3),(MA,Periods,23,39),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,208281.8088827,(Profit,Multiplier:,,3),(MA,Periods,21,26),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,208257.7346995,(Profit,Multiplier:,,2),(MA,Periods,28,38),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,208231.64342,(Profit,Multiplier:,,1),(MA,Periods,28,38),Total,trades,19
+2020-04-07T00:00:00,,Ending,Value,208226.7098225,(Profit,Multiplier:,,2),(MA,Periods,22,36),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,208219.446963,(Profit,Multiplier:,,2),(MA,Periods,22,37),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,208218.4654955,(Profit,Multiplier:,,2),(MA,Periods,22,38),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,208189.367446,(Profit,Multiplier:,,2),(MA,Periods,24,26),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,208176.8105705,(Profit,Multiplier:,,2),(MA,Periods,29,25),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,208142.207112,(Profit,Multiplier:,,4),(MA,Periods,18,25),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,208108.025783,(Profit,Multiplier:,,4),(MA,Periods,22,27),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,208103.443413,(Profit,Multiplier:,,4),(MA,Periods,22,28),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,208085.113933,(Profit,Multiplier:,,4),(MA,Periods,22,26),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,208085.113933,(Profit,Multiplier:,,4),(MA,Periods,21,27),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,208063.3201025,(Profit,Multiplier:,,2),(MA,Periods,18,37),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,208062.5152335,(Profit,Multiplier:,,2),(MA,Periods,20,31),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,208062.1226465,(Profit,Multiplier:,,2),(MA,Periods,20,32),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,208057.8041895,(Profit,Multiplier:,,2),(MA,Periods,18,38),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,208048.783223,(Profit,Multiplier:,,2),(MA,Periods,19,36),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,208038.6829705,(Profit,Multiplier:,,3),(MA,Periods,16,36),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,208033.660089,(Profit,Multiplier:,,2),(MA,Periods,18,34),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,208032.874915,(Profit,Multiplier:,,2),(MA,Periods,19,34),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,208016.5825545,(Profit,Multiplier:,,2),(MA,Periods,18,35),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,207955.2496985,(Profit,Multiplier:,,2),(MA,Periods,25,26),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,207896.791656,(Profit,Multiplier:,,2),(MA,Periods,26,28),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,207836.387091,(Profit,Multiplier:,,2),(MA,Periods,29,20),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,207827.6851835,(Profit,Multiplier:,,2),(MA,Periods,29,38),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207818.693103,(Profit,Multiplier:,,2),(MA,Periods,28,20),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,207812.0706593,(Profit,Multiplier:,,1),(MA,Periods,29,39),Total,trades,19
+2020-04-07T00:00:00,,Ending,Value,207769.430656,(Profit,Multiplier:,,2),(MA,Periods,16,39),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207681.447839,(Profit,Multiplier:,,2),(MA,Periods,19,39),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207625.644026,(Profit,Multiplier:,,2),(MA,Periods,24,20),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,207623.5898375,(Profit,Multiplier:,,2),(MA,Periods,28,34),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207623.393544,(Profit,Multiplier:,,2),(MA,Periods,28,33),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207580.734174,(Profit,Multiplier:,,2),(MA,Periods,29,28),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,207465.391063,(Profit,Multiplier:,,4),(MA,Periods,15,27),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,207414.7269885,(Profit,Multiplier:,,2),(MA,Periods,24,32),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207412.739763,(Profit,Multiplier:,,4),(MA,Periods,15,28),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,207405.866208,(Profit,Multiplier:,,4),(MA,Periods,16,27),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,207394.5268118,(Profit,Multiplier:,,3),(MA,Periods,20,36),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,207379.5792915,(Profit,Multiplier:,,2),(MA,Periods,25,31),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207366.523476,(Profit,Multiplier:,,3),(MA,Periods,24,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,207366.523476,(Profit,Multiplier:,,3),(MA,Periods,24,30),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,207366.1962108,(Profit,Multiplier:,,3),(MA,Periods,25,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,207353.1056008,(Profit,Multiplier:,,3),(MA,Periods,25,27),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,207349.8329483,(Profit,Multiplier:,,3),(MA,Periods,25,28),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,207347.1705125,(Profit,Multiplier:,,2),(MA,Periods,28,35),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207343.6149085,(Profit,Multiplier:,,3),(MA,Periods,25,30),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,207343.2446425,(Profit,Multiplier:,,2),(MA,Periods,26,35),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207330.8906255,(Profit,Multiplier:,,2),(MA,Periods,20,27),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,207323.9789935,(Profit,Multiplier:,,3),(MA,Periods,26,30),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,207310.1294695,(Profit,Multiplier:,,2),(MA,Periods,19,37),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207305.9794048,(Profit,Multiplier:,,3),(MA,Periods,26,28),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,207304.6332515,(Profit,Multiplier:,,2),(MA,Periods,20,37),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207303.3612828,(Profit,Multiplier:,,3),(MA,Periods,27,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,207302.7067523,(Profit,Multiplier:,,3),(MA,Periods,26,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,207299.3221665,(Profit,Multiplier:,,2),(MA,Periods,20,34),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207296.377764,(Profit,Multiplier:,,2),(MA,Periods,20,33),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207290.9252032,(Profit,Multiplier:,,3),(MA,Periods,23,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,207288.9616117,(Profit,Multiplier:,,3),(MA,Periods,24,28),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,207277.741042,(Profit,Multiplier:,,2),(MA,Periods,23,34),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207270.5517105,(Profit,Multiplier:,,2),(MA,Periods,16,32),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207263.8777315,(Profit,Multiplier:,,2),(MA,Periods,16,31),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207261.2412275,(Profit,Multiplier:,,2),(MA,Periods,19,35),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207250.837672,(Profit,Multiplier:,,2),(MA,Periods,18,36),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207244.837262,(Profit,Multiplier:,,2),(MA,Periods,15,33),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207194.483712,(Profit,Multiplier:,,4),(MA,Periods,20,22),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,207142.8493305,(Profit,Multiplier:,,2),(MA,Periods,23,37),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207142.26045,(Profit,Multiplier:,,2),(MA,Periods,17,32),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207137.156819,(Profit,Multiplier:,,2),(MA,Periods,17,31),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207135.979058,(Profit,Multiplier:,,2),(MA,Periods,18,31),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207135.979058,(Profit,Multiplier:,,2),(MA,Periods,18,32),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207134.801297,(Profit,Multiplier:,,2),(MA,Periods,16,33),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207134.6050035,(Profit,Multiplier:,,2),(MA,Periods,15,35),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207132.445775,(Profit,Multiplier:,,2),(MA,Periods,19,31),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207131.8568945,(Profit,Multiplier:,,2),(MA,Periods,16,34),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207131.660601,(Profit,Multiplier:,,2),(MA,Periods,16,35),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207119.141146,(Profit,Multiplier:,,2),(MA,Periods,17,38),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207110.2646095,(Profit,Multiplier:,,2),(MA,Periods,15,34),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207091.222827,(Profit,Multiplier:,,2),(MA,Periods,29,34),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207090.2413595,(Profit,Multiplier:,,2),(MA,Periods,29,35),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207090.2413595,(Profit,Multiplier:,,2),(MA,Periods,29,36),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207085.666211,(Profit,Multiplier:,,1),(MA,Periods,24,22),Total,trades,19
+2020-04-07T00:00:00,,Ending,Value,207080.624291,(Profit,Multiplier:,,2),(MA,Periods,26,30),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,207052.812325,(Profit,Multiplier:,,2),(MA,Periods,22,21),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207028.802807,(Profit,Multiplier:,,2),(MA,Periods,19,38),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207028.2139265,(Profit,Multiplier:,,2),(MA,Periods,20,38),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207023.699176,(Profit,Multiplier:,,2),(MA,Periods,20,39),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,207014.9828255,(Profit,Multiplier:,,2),(MA,Periods,20,26),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,206984.440476,(Profit,Multiplier:,,2),(MA,Periods,15,37),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206978.7479645,(Profit,Multiplier:,,2),(MA,Periods,15,39),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206976.7850295,(Profit,Multiplier:,,2),(MA,Periods,16,37),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206976.7850295,(Profit,Multiplier:,,2),(MA,Periods,16,38),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206951.3535325,(Profit,Multiplier:,,1),(MA,Periods,24,23),Total,trades,20
+2020-04-07T00:00:00,,Ending,Value,206937.5263295,(Profit,Multiplier:,,2),(MA,Periods,21,39),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206934.1650495,(Profit,Multiplier:,,2),(MA,Periods,28,22),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206933.796753,(Profit,Multiplier:,,2),(MA,Periods,21,38),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206924.4787203,(Profit,Multiplier:,,3),(MA,Periods,22,27),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,206918.657863,(Profit,Multiplier:,,2),(MA,Periods,28,23),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206908.1154578,(Profit,Multiplier:,,3),(MA,Periods,22,26),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,206908.1154578,(Profit,Multiplier:,,3),(MA,Periods,21,27),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,206862.5422125,(Profit,Multiplier:,,2),(MA,Periods,28,36),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206855.3919427,(Profit,Multiplier:,,3),(MA,Periods,22,28),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,206851.8258347,(Profit,Multiplier:,,3),(MA,Periods,23,26),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,206793.4849775,(Profit,Multiplier:,,2),(MA,Periods,27,22),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206790.266158,(Profit,Multiplier:,,3),(MA,Periods,23,27),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,206764.4122032,(Profit,Multiplier:,,3),(MA,Periods,23,28),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,206756.574578,(Profit,Multiplier:,,2),(MA,Periods,24,31),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206747.1597115,(Profit,Multiplier:,,2),(MA,Periods,27,23),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206730.767563,(Profit,Multiplier:,,2),(MA,Periods,27,38),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206715.134985,(Profit,Multiplier:,,4),(MA,Periods,18,38),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,206714.731894,(Profit,Multiplier:,,2),(MA,Periods,29,27),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206552.4037345,(Profit,Multiplier:,,2),(MA,Periods,25,27),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,206523.543338,(Profit,Multiplier:,,2),(MA,Periods,25,23),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206501.4015625,(Profit,Multiplier:,,2),(MA,Periods,20,35),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206495.8147475,(Profit,Multiplier:,,2),(MA,Periods,27,30),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,206490.958617,(Profit,Multiplier:,,2),(MA,Periods,29,24),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206480.978504,(Profit,Multiplier:,,2),(MA,Periods,18,33),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206476.660047,(Profit,Multiplier:,,2),(MA,Periods,19,32),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206469.3971875,(Profit,Multiplier:,,2),(MA,Periods,19,33),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206451.9356005,(Profit,Multiplier:,,2),(MA,Periods,23,33),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206447.4320105,(Profit,Multiplier:,,2),(MA,Periods,22,34),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206438.7950965,(Profit,Multiplier:,,2),(MA,Periods,21,34),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206436.4395745,(Profit,Multiplier:,,2),(MA,Periods,21,35),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206407.957322,(Profit,Multiplier:,,2),(MA,Periods,21,31),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206404.4417645,(Profit,Multiplier:,,1),(MA,Periods,28,22),Total,trades,17
+2020-04-07T00:00:00,,Ending,Value,206404.031452,(Profit,Multiplier:,,2),(MA,Periods,22,31),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206393.82419,(Profit,Multiplier:,,2),(MA,Periods,21,32),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206377.322406,(Profit,Multiplier:,,2),(MA,Periods,25,34),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206363.987578,(Profit,Multiplier:,,2),(MA,Periods,18,39),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206359.669121,(Profit,Multiplier:,,2),(MA,Periods,17,39),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206329.501633,(Profit,Multiplier:,,4),(MA,Periods,29,32),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,206316.338808,(Profit,Multiplier:,,4),(MA,Periods,29,31),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,206315.422334,(Profit,Multiplier:,,4),(MA,Periods,29,33),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,206314.914203,(Profit,Multiplier:,,2),(MA,Periods,26,32),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,206295.592095,(Profit,Multiplier:,,4),(MA,Periods,28,32),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,206272.680245,(Profit,Multiplier:,,4),(MA,Periods,28,30),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,206272.680245,(Profit,Multiplier:,,4),(MA,Periods,28,31),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,206207.1989655,(Profit,Multiplier:,,2),(MA,Periods,15,31),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206200.328693,(Profit,Multiplier:,,2),(MA,Periods,15,32),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206162.2086923,(Profit,Multiplier:,,3),(MA,Periods,20,27),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,206151.4502985,(Profit,Multiplier:,,2),(MA,Periods,26,27),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,206138.972203,(Profit,Multiplier:,,2),(MA,Periods,29,39),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206137.244295,(Profit,Multiplier:,,2),(MA,Periods,28,29),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,206100.903081,(Profit,Multiplier:,,2),(MA,Periods,25,35),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206092.696831,(Profit,Multiplier:,,2),(MA,Periods,26,34),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206092.304244,(Profit,Multiplier:,,2),(MA,Periods,27,34),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206079.534006,(Profit,Multiplier:,,2),(MA,Periods,26,33),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,206079.141419,(Profit,Multiplier:,,2),(MA,Periods,27,33),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,205985.9151365,(Profit,Multiplier:,,2),(MA,Periods,23,20),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,205910.880469,(Profit,Multiplier:,,2),(MA,Periods,28,39),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,205891.8111135,(Profit,Multiplier:,,2),(MA,Periods,23,26),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,205846.3008923,(Profit,Multiplier:,,3),(MA,Periods,20,26),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,205833.739093,(Profit,Multiplier:,,2),(MA,Periods,27,28),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,205819.6144955,(Profit,Multiplier:,,2),(MA,Periods,27,36),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,205815.884919,(Profit,Multiplier:,,2),(MA,Periods,27,35),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,205811.322244,(Profit,Multiplier:,,4),(MA,Periods,20,36),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,205773.9588595,(Profit,Multiplier:,,2),(MA,Periods,29,37),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,205760.1959935,(Profit,Multiplier:,,2),(MA,Periods,20,36),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,205727.92311,(Profit,Multiplier:,,4),(MA,Periods,19,37),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,205716.467185,(Profit,Multiplier:,,4),(MA,Periods,20,37),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,205665.2135735,(Profit,Multiplier:,,2),(MA,Periods,16,36),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,205661.876584,(Profit,Multiplier:,,2),(MA,Periods,17,37),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,205637.305102,(Profit,Multiplier:,,2),(MA,Periods,22,33),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,205627.09784,(Profit,Multiplier:,,2),(MA,Periods,21,33),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,205622.629701,(Profit,Multiplier:,,3),(MA,Periods,28,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,205612.5452045,(Profit,Multiplier:,,2),(MA,Periods,23,36),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,205611.563737,(Profit,Multiplier:,,2),(MA,Periods,23,35),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,205607.648371,(Profit,Multiplier:,,2),(MA,Periods,25,32),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,205545.8671255,(Profit,Multiplier:,,2),(MA,Periods,28,37),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,205453.512675,(Profit,Multiplier:,,2),(MA,Periods,24,30),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,205449.425306,(Profit,Multiplier:,,2),(MA,Periods,15,36),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,205440.04786,(Profit,Multiplier:,,4),(MA,Periods,19,38),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,205440.04786,(Profit,Multiplier:,,4),(MA,Periods,20,38),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,205411.5406605,(Profit,Multiplier:,,2),(MA,Periods,22,35),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,205405.062975,(Profit,Multiplier:,,2),(MA,Periods,22,39),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,205357.7217752,(Profit,Multiplier:,,1),(MA,Periods,29,22),Total,trades,17
+2020-04-07T00:00:00,,Ending,Value,205355.71387,(Profit,Multiplier:,,2),(MA,Periods,21,26),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,205355.050805,(Profit,Multiplier:,,4),(MA,Periods,19,27),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,205173.636221,(Profit,Multiplier:,,2),(MA,Periods,29,21),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,205153.586711,(Profit,Multiplier:,,2),(MA,Periods,29,22),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,205137.1275995,(Profit,Multiplier:,,2),(MA,Periods,24,28),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,205125.731416,(Profit,Multiplier:,,2),(MA,Periods,23,29),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,204842.466109,(Profit,Multiplier:,,2),(MA,Periods,25,39),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,204839.74426,(Profit,Multiplier:,,2),(MA,Periods,25,33),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,204839.1291195,(Profit,Multiplier:,,2),(MA,Periods,26,38),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,204825.9662945,(Profit,Multiplier:,,2),(MA,Periods,25,38),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,204793.362535,(Profit,Multiplier:,,4),(MA,Periods,17,39),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,204781.90661,(Profit,Multiplier:,,4),(MA,Periods,18,39),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,204691.148111,(Profit,Multiplier:,,3),(MA,Periods,20,21),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,204645.330976,(Profit,Multiplier:,,3),(MA,Periods,19,21),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,204638.7229753,(Profit,Multiplier:,,3),(MA,Periods,23,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,204573.5433575,(Profit,Multiplier:,,2),(MA,Periods,25,36),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,204573.1507705,(Profit,Multiplier:,,2),(MA,Periods,26,36),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,204523.085424,(Profit,Multiplier:,,2),(MA,Periods,25,30),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,204484.2921825,(Profit,Multiplier:,,3),(MA,Periods,24,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,204433.427219,(Profit,Multiplier:,,4),(MA,Periods,28,21),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,204433.427219,(Profit,Multiplier:,,4),(MA,Periods,27,22),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,204403.7911677,(Profit,Multiplier:,,3),(MA,Periods,22,29),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,204403.7911677,(Profit,Multiplier:,,3),(MA,Periods,22,30),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,204390.7005578,(Profit,Multiplier:,,3),(MA,Periods,21,30),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,204377.6099477,(Profit,Multiplier:,,3),(MA,Periods,23,30),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,204364.691669,(Profit,Multiplier:,,4),(MA,Periods,26,23),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,204364.691669,(Profit,Multiplier:,,4),(MA,Periods,26,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,204356.7693553,(Profit,Multiplier:,,1),(MA,Periods,28,25),Total,trades,18
+2020-04-07T00:00:00,,Ending,Value,204337.5591805,(Profit,Multiplier:,,2),(MA,Periods,22,26),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,204321.7572255,(Profit,Multiplier:,,2),(MA,Periods,24,34),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,204308.5944005,(Profit,Multiplier:,,2),(MA,Periods,24,33),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,204259.163233,(Profit,Multiplier:,,2),(MA,Periods,24,39),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,204238.571454,(Profit,Multiplier:,,2),(MA,Periods,23,27),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,204184.642605,(Profit,Multiplier:,,2),(MA,Periods,21,28),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,204178.2607685,(Profit,Multiplier:,,3),(MA,Periods,18,26),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,204178.141942,(Profit,Multiplier:,,2),(MA,Periods,18,26),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,204156.0451368,(Profit,Multiplier:,,3),(MA,Periods,19,27),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,204136.0819565,(Profit,Multiplier:,,3),(MA,Periods,19,26),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,204112.4413915,(Profit,Multiplier:,,2),(MA,Periods,27,29),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,204044.1601395,(Profit,Multiplier:,,2),(MA,Periods,24,35),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,204044.1601395,(Profit,Multiplier:,,2),(MA,Periods,24,36),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,204032.97141,(Profit,Multiplier:,,2),(MA,Periods,23,38),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,203971.9858425,(Profit,Multiplier:,,2),(MA,Periods,27,37),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,203864.1875577,(Profit,Multiplier:,,3),(MA,Periods,21,29),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,203780.1496493,(Profit,Multiplier:,,1),(MA,Periods,28,24),Total,trades,18
+2020-04-07T00:00:00,,Ending,Value,203772.994784,(Profit,Multiplier:,,4),(MA,Periods,28,27),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,203772.994784,(Profit,Multiplier:,,4),(MA,Periods,29,27),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,203762.455333,(Profit,Multiplier:,,4),(MA,Periods,29,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,203753.7911743,(Profit,Multiplier:,,3),(MA,Periods,22,23),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,203718.006344,(Profit,Multiplier:,,4),(MA,Periods,29,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,203718.006344,(Profit,Multiplier:,,4),(MA,Periods,29,26),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,203671.1145185,(Profit,Multiplier:,,3),(MA,Periods,29,30),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,203597.6321452,(Profit,Multiplier:,,1),(MA,Periods,29,21),Total,trades,17
+2020-04-07T00:00:00,,Ending,Value,203478.043777,(Profit,Multiplier:,,2),(MA,Periods,20,29),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,203476.5348118,(Profit,Multiplier:,,3),(MA,Periods,21,24),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,203476.5348118,(Profit,Multiplier:,,3),(MA,Periods,22,24),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,203423.8835118,(Profit,Multiplier:,,3),(MA,Periods,21,25),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,203417.4954385,(Profit,Multiplier:,,1),(MA,Periods,28,21),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,203414.652137,(Profit,Multiplier:,,2),(MA,Periods,23,30),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,203398.126719,(Profit,Multiplier:,,2),(MA,Periods,28,32),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,203389.6306242,(Profit,Multiplier:,,1),(MA,Periods,23,22),Total,trades,20
+2020-04-07T00:00:00,,Ending,Value,203388.312044,(Profit,Multiplier:,,2),(MA,Periods,28,31),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,203267.9864263,(Profit,Multiplier:,,1),(MA,Periods,29,23),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,203142.9642075,(Profit,Multiplier:,,2),(MA,Periods,29,32),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,203140.786597,(Profit,Multiplier:,,2),(MA,Periods,26,39),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,203140.786597,(Profit,Multiplier:,,2),(MA,Periods,27,39),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,203129.212502,(Profit,Multiplier:,,2),(MA,Periods,29,33),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,202900.9244745,(Profit,Multiplier:,,2),(MA,Periods,29,31),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,202851.3652895,(Profit,Multiplier:,,2),(MA,Periods,23,28),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,202799.599608,(Profit,Multiplier:,,2),(MA,Periods,22,27),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,202790.17752,(Profit,Multiplier:,,2),(MA,Periods,21,27),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,202750.922759,(Profit,Multiplier:,,1),(MA,Periods,27,26),Total,trades,22
+2020-04-07T00:00:00,,Ending,Value,202725.325824,(Profit,Multiplier:,,2),(MA,Periods,24,37),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,202722.185128,(Profit,Multiplier:,,2),(MA,Periods,25,37),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,202721.792541,(Profit,Multiplier:,,2),(MA,Periods,26,37),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,202716.8852035,(Profit,Multiplier:,,2),(MA,Periods,23,39),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,202686.6770125,(Profit,Multiplier:,,2),(MA,Periods,25,29),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,202657.9003197,(Profit,Multiplier:,,1),(MA,Periods,24,20),Total,trades,20
+2020-04-07T00:00:00,,Ending,Value,202643.8354638,(Profit,Multiplier:,,1),(MA,Periods,29,20),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,202537.476227,(Profit,Multiplier:,,2),(MA,Periods,19,27),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,202525.5023235,(Profit,Multiplier:,,2),(MA,Periods,19,26),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,202489.694844,(Profit,Multiplier:,,4),(MA,Periods,19,21),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,202489.694844,(Profit,Multiplier:,,4),(MA,Periods,20,21),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,202454.53533,(Profit,Multiplier:,,4),(MA,Periods,18,24),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,202419.3042575,(Profit,Multiplier:,,2),(MA,Periods,25,28),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,202228.21352,(Profit,Multiplier:,,1),(MA,Periods,29,27),Total,trades,21
+2020-04-07T00:00:00,,Ending,Value,202225.0235865,(Profit,Multiplier:,,2),(MA,Periods,17,30),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,202214.752644,(Profit,Multiplier:,,4),(MA,Periods,17,26),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,202175.0242182,(Profit,Multiplier:,,1),(MA,Periods,24,21),Total,trades,19
+2020-04-07T00:00:00,,Ending,Value,202105.1729465,(Profit,Multiplier:,,2),(MA,Periods,18,30),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,202053.0629308,(Profit,Multiplier:,,3),(MA,Periods,20,22),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,201970.9012993,(Profit,Multiplier:,,3),(MA,Periods,19,29),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201970.9012993,(Profit,Multiplier:,,3),(MA,Periods,19,30),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201970.9012993,(Profit,Multiplier:,,3),(MA,Periods,20,30),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201960.4288113,(Profit,Multiplier:,,3),(MA,Periods,18,30),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201955.1925673,(Profit,Multiplier:,,3),(MA,Periods,20,29),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201954.5380368,(Profit,Multiplier:,,3),(MA,Periods,17,30),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201834.882049,(Profit,Multiplier:,,2),(MA,Periods,22,30),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,201829.1895375,(Profit,Multiplier:,,2),(MA,Periods,21,30),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,201821.719224,(Profit,Multiplier:,,2),(MA,Periods,22,29),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,201750.607144,(Profit,Multiplier:,,3),(MA,Periods,20,24),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201750.607144,(Profit,Multiplier:,,3),(MA,Periods,18,25),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201750.607144,(Profit,Multiplier:,,3),(MA,Periods,19,25),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201750.607144,(Profit,Multiplier:,,3),(MA,Periods,20,25),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201745.0016187,(Profit,Multiplier:,,3),(MA,Periods,28,30),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,201734.2822868,(Profit,Multiplier:,,3),(MA,Periods,22,25),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201734.2822868,(Profit,Multiplier:,,3),(MA,Periods,23,25),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201638.7451243,(Profit,Multiplier:,,3),(MA,Periods,17,26),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,201629.8538165,(Profit,Multiplier:,,2),(MA,Periods,17,26),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,201530.4928698,(Profit,Multiplier:,,3),(MA,Periods,15,29),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201510.2024243,(Profit,Multiplier:,,3),(MA,Periods,19,28),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201499.7299363,(Profit,Multiplier:,,3),(MA,Periods,18,28),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201494.4936923,(Profit,Multiplier:,,3),(MA,Periods,20,28),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201493.8391618,(Profit,Multiplier:,,3),(MA,Periods,17,28),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201464.2763102,(Profit,Multiplier:,,1),(MA,Periods,28,20),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,201459.769766,(Profit,Multiplier:,,3),(MA,Periods,16,29),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201459.769766,(Profit,Multiplier:,,3),(MA,Periods,16,30),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201459.1152355,(Profit,Multiplier:,,3),(MA,Periods,15,30),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201458.84804,(Profit,Multiplier:,,1),(MA,Periods,27,23),Total,trades,20
+2020-04-07T00:00:00,,Ending,Value,201433.9158113,(Profit,Multiplier:,,3),(MA,Periods,18,29),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201428.0250368,(Profit,Multiplier:,,3),(MA,Periods,17,29),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201425.573994,(Profit,Multiplier:,,3),(MA,Periods,21,22),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,201310.657608,(Profit,Multiplier:,,2),(MA,Periods,22,28),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,201283.043905,(Profit,Multiplier:,,4),(MA,Periods,22,25),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201283.043905,(Profit,Multiplier:,,4),(MA,Periods,23,25),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201275.3805805,(Profit,Multiplier:,,2),(MA,Periods,18,28),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,201270.2769495,(Profit,Multiplier:,,2),(MA,Periods,17,28),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,201267.2363698,(Profit,Multiplier:,,3),(MA,Periods,15,27),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201264.3881445,(Profit,Multiplier:,,2),(MA,Periods,20,28),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,201251.663205,(Profit,Multiplier:,,4),(MA,Periods,17,27),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,201214.5850698,(Profit,Multiplier:,,3),(MA,Periods,15,28),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201209.676091,(Profit,Multiplier:,,3),(MA,Periods,16,27),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201209.676091,(Profit,Multiplier:,,3),(MA,Periods,16,28),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,201206.8183465,(Profit,Multiplier:,,2),(MA,Periods,18,29),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,201195.0407365,(Profit,Multiplier:,,2),(MA,Periods,17,29),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,201177.74787,(Profit,Multiplier:,,2),(MA,Periods,24,38),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,201126.3826535,(Profit,Multiplier:,,1),(MA,Periods,28,26),Total,trades,18
+2020-04-07T00:00:00,,Ending,Value,201008.8097403,(Profit,Multiplier:,,1),(MA,Periods,29,28),Total,trades,23
+2020-04-07T00:00:00,,Ending,Value,200951.9138395,(Profit,Multiplier:,,2),(MA,Periods,21,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,200951.9138395,(Profit,Multiplier:,,2),(MA,Periods,22,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,200899.2625395,(Profit,Multiplier:,,2),(MA,Periods,21,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,200876.633641,(Profit,Multiplier:,,2),(MA,Periods,24,29),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,200815.0454065,(Profit,Multiplier:,,2),(MA,Periods,15,27),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,200769.8532595,(Profit,Multiplier:,,2),(MA,Periods,16,27),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,200746.561296,(Profit,Multiplier:,,4),(MA,Periods,18,27),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,200515.441784,(Profit,Multiplier:,,1),(MA,Periods,28,31),Total,trades,22
+2020-04-07T00:00:00,,Ending,Value,200510.4845525,(Profit,Multiplier:,,2),(MA,Periods,20,30),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,200509.6993785,(Profit,Multiplier:,,2),(MA,Periods,19,29),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,200509.6993785,(Profit,Multiplier:,,2),(MA,Periods,19,30),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,200494.0996255,(Profit,Multiplier:,,2),(MA,Periods,20,21),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,200449.148414,(Profit,Multiplier:,,2),(MA,Periods,19,21),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,200388.8863095,(Profit,Multiplier:,,1),(MA,Periods,28,29),Total,trades,18
+2020-04-07T00:00:00,,Ending,Value,200125.2171992,(Profit,Multiplier:,,3),(MA,Periods,17,22),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,200096.2645645,(Profit,Multiplier:,,2),(MA,Periods,22,23),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,200078.3621377,(Profit,Multiplier:,,1),(MA,Periods,29,26),Total,trades,18
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,1),(MA,Periods,20,20),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,2),(MA,Periods,20,20),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,3),(MA,Periods,20,20),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,4),(MA,Periods,20,20),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,1),(MA,Periods,21,21),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,2),(MA,Periods,21,21),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,3),(MA,Periods,21,21),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,4),(MA,Periods,21,21),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,1),(MA,Periods,22,22),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,2),(MA,Periods,22,22),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,3),(MA,Periods,22,22),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,4),(MA,Periods,22,22),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,1),(MA,Periods,23,23),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,2),(MA,Periods,23,23),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,3),(MA,Periods,23,23),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,4),(MA,Periods,23,23),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,1),(MA,Periods,24,24),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,2),(MA,Periods,24,24),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,3),(MA,Periods,24,24),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,4),(MA,Periods,24,24),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,1),(MA,Periods,25,25),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,2),(MA,Periods,25,25),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,3),(MA,Periods,25,25),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,4),(MA,Periods,25,25),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,1),(MA,Periods,26,26),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,2),(MA,Periods,26,26),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,3),(MA,Periods,26,26),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,4),(MA,Periods,26,26),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,1),(MA,Periods,27,27),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,2),(MA,Periods,27,27),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,3),(MA,Periods,27,27),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,4),(MA,Periods,27,27),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,1),(MA,Periods,28,28),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,2),(MA,Periods,28,28),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,3),(MA,Periods,28,28),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,4),(MA,Periods,28,28),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,1),(MA,Periods,29,29),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,2),(MA,Periods,29,29),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,3),(MA,Periods,29,29),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,200000,(Profit,Multiplier:,,4),(MA,Periods,29,29),Total,trades,0
+2020-04-07T00:00:00,,Ending,Value,199986.8969165,(Profit,Multiplier:,,1),(MA,Periods,23,20),Total,trades,20
+2020-04-07T00:00:00,,Ending,Value,199934.167493,(Profit,Multiplier:,,1),(MA,Periods,22,20),Total,trades,22
+2020-04-07T00:00:00,,Ending,Value,199930.6489813,(Profit,Multiplier:,,1),(MA,Periods,29,25),Total,trades,17
+2020-04-07T00:00:00,,Ending,Value,199873.510832,(Profit,Multiplier:,,4),(MA,Periods,27,20),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,199866.637277,(Profit,Multiplier:,,4),(MA,Periods,27,21),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,199839.601294,(Profit,Multiplier:,,4),(MA,Periods,26,22),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,199809.5815185,(Profit,Multiplier:,,1),(MA,Periods,26,27),Total,trades,18
+2020-04-07T00:00:00,,Ending,Value,199780.9712485,(Profit,Multiplier:,,2),(MA,Periods,23,24),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,199771.358119,(Profit,Multiplier:,,1),(MA,Periods,28,27),Total,trades,22
+2020-04-07T00:00:00,,Ending,Value,199676.177436,(Profit,Multiplier:,,2),(MA,Periods,19,28),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,199667.27267,(Profit,Multiplier:,,2),(MA,Periods,24,25),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,199657.1369665,(Profit,Multiplier:,,2),(MA,Periods,15,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,199621.355747,(Profit,Multiplier:,,2),(MA,Periods,16,30),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,199598.7819945,(Profit,Multiplier:,,2),(MA,Periods,16,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,199587.200678,(Profit,Multiplier:,,2),(MA,Periods,15,30),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,199579.2356917,(Profit,Multiplier:,,1),(MA,Periods,21,26),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,199565.4196492,(Profit,Multiplier:,,1),(MA,Periods,21,28),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,199535.5754875,(Profit,Multiplier:,,2),(MA,Periods,21,29),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,199507.689337,(Profit,Multiplier:,,1),(MA,Periods,22,38),Total,trades,18
+2020-04-07T00:00:00,,Ending,Value,199435.4973145,(Profit,Multiplier:,,1),(MA,Periods,29,36),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,199425.2546015,(Profit,Multiplier:,,1),(MA,Periods,29,24),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,199382.731127,(Profit,Multiplier:,,1),(MA,Periods,27,31),Total,trades,20
+2020-04-07T00:00:00,,Ending,Value,199348.6883195,(Profit,Multiplier:,,2),(MA,Periods,16,28),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,199341.2291665,(Profit,Multiplier:,,2),(MA,Periods,15,28),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,199333.8333658,(Profit,Multiplier:,,1),(MA,Periods,22,36),Total,trades,18
+2020-04-07T00:00:00,,Ending,Value,199329.7834173,(Profit,Multiplier:,,1),(MA,Periods,22,37),Total,trades,18
+2020-04-07T00:00:00,,Ending,Value,199225.4278185,(Profit,Multiplier:,,1),(MA,Periods,28,32),Total,trades,20
+2020-04-07T00:00:00,,Ending,Value,199216.9822742,(Profit,Multiplier:,,3),(MA,Periods,19,22),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,199216.9822742,(Profit,Multiplier:,,3),(MA,Periods,19,23),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,199216.9822742,(Profit,Multiplier:,,3),(MA,Periods,17,24),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,199216.9822742,(Profit,Multiplier:,,3),(MA,Periods,18,24),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,199216.9822742,(Profit,Multiplier:,,3),(MA,Periods,16,25),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,199216.9822742,(Profit,Multiplier:,,3),(MA,Periods,17,25),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,199197.019094,(Profit,Multiplier:,,3),(MA,Periods,20,23),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,199197.019094,(Profit,Multiplier:,,3),(MA,Periods,21,23),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,199197.019094,(Profit,Multiplier:,,3),(MA,Periods,19,24),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,199136.3424098,(Profit,Multiplier:,,1),(MA,Periods,28,23),Total,trades,17
+2020-04-07T00:00:00,,Ending,Value,199109.764992,(Profit,Multiplier:,,1),(MA,Periods,20,26),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,199105.2577912,(Profit,Multiplier:,,1),(MA,Periods,20,27),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,199022.1199443,(Profit,Multiplier:,,1),(MA,Periods,27,25),Total,trades,21
+2020-04-07T00:00:00,,Ending,Value,198970.6217865,(Profit,Multiplier:,,1),(MA,Periods,26,25),Total,trades,22
+2020-04-07T00:00:00,,Ending,Value,198904.323821,(Profit,Multiplier:,,1),(MA,Periods,27,24),Total,trades,20
+2020-04-07T00:00:00,,Ending,Value,198823.798844,(Profit,Multiplier:,,4),(MA,Periods,17,22),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,198823.798844,(Profit,Multiplier:,,4),(MA,Periods,18,22),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,198823.798844,(Profit,Multiplier:,,4),(MA,Periods,19,22),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,198823.798844,(Profit,Multiplier:,,4),(MA,Periods,16,23),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,198823.798844,(Profit,Multiplier:,,4),(MA,Periods,17,23),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,198823.798844,(Profit,Multiplier:,,4),(MA,Periods,18,23),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,198823.798844,(Profit,Multiplier:,,4),(MA,Periods,19,23),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,198823.798844,(Profit,Multiplier:,,4),(MA,Periods,16,24),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,198823.798844,(Profit,Multiplier:,,4),(MA,Periods,17,24),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,198823.798844,(Profit,Multiplier:,,4),(MA,Periods,16,25),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,198823.798844,(Profit,Multiplier:,,4),(MA,Periods,17,25),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,198671.9152712,(Profit,Multiplier:,,1),(MA,Periods,25,23),Total,trades,19
+2020-04-07T00:00:00,,Ending,Value,198598.3294992,(Profit,Multiplier:,,3),(MA,Periods,18,22),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,198598.3294992,(Profit,Multiplier:,,3),(MA,Periods,16,23),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,198598.3294992,(Profit,Multiplier:,,3),(MA,Periods,17,23),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,198598.3294992,(Profit,Multiplier:,,3),(MA,Periods,18,23),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,198598.3294992,(Profit,Multiplier:,,3),(MA,Periods,16,24),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,198591.6177715,(Profit,Multiplier:,,1),(MA,Periods,26,24),Total,trades,19
+2020-04-07T00:00:00,,Ending,Value,198476.7391342,(Profit,Multiplier:,,1),(MA,Periods,26,23),Total,trades,19
+2020-04-07T00:00:00,,Ending,Value,198373.8012472,(Profit,Multiplier:,,1),(MA,Periods,25,27),Total,trades,18
+2020-04-07T00:00:00,,Ending,Value,198284.3419617,(Profit,Multiplier:,,1),(MA,Periods,24,27),Total,trades,17
+2020-04-07T00:00:00,,Ending,Value,198276.4399995,(Profit,Multiplier:,,2),(MA,Periods,21,22),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,198276.3746778,(Profit,Multiplier:,,1),(MA,Periods,29,32),Total,trades,20
+2020-04-07T00:00:00,,Ending,Value,198165.657594,(Profit,Multiplier:,,4),(MA,Periods,23,24),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,198151.956439,(Profit,Multiplier:,,1),(MA,Periods,28,33),Total,trades,17
+2020-04-07T00:00:00,,Ending,Value,198131.003585,(Profit,Multiplier:,,2),(MA,Periods,29,30),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,198048.681111,(Profit,Multiplier:,,2),(MA,Periods,20,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,198048.681111,(Profit,Multiplier:,,2),(MA,Periods,18,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,198048.681111,(Profit,Multiplier:,,2),(MA,Periods,19,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,198048.681111,(Profit,Multiplier:,,2),(MA,Periods,20,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,198017.8183895,(Profit,Multiplier:,,2),(MA,Periods,22,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,198017.8183895,(Profit,Multiplier:,,2),(MA,Periods,23,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,197895.868919,(Profit,Multiplier:,,4),(MA,Periods,15,20),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,197895.868919,(Profit,Multiplier:,,4),(MA,Periods,16,20),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,197895.868919,(Profit,Multiplier:,,4),(MA,Periods,17,20),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,197895.868919,(Profit,Multiplier:,,4),(MA,Periods,18,20),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,197895.868919,(Profit,Multiplier:,,4),(MA,Periods,19,20),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,197895.868919,(Profit,Multiplier:,,4),(MA,Periods,15,21),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,197895.868919,(Profit,Multiplier:,,4),(MA,Periods,16,21),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,197895.868919,(Profit,Multiplier:,,4),(MA,Periods,17,21),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,197895.868919,(Profit,Multiplier:,,4),(MA,Periods,18,21),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,197780.3088348,(Profit,Multiplier:,,1),(MA,Periods,20,35),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,197757.01523,(Profit,Multiplier:,,1),(MA,Periods,28,30),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,197754.2454565,(Profit,Multiplier:,,1),(MA,Periods,21,35),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,197745.5428925,(Profit,Multiplier:,,1),(MA,Periods,25,31),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,197723.306581,(Profit,Multiplier:,,1),(MA,Periods,26,35),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,197672.249263,(Profit,Multiplier:,,4),(MA,Periods,15,26),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,197665.375708,(Profit,Multiplier:,,4),(MA,Periods,16,26),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,197663.0553087,(Profit,Multiplier:,,1),(MA,Periods,27,30),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,197585.8781535,(Profit,Multiplier:,,1),(MA,Periods,28,35),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,197583.395927,(Profit,Multiplier:,,1),(MA,Periods,28,34),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,197515.2138065,(Profit,Multiplier:,,1),(MA,Periods,21,25),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,197459.3348242,(Profit,Multiplier:,,1),(MA,Periods,23,31),Total,trades,17
+2020-04-07T00:00:00,,Ending,Value,197386.5424325,(Profit,Multiplier:,,1),(MA,Periods,27,36),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,197309.8852253,(Profit,Multiplier:,,1),(MA,Periods,25,35),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,197272.4729315,(Profit,Multiplier:,,1),(MA,Periods,22,21),Total,trades,18
+2020-04-07T00:00:00,,Ending,Value,197246.0422415,(Profit,Multiplier:,,1),(MA,Periods,22,34),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,197241.6003625,(Profit,Multiplier:,,1),(MA,Periods,21,34),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,197208.1464355,(Profit,Multiplier:,,2),(MA,Periods,20,22),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,196993.7834295,(Profit,Multiplier:,,1),(MA,Periods,24,28),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,196989.955378,(Profit,Multiplier:,,1),(MA,Periods,27,32),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,196984.912145,(Profit,Multiplier:,,1),(MA,Periods,26,36),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,196971.8799635,(Profit,Multiplier:,,1),(MA,Periods,25,36),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,196918.7339908,(Profit,Multiplier:,,1),(MA,Periods,26,28),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,196851.9347875,(Profit,Multiplier:,,2),(MA,Periods,28,30),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,196845.6008755,(Profit,Multiplier:,,1),(MA,Periods,29,37),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,196803.7644283,(Profit,Multiplier:,,1),(MA,Periods,27,22),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,196756.90313,(Profit,Multiplier:,,1),(MA,Periods,25,30),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,196719.0263625,(Profit,Multiplier:,,1),(MA,Periods,23,33),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,196711.7953432,(Profit,Multiplier:,,1),(MA,Periods,23,37),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,196676.6978685,(Profit,Multiplier:,,1),(MA,Periods,25,34),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,196664.9068002,(Profit,Multiplier:,,1),(MA,Periods,16,39),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,196648.2622275,(Profit,Multiplier:,,1),(MA,Periods,26,31),Total,trades,17
+2020-04-07T00:00:00,,Ending,Value,196640.0234807,(Profit,Multiplier:,,1),(MA,Periods,24,26),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,196629.882197,(Profit,Multiplier:,,1),(MA,Periods,29,30),Total,trades,17
+2020-04-07T00:00:00,,Ending,Value,196616.9127112,(Profit,Multiplier:,,1),(MA,Periods,15,31),Total,trades,17
+2020-04-07T00:00:00,,Ending,Value,196616.7919153,(Profit,Multiplier:,,1),(MA,Periods,15,38),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,196581.981331,(Profit,Multiplier:,,1),(MA,Periods,26,34),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,196579.1147238,(Profit,Multiplier:,,1),(MA,Periods,19,36),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,196570.0596193,(Profit,Multiplier:,,1),(MA,Periods,27,35),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,196568.6878625,(Profit,Multiplier:,,1),(MA,Periods,27,34),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,196494.67077,(Profit,Multiplier:,,3),(MA,Periods,27,21),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,196493.0633298,(Profit,Multiplier:,,1),(MA,Periods,23,34),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,196493.0344437,(Profit,Multiplier:,,3),(MA,Periods,27,20),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,196474.0530592,(Profit,Multiplier:,,3),(MA,Periods,26,22),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,196461.022519,(Profit,Multiplier:,,1),(MA,Periods,22,32),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,196459.8467275,(Profit,Multiplier:,,1),(MA,Periods,23,32),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,196430.9308567,(Profit,Multiplier:,,1),(MA,Periods,23,38),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,196415.3018895,(Profit,Multiplier:,,2),(MA,Periods,17,22),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,196386.2612837,(Profit,Multiplier:,,1),(MA,Periods,23,29),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,196376.9097695,(Profit,Multiplier:,,1),(MA,Periods,21,24),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,196373.7090037,(Profit,Multiplier:,,1),(MA,Periods,22,24),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,196360.6558143,(Profit,Multiplier:,,1),(MA,Periods,26,29),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,196301.9660272,(Profit,Multiplier:,,1),(MA,Periods,23,26),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,196259.270878,(Profit,Multiplier:,,1),(MA,Periods,23,28),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,196255.7142892,(Profit,Multiplier:,,1),(MA,Periods,22,39),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,196230.2909985,(Profit,Multiplier:,,1),(MA,Periods,25,26),Total,trades,17
+2020-04-07T00:00:00,,Ending,Value,196202.5469802,(Profit,Multiplier:,,1),(MA,Periods,23,36),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,196169.4744798,(Profit,Multiplier:,,1),(MA,Periods,25,33),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,196134.903518,(Profit,Multiplier:,,1),(MA,Periods,16,31),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,196103.8385945,(Profit,Multiplier:,,1),(MA,Periods,20,36),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,196087.5413103,(Profit,Multiplier:,,1),(MA,Periods,21,37),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,196075.227668,(Profit,Multiplier:,,1),(MA,Periods,21,36),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,196043.334898,(Profit,Multiplier:,,1),(MA,Periods,18,26),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,196038.5499978,(Profit,Multiplier:,,1),(MA,Periods,29,35),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,196031.9570965,(Profit,Multiplier:,,1),(MA,Periods,23,35),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,196012.6162783,(Profit,Multiplier:,,1),(MA,Periods,29,34),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,196009.3784202,(Profit,Multiplier:,,1),(MA,Periods,17,38),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,196004.84299,(Profit,Multiplier:,,1),(MA,Periods,18,31),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,196004.581703,(Profit,Multiplier:,,1),(MA,Periods,19,31),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,196002.0994765,(Profit,Multiplier:,,1),(MA,Periods,17,31),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,195921.3654043,(Profit,Multiplier:,,1),(MA,Periods,18,37),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195897.5797528,(Profit,Multiplier:,,1),(MA,Periods,26,33),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,195897.4491093,(Profit,Multiplier:,,1),(MA,Periods,27,33),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,195752.6606603,(Profit,Multiplier:,,1),(MA,Periods,29,38),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,195744.9303728,(Profit,Multiplier:,,1),(MA,Periods,20,39),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195729.4169495,(Profit,Multiplier:,,1),(MA,Periods,21,39),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195704.464041,(Profit,Multiplier:,,1),(MA,Periods,28,36),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195698.0923803,(Profit,Multiplier:,,1),(MA,Periods,26,30),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,195693.9163837,(Profit,Multiplier:,,1),(MA,Periods,16,32),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195674.1892152,(Profit,Multiplier:,,1),(MA,Periods,15,33),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195671.9682757,(Profit,Multiplier:,,1),(MA,Periods,15,32),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195625.5389545,(Profit,Multiplier:,,1),(MA,Periods,19,27),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,195604.2752477,(Profit,Multiplier:,,1),(MA,Periods,22,26),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195598.4110615,(Profit,Multiplier:,,1),(MA,Periods,15,35),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195595.9140637,(Profit,Multiplier:,,1),(MA,Periods,23,27),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195576.169498,(Profit,Multiplier:,,1),(MA,Periods,20,38),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195574.7977413,(Profit,Multiplier:,,1),(MA,Periods,20,37),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195571.2703668,(Profit,Multiplier:,,1),(MA,Periods,19,39),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195568.9187838,(Profit,Multiplier:,,1),(MA,Periods,22,35),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195563.9211775,(Profit,Multiplier:,,1),(MA,Periods,18,32),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195557.9125612,(Profit,Multiplier:,,1),(MA,Periods,21,38),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195557.356834,(Profit,Multiplier:,,1),(MA,Periods,22,33),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195551.7391635,(Profit,Multiplier:,,1),(MA,Periods,21,33),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195544.5206178,(Profit,Multiplier:,,1),(MA,Periods,17,33),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195541.581139,(Profit,Multiplier:,,1),(MA,Periods,15,34),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195541.3851737,(Profit,Multiplier:,,1),(MA,Periods,17,34),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195541.3851737,(Profit,Multiplier:,,1),(MA,Periods,17,35),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195539.8174517,(Profit,Multiplier:,,1),(MA,Periods,17,36),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,195536.8444915,(Profit,Multiplier:,,1),(MA,Periods,15,29),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,195509.280026,(Profit,Multiplier:,,1),(MA,Periods,22,28),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,195507.0669645,(Profit,Multiplier:,,2),(MA,Periods,19,22),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,195507.0669645,(Profit,Multiplier:,,2),(MA,Periods,19,23),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,195507.0669645,(Profit,Multiplier:,,2),(MA,Periods,17,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,195507.0669645,(Profit,Multiplier:,,2),(MA,Periods,18,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,195507.0669645,(Profit,Multiplier:,,2),(MA,Periods,16,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,195507.0669645,(Profit,Multiplier:,,2),(MA,Periods,17,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,195503.7276772,(Profit,Multiplier:,,1),(MA,Periods,21,27),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,195495.093061,(Profit,Multiplier:,,2),(MA,Periods,20,23),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,195495.093061,(Profit,Multiplier:,,2),(MA,Periods,21,23),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,195495.093061,(Profit,Multiplier:,,2),(MA,Periods,19,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,195480.1737702,(Profit,Multiplier:,,1),(MA,Periods,25,32),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,195340.692139,(Profit,Multiplier:,,1),(MA,Periods,20,31),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,195321.7488315,(Profit,Multiplier:,,1),(MA,Periods,22,31),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,195320.834327,(Profit,Multiplier:,,1),(MA,Periods,21,31),Total,trades,16
+2020-04-07T00:00:00,,Ending,Value,195132.1122415,(Profit,Multiplier:,,1),(MA,Periods,24,32),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,195100.0566595,(Profit,Multiplier:,,1),(MA,Periods,22,27),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,195087.0120045,(Profit,Multiplier:,,1),(MA,Periods,24,30),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,195032.6593848,(Profit,Multiplier:,,1),(MA,Periods,17,32),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,195030.1771582,(Profit,Multiplier:,,1),(MA,Periods,16,33),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,195029.197332,(Profit,Multiplier:,,1),(MA,Periods,16,34),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,195029.1320103,(Profit,Multiplier:,,1),(MA,Periods,16,35),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,195028.6504675,(Profit,Multiplier:,,1),(MA,Periods,18,38),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194980.1406977,(Profit,Multiplier:,,1),(MA,Periods,15,37),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,194978.246367,(Profit,Multiplier:,,1),(MA,Periods,15,39),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,194977.5931495,(Profit,Multiplier:,,1),(MA,Periods,16,37),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,194977.5931495,(Profit,Multiplier:,,1),(MA,Periods,16,38),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,194969.4880005,(Profit,Multiplier:,,1),(MA,Periods,19,26),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,194906.3025015,(Profit,Multiplier:,,1),(MA,Periods,19,32),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194906.171858,(Profit,Multiplier:,,1),(MA,Periods,20,34),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194906.1065362,(Profit,Multiplier:,,1),(MA,Periods,24,31),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194905.3226753,(Profit,Multiplier:,,1),(MA,Periods,19,37),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194905.1920318,(Profit,Multiplier:,,1),(MA,Periods,20,33),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194903.6896315,(Profit,Multiplier:,,1),(MA,Periods,18,33),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194902.9710922,(Profit,Multiplier:,,1),(MA,Periods,19,33),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194899.639683,(Profit,Multiplier:,,1),(MA,Periods,20,32),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194893.4994385,(Profit,Multiplier:,,1),(MA,Periods,19,35),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194890.1680292,(Profit,Multiplier:,,1),(MA,Periods,18,34),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194890.0373858,(Profit,Multiplier:,,1),(MA,Periods,18,36),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194889.9067422,(Profit,Multiplier:,,1),(MA,Periods,19,34),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194888.4141895,(Profit,Multiplier:,,2),(MA,Periods,18,22),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,194888.4141895,(Profit,Multiplier:,,2),(MA,Periods,16,23),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,194888.4141895,(Profit,Multiplier:,,2),(MA,Periods,17,23),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,194888.4141895,(Profit,Multiplier:,,2),(MA,Periods,18,23),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,194888.4141895,(Profit,Multiplier:,,2),(MA,Periods,16,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,194884.485037,(Profit,Multiplier:,,1),(MA,Periods,18,35),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194875.2093485,(Profit,Multiplier:,,1),(MA,Periods,21,32),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194845.7013148,(Profit,Multiplier:,,1),(MA,Periods,25,39),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,194844.590845,(Profit,Multiplier:,,1),(MA,Periods,26,38),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,194831.42802,(Profit,Multiplier:,,1),(MA,Periods,25,38),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,194766.5743545,(Profit,Multiplier:,,1),(MA,Periods,24,36),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,194742.4509337,(Profit,Multiplier:,,1),(MA,Periods,27,28),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194718.3888958,(Profit,Multiplier:,,1),(MA,Periods,26,39),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,194675.278182,(Profit,Multiplier:,,1),(MA,Periods,16,28),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,194671.2282335,(Profit,Multiplier:,,1),(MA,Periods,16,29),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,194635.4177997,(Profit,Multiplier:,,1),(MA,Periods,23,30),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,194596.3110795,(Profit,Multiplier:,,1),(MA,Periods,24,35),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,194595.396575,(Profit,Multiplier:,,1),(MA,Periods,24,33),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,194595.3312532,(Profit,Multiplier:,,1),(MA,Periods,24,34),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,194489.7099225,(Profit,Multiplier:,,1),(MA,Periods,15,30),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,194469.3246127,(Profit,Multiplier:,,1),(MA,Periods,15,36),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,194409.5552115,(Profit,Multiplier:,,1),(MA,Periods,19,28),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,194406.6810545,(Profit,Multiplier:,,1),(MA,Periods,20,28),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,194405.0480107,(Profit,Multiplier:,,1),(MA,Periods,20,29),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,194385.3208422,(Profit,Multiplier:,,1),(MA,Periods,21,29),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,194334.5412238,(Profit,Multiplier:,,1),(MA,Periods,18,39),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,194333.1041452,(Profit,Multiplier:,,1),(MA,Periods,17,39),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,194318.2107863,(Profit,Multiplier:,,1),(MA,Periods,26,32),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,194246.9201383,(Profit,Multiplier:,,1),(MA,Periods,19,38),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,194235.8397313,(Profit,Multiplier:,,1),(MA,Periods,23,24),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,194229.972919,(Profit,Multiplier:,,4),(MA,Periods,15,22),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,194229.972919,(Profit,Multiplier:,,4),(MA,Periods,16,22),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,194229.972919,(Profit,Multiplier:,,4),(MA,Periods,15,23),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,194229.972919,(Profit,Multiplier:,,4),(MA,Periods,15,24),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,194229.972919,(Profit,Multiplier:,,4),(MA,Periods,15,25),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,194217.9688165,(Profit,Multiplier:,,1),(MA,Periods,25,28),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,194169.644508,(Profit,Multiplier:,,1),(MA,Periods,27,29),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,194111.271154,(Profit,Multiplier:,,1),(MA,Periods,23,25),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,194110.0300407,(Profit,Multiplier:,,1),(MA,Periods,22,25),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,194109.0305195,(Profit,Multiplier:,,1),(MA,Periods,24,39),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,194066.659353,(Profit,Multiplier:,,1),(MA,Periods,22,23),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,193983.7929688,(Profit,Multiplier:,,1),(MA,Periods,16,30),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,193981.5067075,(Profit,Multiplier:,,1),(MA,Periods,18,28),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,193977.2607937,(Profit,Multiplier:,,1),(MA,Periods,17,28),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,193974.4519585,(Profit,Multiplier:,,1),(MA,Periods,17,29),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,193971.8390885,(Profit,Multiplier:,,1),(MA,Periods,17,30),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,193967.3765297,(Profit,Multiplier:,,1),(MA,Periods,16,27),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,193850.009101,(Profit,Multiplier:,,1),(MA,Periods,19,30),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,193849.2905617,(Profit,Multiplier:,,1),(MA,Periods,18,29),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,193847.396231,(Profit,Multiplier:,,1),(MA,Periods,20,30),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,193847.134944,(Profit,Multiplier:,,1),(MA,Periods,19,29),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,193844.1301435,(Profit,Multiplier:,,1),(MA,Periods,18,30),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,193835.378342,(Profit,Multiplier:,,2),(MA,Periods,27,20),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,193835.378342,(Profit,Multiplier:,,2),(MA,Periods,27,21),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,193812.8045895,(Profit,Multiplier:,,2),(MA,Periods,26,22),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,193789.5162367,(Profit,Multiplier:,,1),(MA,Periods,15,28),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,193789.2549497,(Profit,Multiplier:,,1),(MA,Periods,15,27),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,193728.6819925,(Profit,Multiplier:,,1),(MA,Periods,22,29),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,193728.6166707,(Profit,Multiplier:,,1),(MA,Periods,22,30),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,193726.72234,(Profit,Multiplier:,,1),(MA,Periods,21,30),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,193716.9647805,(Profit,Multiplier:,,1),(MA,Periods,23,39),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,193686.641702,(Profit,Multiplier:,,1),(MA,Periods,25,29),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,193662.8783715,(Profit,Multiplier:,,1),(MA,Periods,16,36),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,193661.7679017,(Profit,Multiplier:,,1),(MA,Periods,17,37),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,193623.1627475,(Profit,Multiplier:,,1),(MA,Periods,28,37),Total,trades,14
+2020-04-07T00:00:00,,Ending,Value,193174.92096,(Profit,Multiplier:,,1),(MA,Periods,20,24),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,193099.412956,(Profit,Multiplier:,,1),(MA,Periods,27,37),Total,trades,13
+2020-04-07T00:00:00,,Ending,Value,193079.6857875,(Profit,Multiplier:,,1),(MA,Periods,24,29),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,193022.5292562,(Profit,Multiplier:,,1),(MA,Periods,17,22),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,192830.3733475,(Profit,Multiplier:,,1),(MA,Periods,18,25),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,192827.7105835,(Profit,Multiplier:,,1),(MA,Periods,24,25),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,192684.5545217,(Profit,Multiplier:,,1),(MA,Periods,24,37),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,192683.5093738,(Profit,Multiplier:,,1),(MA,Periods,25,37),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,192683.3787303,(Profit,Multiplier:,,1),(MA,Periods,26,37),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,192640.343514,(Profit,Multiplier:,,2),(MA,Periods,18,27),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,192635.0435895,(Profit,Multiplier:,,2),(MA,Periods,17,27),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,192616.6159627,(Profit,Multiplier:,,1),(MA,Periods,19,25),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,192460.891865,(Profit,Multiplier:,,1),(MA,Periods,29,31),Total,trades,17
+2020-04-07T00:00:00,,Ending,Value,192296.3719802,(Profit,Multiplier:,,1),(MA,Periods,20,25),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,192169.5578448,(Profit,Multiplier:,,1),(MA,Periods,24,38),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,192107.4325932,(Profit,Multiplier:,,1),(MA,Periods,17,26),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,191819.230078,(Profit,Multiplier:,,1),(MA,Periods,19,21),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,191633.8000118,(Profit,Multiplier:,,3),(MA,Periods,15,20),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,191633.8000118,(Profit,Multiplier:,,3),(MA,Periods,16,20),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,191633.8000118,(Profit,Multiplier:,,3),(MA,Periods,17,20),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,191633.8000118,(Profit,Multiplier:,,3),(MA,Periods,18,20),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,191633.8000118,(Profit,Multiplier:,,3),(MA,Periods,19,20),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,191633.8000118,(Profit,Multiplier:,,3),(MA,Periods,15,21),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,191633.8000118,(Profit,Multiplier:,,3),(MA,Periods,16,21),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,191633.8000118,(Profit,Multiplier:,,3),(MA,Periods,17,21),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,191633.8000118,(Profit,Multiplier:,,3),(MA,Periods,18,21),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,191487.4671465,(Profit,Multiplier:,,1),(MA,Periods,29,33),Total,trades,15
+2020-04-07T00:00:00,,Ending,Value,191474.0945698,(Profit,Multiplier:,,3),(MA,Periods,15,26),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,191469.185591,(Profit,Multiplier:,,3),(MA,Periods,16,26),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,191443.3316363,(Profit,Multiplier:,,3),(MA,Periods,18,27),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,191437.4408618,(Profit,Multiplier:,,3),(MA,Periods,17,27),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,191084.6374335,(Profit,Multiplier:,,1),(MA,Periods,20,21),Total,trades,9
+2020-04-07T00:00:00,,Ending,Value,191029.3627595,(Profit,Multiplier:,,2),(MA,Periods,16,26),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,191021.9036065,(Profit,Multiplier:,,2),(MA,Periods,15,26),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,190339.83884,(Profit,Multiplier:,,1),(MA,Periods,18,24),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,190335.8542132,(Profit,Multiplier:,,1),(MA,Periods,20,23),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,190335.8542132,(Profit,Multiplier:,,1),(MA,Periods,19,24),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,189991.1513385,(Profit,Multiplier:,,1),(MA,Periods,20,22),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,189933.873683,(Profit,Multiplier:,,1),(MA,Periods,21,22),Total,trades,8
+2020-04-07T00:00:00,,Ending,Value,189865.4722915,(Profit,Multiplier:,,1),(MA,Periods,21,23),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,189765.2326195,(Profit,Multiplier:,,2),(MA,Periods,15,20),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,189765.2326195,(Profit,Multiplier:,,2),(MA,Periods,16,20),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,189765.2326195,(Profit,Multiplier:,,2),(MA,Periods,17,20),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,189747.5662045,(Profit,Multiplier:,,2),(MA,Periods,18,20),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,189747.5662045,(Profit,Multiplier:,,2),(MA,Periods,19,20),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,189747.5662045,(Profit,Multiplier:,,2),(MA,Periods,18,21),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,189425.073053,(Profit,Multiplier:,,1),(MA,Periods,19,22),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,189425.073053,(Profit,Multiplier:,,1),(MA,Periods,19,23),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,189425.073053,(Profit,Multiplier:,,1),(MA,Periods,17,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,189425.073053,(Profit,Multiplier:,,1),(MA,Periods,16,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,189425.073053,(Profit,Multiplier:,,1),(MA,Periods,17,25),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,189015.6780117,(Profit,Multiplier:,,3),(MA,Periods,15,22),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,189015.6780117,(Profit,Multiplier:,,3),(MA,Periods,16,22),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,189015.6780117,(Profit,Multiplier:,,3),(MA,Periods,15,23),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,189015.6780117,(Profit,Multiplier:,,3),(MA,Periods,15,24),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,189015.6780117,(Profit,Multiplier:,,3),(MA,Periods,15,25),Total,trades,4
+2020-04-07T00:00:00,,Ending,Value,188806.420278,(Profit,Multiplier:,,1),(MA,Periods,18,22),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,188806.420278,(Profit,Multiplier:,,1),(MA,Periods,16,23),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,188806.420278,(Profit,Multiplier:,,1),(MA,Periods,17,23),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,188806.420278,(Profit,Multiplier:,,1),(MA,Periods,18,23),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,188806.420278,(Profit,Multiplier:,,1),(MA,Periods,16,24),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,188061.4050395,(Profit,Multiplier:,,2),(MA,Periods,15,21),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,188061.4050395,(Profit,Multiplier:,,2),(MA,Periods,16,21),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,188061.4050395,(Profit,Multiplier:,,2),(MA,Periods,17,21),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,186491.0570395,(Profit,Multiplier:,,2),(MA,Periods,15,22),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,186491.0570395,(Profit,Multiplier:,,2),(MA,Periods,16,22),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,186491.0570395,(Profit,Multiplier:,,2),(MA,Periods,15,23),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,186491.0570395,(Profit,Multiplier:,,2),(MA,Periods,15,24),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,186491.0570395,(Profit,Multiplier:,,2),(MA,Periods,15,25),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,185043.8684395,(Profit,Multiplier:,,1),(MA,Periods,26,22),Total,trades,12
+2020-04-07T00:00:00,,Ending,Value,184716.1383875,(Profit,Multiplier:,,1),(MA,Periods,27,21),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,184649.9976537,(Profit,Multiplier:,,1),(MA,Periods,27,20),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,184553.6940275,(Profit,Multiplier:,,1),(MA,Periods,17,27),Total,trades,11
+2020-04-07T00:00:00,,Ending,Value,184335.6391937,(Profit,Multiplier:,,1),(MA,Periods,16,26),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,184151.8999432,(Profit,Multiplier:,,1),(MA,Periods,15,26),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,184085.075793,(Profit,Multiplier:,,1),(MA,Periods,18,27),Total,trades,10
+2020-04-07T00:00:00,,Ending,Value,182718.6465405,(Profit,Multiplier:,,1),(MA,Periods,18,20),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,182718.6465405,(Profit,Multiplier:,,1),(MA,Periods,19,20),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,182718.6465405,(Profit,Multiplier:,,1),(MA,Periods,18,21),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,182683.9242555,(Profit,Multiplier:,,1),(MA,Periods,15,20),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,182683.9242555,(Profit,Multiplier:,,1),(MA,Periods,16,20),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,182683.9242555,(Profit,Multiplier:,,1),(MA,Periods,17,20),Total,trades,7
+2020-04-07T00:00:00,,Ending,Value,182116.9314655,(Profit,Multiplier:,,1),(MA,Periods,15,21),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,182116.9314655,(Profit,Multiplier:,,1),(MA,Periods,16,21),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,182116.9314655,(Profit,Multiplier:,,1),(MA,Periods,17,21),Total,trades,6
+2020-04-07T00:00:00,,Ending,Value,181594.3574655,(Profit,Multiplier:,,1),(MA,Periods,15,22),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,181594.3574655,(Profit,Multiplier:,,1),(MA,Periods,16,22),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,181594.3574655,(Profit,Multiplier:,,1),(MA,Periods,15,23),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,181594.3574655,(Profit,Multiplier:,,1),(MA,Periods,15,24),Total,trades,5
+2020-04-07T00:00:00,,Ending,Value,181594.3574655,(Profit,Multiplier:,,1),(MA,Periods,15,25),Total,trades,5
