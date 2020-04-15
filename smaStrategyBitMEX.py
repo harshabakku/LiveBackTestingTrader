@@ -4,7 +4,6 @@ from __future__ import (absolute_import, division, print_function,
 import datetime  # For datetime objects
 import os.path  # To manage paths
 import sys  # To find out the script name (in argv[0])
-import pandas
 import math
 
 
@@ -32,6 +31,9 @@ class TestStrategy(bt.Strategy):
         # Keep a reference to the "close" line in the data[0] dataseries
         self.dataclose = self.datas[0].close
         self.dataopen  = self.datas[0].open
+        self.datahigh  = self.datas[0].high
+        self.datalow   = self.datas[0].low
+                  
 
         # To keep track of pending orders and buy price/commission
         self.order = None
@@ -59,36 +61,25 @@ class TestStrategy(bt.Strategy):
         # Check if an order has been completed
         # Attention: broker could reject order if not enough cash
         if order.status in [order.Completed]:
-                       
+#           cancel take profit or stop loss order that was placed earlier //bracket order is efficient and this problem is eliminated.
+#            if 'name' in order.info:
+#                self.broker.cancel(self.order_dict[order.ref])
+#                print("other order cancelled")
+#                if self.order_dict[order.ref].executed.price > 0:
+#                    print(' problem error take profit and stop loss got executed ################################################################################################')
+#                    self.log('Open %.7f ,High %.7f ,Low %.7f , Close %.7f,  SMA1,2 %.7f %.7f' % (self.dataopen[0],self.datahigh[0],self.datalow[0], self.dataclose[0], self.sma1[0], self.sma2[0]), doprint=True)
+#        
             if order.isbuy():
 
                 self.buyprice = order.executed.price
                 self.buycomm = order.executed.comm
                 
-                stop_loss = order.executed.price*(1.0 - (self.p.stoploss))
-                take_profit = order.executed.price*(1.0 + self.p.profit_mult*(self.p.stoploss))
-
-#                sl_ord = self.sell(exectype=bt.Order.Stop,
-#                                   price=stop_loss)
-#                sl_ord.addinfo(name="Stop")
-
-                tkp_ord = self.sell(exectype=bt.Order.Limit,
-                                    price=take_profit)
-                tkp_ord.addinfo(name="Prof")
-
-#                self.order_dict[sl_ord.ref] = tkp_ord
-#                self.order_dict[tkp_ord.ref] = sl_ord
                 
                 self.log(
                     'BUY EXECUTED, Price: %.7f, Cost: %.7f, Comm %.7f' %
                     (order.executed.price,
                      order.executed.value,
                      order.executed.comm))
-
-                self.log(
-                    'STOP LOSS : %.7f AND TAKE PROFIT : %.7f' %
-                    (stop_loss,
-                     take_profit))                
                 
             else:  # Sell
                 self.log('SELL EXECUTED, Price: %.7f, Cost: %.7f, Comm %.7f' %
@@ -115,7 +106,7 @@ class TestStrategy(bt.Strategy):
 
     def next(self):
         # Simply log the closing price of the series from the reference
-        self.log('Open %.7f , Close %.7f,  SMA1,2 %.7f %.7f' % (self.dataopen[0], self.dataclose[0], self.sma1[0], self.sma2[0]))
+        self.log('Open %.7f , High %.7f , Low %.7f , Close %.7f,  SMA1,2 %.7f %.7f' % (self.dataopen[0],self.datahigh[0],self.datalow[0], self.dataclose[0], self.sma1[0], self.sma2[0]))
         
 #        handle NaN data that causes Order Canceled/Margin/Rejected error 
         if (math.isnan(self.dataopen[0]) or math.isnan(self.dataclose[0]) or math.isnan(self.sma1[0]) or math.isnan(self.sma2[0])):
@@ -135,9 +126,31 @@ class TestStrategy(bt.Strategy):
                     # BUY, BUY, BUY!!! (with all possible default parameters)
 #                    self.log('BUY CREATE, %.7f' % self.dataclose[0])
     
+    
+                    order_price = self.dataclose[0];
+                    stop_loss = order_price*(1.0 - (self.p.stoploss))
+                    take_profit = order_price*(1.0 + self.p.profit_mult*(self.p.stoploss))
+    
                     # Keep track of the created order to avoid a 2nd order
-                    self.order = self.buy()
+                    self.order = self.buy_bracket(limitprice=take_profit, price=order_price, stopprice=stop_loss)
+
     #                self.log(self.order)
+                       
+#                    sl_ord = self.sell(exectype=bt.Order.Stop,
+#                                       price=stop_loss)
+#                    sl_ord.addinfo(name="Stop")
+#    
+#                    tkp_ord = self.sell(exectype=bt.Order.Limit,
+#                                        price=take_profit)
+#                    tkp_ord.addinfo(name="Prof")
+#    
+#                    self.order_dict[sl_ord.ref] = tkp_ord
+#                    self.order_dict[tkp_ord.ref] = sl_ord
+    
+                    self.log(
+                        'STOP LOSS : %.7f AND TAKE PROFIT : %.7f' %
+                        (stop_loss,
+                         take_profit))                
 
                
        # else:
@@ -243,17 +256,17 @@ if __name__ == '__main__':
 #        # Do not pass values after this date
 #        reverse=False)
 
-    data = bt.feeds.GenericCSVData(dataname="./datas/na_cleaned_2019_BTC_USD.csv",
-                                   datetime=1,
-                                   fromdate=datetime.datetime(2019,2,21),
-                                   todate=datetime.datetime(2019,6,21),
-                                   open=2,
-                                   high=3,
-                                   low=4,
-                                   close=5,
+    data = bt.feeds.GenericCSVData(dataname="./datas/bitmex_XBT_USD.csv",
+                                   datetime=0,
+                                   fromdate=datetime.datetime(2018,3,21),
+                                   todate=datetime.datetime(2020,3,21),
+                                   open=1,
+                                   high=2,
+                                   low=3,
+                                   close=4,
                                    openinterest=-1,
                                    time=-1,
-                                   volume=-1,
+                                   volume=5,
                                    timeframe=bt.TimeFrame.Minutes,
                                    compression=1,
                                    dtformat=1)
@@ -263,7 +276,7 @@ if __name__ == '__main__':
 #   use resample functionality instead of adding 1 minute data directly
     cerebro.resampledata(data,
                          timeframe=bt.TimeFrame.Minutes,
-                         compression=30)
+                         compression=5)
     # Add the Data Feed to Cerebro
 
     # Set our desired cash start
