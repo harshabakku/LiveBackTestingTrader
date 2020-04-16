@@ -5,6 +5,7 @@ import datetime  # For datetime objects
 import os.path  # To manage paths
 import sys  # To find out the script name (in argv[0])
 import math
+from VolumeWeightedAveragePrice import VWAP
 
 
 # Import the backtrader platform
@@ -48,8 +49,10 @@ class TestStrategy(bt.Strategy):
         self.sma1 = bt.indicators.SimpleMovingAverage(
             self.datas[0], period=self.params.maperiod1)
         
-        self.sma2 = bt.indicators.SimpleMovingAverage(
-            self.datas[0], period=self.params.maperiod2)
+#        self.sma2 = bt.indicators.SimpleMovingAverage(
+#            self.datas[0], period=self.params.maperiod2)
+        
+        self.vwap = VWAP(period=self.params.maperiod1)
                     
             
 
@@ -106,10 +109,10 @@ class TestStrategy(bt.Strategy):
 
     def next(self):
         # Simply log the closing price of the series from the reference
-        self.log('Open %.7f , High %.7f , Low %.7f , Close %.7f,  SMA1,2 %.7f %.7f' % (self.dataopen[0],self.datahigh[0],self.datalow[0], self.dataclose[0], self.sma1[0], self.sma2[0]))
+        self.log('Open %.7f , High %.7f , Low %.7f , Close %.7f,  SMA %.7f , VWAP %.7f' % (self.dataopen[0],self.datahigh[0],self.datalow[0], self.dataclose[0], self.sma1[0], self.vwap[0]))
         
 #        handle NaN data that causes Order Canceled/Margin/Rejected error 
-        if (math.isnan(self.dataopen[0]) or math.isnan(self.dataclose[0]) or math.isnan(self.sma1[0]) or math.isnan(self.sma2[0])):
+        if (math.isnan(self.dataopen[0]) or math.isnan(self.dataclose[0]) or math.isnan(self.sma1[0]) or math.isnan(self.vwap[0])):
             return
         # Check if an order is pending ... if yes, we cannot send a 2nd one
         if self.order:
@@ -120,11 +123,11 @@ class TestStrategy(bt.Strategy):
 
             # Not yet ... we MIGHT BUY if ...
             # sma1 should be breaking out sma2, so check the earlier candle as well
-            if self.sma1[-1] <= self.sma2[-1]: 
-                if self.sma1[0] > self.sma2[0]:
+            if self.sma1[-1] <= self.vwap[-1]: 
+                if self.sma1[0] > self.vwap[0]:
     
                     # BUY, BUY, BUY!!! (with all possible default parameters)
-#                    self.log('BUY CREATE, %.7f' % self.dataclose[0])
+                    self.log('CREATE BRACKET ORDER WITH BUY , %.7f' % self.dataclose[0])
     
     
                     order_price = self.dataclose[0];
@@ -163,8 +166,8 @@ class TestStrategy(bt.Strategy):
        #         self.order = self.sell()
 
     def stop(self):
-        self.log('Ending Value %.7f (Profit Multiplier: %2d) (MA Periods %2d %2d) Total trades %.2f ' %
-                 (self.broker.getvalue(),self.params.profit_mult, self.params.maperiod1, self.params.maperiod2, self.trades ), doprint=True)
+        self.log('Ending Value %.7f (Profit Multiplier: %2d) (MA and VWAP Periods %2d ) Total trades %.2f ' %
+                 (self.broker.getvalue(),self.params.profit_mult, self.params.maperiod1, self.trades ), doprint=True)
 
 def printTradeAnalysis(analyzer):
         '''
@@ -240,7 +243,7 @@ if __name__ == '__main__':
 #    strats = cerebro.optstrategy(
 #        TestStrategy,
 #        maperiod1=range(10, 31))
-    cerebro.optstrategy(TestStrategy,  profit_mult = range(1,5), maperiod1 = range(15,30), maperiod2 = range(20,40))
+    cerebro.optstrategy(TestStrategy,  profit_mult = range(1,5), maperiod1 = range(15,30))
     # Datas are in a subfolder of the samples. Need to find where the script is
     # because it could have been called from anywhere
     modpath = os.path.dirname(os.path.abspath(sys.argv[0]))

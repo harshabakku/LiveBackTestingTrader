@@ -4,6 +4,8 @@
 @author: harsha
 
 
+just take profit over 2 years results in losses
+take profit and stop loss sma crossover results in severe losses 100000 reduced to 5000
 
 
 
