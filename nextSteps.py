@@ -3,14 +3,14 @@
 
 @author: harsha
 
-
-just take profit over 2 years results in losses
-take profit and stop loss sma crossover results in severe losses 100000 reduced to 5000
-
+vwap crossover strategy and vwap mean reversion strategy once long is profitable, add short brackets as well 
+and then comes in leverage as last piece of this game. 
 
 
-take profit and stop loss should go in together, need to use bracket orders
-then maybe include VWMA to see improvement
+find signals and place multiple buy orders wait for their take profit close.
+
+
+
 trailing stop loss without taking profit is also a good idea, to catch the peaks and variable profitablity
 
 analyze every day or every weeks trades 
@@ -18,12 +18,26 @@ as backtesting is not real testing, see if we can count on params computed using
 and use it for one day/one week in reality
 
 
-find signals and place multiple buy orders wait for their take profit close.
+
+-------------------------------------------done----------------------------------------------------
+
+
+just take profit over 2 years results in losses
+take profit and stop loss sma crossover results in severe losses 100000 reduced to 5000
+sma vwma crossover results for all periods also results in losses.
+
+
+
+
+take profit and stop loss should go in together, need to use bracket orders
+then maybe include VWMA to see improvement
 
 
 
 70 percent in 4 months for BTC data in 2019.
 backtest for entire  2 year BTC data to see results. //simple take profit obviously returns in losses
+
+
 
 
 

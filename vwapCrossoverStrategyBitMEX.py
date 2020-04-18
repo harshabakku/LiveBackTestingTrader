@@ -34,6 +34,7 @@ class TestStrategy(bt.Strategy):
         self.dataopen  = self.datas[0].open
         self.datahigh  = self.datas[0].high
         self.datalow   = self.datas[0].low
+        self.datavolume = self.datas[0].volume
                   
 
         # To keep track of pending orders and buy price/commission
@@ -109,7 +110,7 @@ class TestStrategy(bt.Strategy):
 
     def next(self):
         # Simply log the closing price of the series from the reference
-        self.log('Open %.7f , High %.7f , Low %.7f , Close %.7f,  SMA %.7f , VWAP %.7f' % (self.dataopen[0],self.datahigh[0],self.datalow[0], self.dataclose[0], self.sma1[0], self.vwap[0]))
+        self.log('Open %.7f , High %.7f , Low %.7f , Close %.7f, Volume %.7f,  SMA %.7f , VWAP %.7f' % (self.dataopen[0],self.datahigh[0],self.datalow[0], self.dataclose[0], self.datavolume[0],self.sma1[0], self.vwap[0]))
         
 #        handle NaN data that causes Order Canceled/Margin/Rejected error 
         if (math.isnan(self.dataopen[0]) or math.isnan(self.dataclose[0]) or math.isnan(self.sma1[0]) or math.isnan(self.vwap[0])):
@@ -124,7 +125,7 @@ class TestStrategy(bt.Strategy):
             # Not yet ... we MIGHT BUY if ...
             # sma1 should be breaking out sma2, so check the earlier candle as well
             if self.sma1[-1] <= self.vwap[-1]: 
-                if self.sma1[0] > self.vwap[0]:
+                if (self.sma1[0] > self.vwap[0] and self.datavolume[0] > self.datavolume[-1] and self.datavolume[-1] > self.datavolume[-2] and self.datavolume[-2] > self.datavolume[-3]):
     
                     # BUY, BUY, BUY!!! (with all possible default parameters)
                     self.log('CREATE BRACKET ORDER WITH BUY , %.7f' % self.dataclose[0])
@@ -243,7 +244,7 @@ if __name__ == '__main__':
 #    strats = cerebro.optstrategy(
 #        TestStrategy,
 #        maperiod1=range(10, 31))
-    cerebro.optstrategy(TestStrategy,  profit_mult = range(1,5), maperiod1 = range(15,30))
+    cerebro.optstrategy(TestStrategy,  profit_mult = range(1,5), maperiod1 = range(3,100))
     # Datas are in a subfolder of the samples. Need to find where the script is
     # because it could have been called from anywhere
     modpath = os.path.dirname(os.path.abspath(sys.argv[0]))
