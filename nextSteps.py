@@ -6,6 +6,12 @@
 vwap crossover strategy and vwap mean reversion strategy once long is profitable, add short brackets as well 
 and then comes in leverage as last piece of this game. 
 
+rsi divergence is dif to implement and opens up a lot of possiblities. using simple RSI 30, 70, 20, 80, // relative minima, maxima
+
+std deviation away from VWAP makes sense as well....
+
+VWMA of RSI is also a good idea.
+stoch RSI
 
 find signals and place multiple buy orders wait for their take profit close.
 

@@ -55,7 +55,10 @@ class TestStrategy(bt.Strategy):
 #        self.sma2 = bt.indicators.SimpleMovingAverage(
 #            self.datas[0], period=self.params.maperiod2)
         
+        self.std = bt.indicators.StandardDeviation(
+            self.data.close, period=self.params.maperiod1)
         self.vwap = VWAP(period=self.params.maperiod1)
+                    
                     
             
 
@@ -112,7 +115,7 @@ class TestStrategy(bt.Strategy):
 
     def next(self):
         # Simply log the closing price of the series from the reference
-        self.log('Open %.7f , High %.7f , Low %.7f , Close %.7f, Volume %.7f,  SMA %.7f , VWAP %.7f, RSI %.7f' % (self.dataopen[0],self.datahigh[0],self.datalow[0], self.dataclose[0], self.datavolume[0],self.sma1[0], self.vwap[0], self.rsi[0]))
+        self.log('Open %.7f , High %.7f , Low %.7f , Close %.7f, Volume %.7f,  SMA %.7f , VWAP %.7f, RSI %.7f, STD %.7f' % (self.dataopen[0],self.datahigh[0],self.datalow[0], self.dataclose[0], self.datavolume[0],self.sma1[0], self.vwap[0], self.rsi[0], self.std[0]))
         
 #        handle NaN data that causes Order Canceled/Margin/Rejected error 
         if (math.isnan(self.dataopen[0]) or math.isnan(self.dataclose[0]) or math.isnan(self.sma1[0]) or math.isnan(self.vwap[0])):
@@ -126,9 +129,11 @@ class TestStrategy(bt.Strategy):
 
             # Not yet ... we MIGHT BUY if ...
             # price candle should be breaking out, so check the earlier candle as well
-            if (self.dataclose[-1] < self.vwap[-1] and self.dataopen[-1] < self.vwap[-1] and self.rsi[0] > self.rsi[-1]) : 
+            if (self.dataclose[0] + 2*self.std[0] < self.vwap[0] ) : 
 #            self.rsi[0] > self.rsi[-1]) : #vwap breakout by price ,and rsi condition 
-                if (self.dataclose[0] > self.vwap[0] and self.datavolume[0] > self.datavolume[-1] and self.datavolume[-1] > self.datavolume[-2] and self.datavolume[-2] > self.datavolume[-3]):
+                if (self.dataclose[0] < self.vwap[0] 
+#                and self.datavolume[0] > self.datavolume[-1] and self.datavolume[-1] > self.datavolume[-2] and self.datavolume[-2] > self.datavolume[-3]
+                ):
     
                     # BUY, BUY, BUY!!! (with all possible default parameters)
                     self.log('CREATE BRACKET ORDER WITH BUY , %.7f' % self.dataclose[0])
