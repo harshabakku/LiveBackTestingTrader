@@ -1,0 +1,696 @@
+2020-03-21T00:00:00, Ending Value 99220.9490500 (Profit Multiplier:  1) ( VWAP Period  1 std increment  1 ) Total trades 14.00 
+2020-03-21T00:00:00, Ending Value 97025.6240625 (Profit Multiplier:  1) ( VWAP Period  1 std increment  0 ) Total trades 62.00 
+2020-03-21T00:00:00, Ending Value 98167.0715375 (Profit Multiplier:  1) ( VWAP Period  2 std increment  0 ) Total trades 41.00 
+2020-03-21T00:00:00, Ending Value 98705.7262250 (Profit Multiplier:  1) ( VWAP Period  3 std increment  0 ) Total trades 20.00 
+2020-03-21T00:00:00, Ending Value 99369.4025750 (Profit Multiplier:  1) ( VWAP Period  4 std increment  0 ) Total trades 14.00 
+2020-03-21T00:00:00, Ending Value 99461.1996000 (Profit Multiplier:  1) ( VWAP Period  5 std increment  0 ) Total trades 9.00 
+2020-03-21T00:00:00, Ending Value 99452.5955375 (Profit Multiplier:  1) ( VWAP Period  6 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99590.6059625 (Profit Multiplier:  1) ( VWAP Period  7 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 100026.0043250 (Profit Multiplier:  1) ( VWAP Period  8 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  1) ( VWAP Period  9 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  1) ( VWAP Period 10 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  1) ( VWAP Period 11 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  1) ( VWAP Period 12 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  1) ( VWAP Period 13 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  1) ( VWAP Period 14 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  1) ( VWAP Period 15 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 99861.5336625 (Profit Multiplier:  1) ( VWAP Period 16 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99861.5336625 (Profit Multiplier:  1) ( VWAP Period 17 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  1) ( VWAP Period 18 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  1) ( VWAP Period 19 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  1) ( VWAP Period 20 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  1) ( VWAP Period 21 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  1) ( VWAP Period 22 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  1) ( VWAP Period 23 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  1) ( VWAP Period 24 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  1) ( VWAP Period 25 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  1) ( VWAP Period 26 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  1) ( VWAP Period 27 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  1) ( VWAP Period 28 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  1) ( VWAP Period 29 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  1) ( VWAP Period 30 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  1) ( VWAP Period 31 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99903.4687875 (Profit Multiplier:  1) ( VWAP Period 32 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99903.4687875 (Profit Multiplier:  1) ( VWAP Period 33 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99903.4687875 (Profit Multiplier:  1) ( VWAP Period 34 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99903.4687875 (Profit Multiplier:  1) ( VWAP Period 35 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 36 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 37 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 38 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 39 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 40 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 41 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 42 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 43 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 44 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 45 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99771.9337500 (Profit Multiplier:  1) ( VWAP Period 46 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99771.9337500 (Profit Multiplier:  1) ( VWAP Period 47 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99653.7384875 (Profit Multiplier:  1) ( VWAP Period 48 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99653.7384875 (Profit Multiplier:  1) ( VWAP Period 49 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99568.7179250 (Profit Multiplier:  1) ( VWAP Period 50 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99422.9563500 (Profit Multiplier:  1) ( VWAP Period 51 std increment  0 ) Total trades 6.00 
+2020-03-21T00:00:00, Ending Value 99422.9563500 (Profit Multiplier:  1) ( VWAP Period 52 std increment  0 ) Total trades 6.00 
+2020-03-21T00:00:00, Ending Value 99422.9563500 (Profit Multiplier:  1) ( VWAP Period 53 std increment  0 ) Total trades 6.00 
+2020-03-21T00:00:00, Ending Value 99283.6738750 (Profit Multiplier:  1) ( VWAP Period 54 std increment  0 ) Total trades 7.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  1) ( VWAP Period 55 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  1) ( VWAP Period 56 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  1) ( VWAP Period 57 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  1) ( VWAP Period 58 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  1) ( VWAP Period 59 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  1) ( VWAP Period 60 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  1) ( VWAP Period 61 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 62 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 63 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 64 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 65 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 66 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 67 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 68 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 69 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 70 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 71 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 72 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 73 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 74 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 75 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 76 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 77 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 78 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 79 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 80 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 81 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 82 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 83 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 84 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  1) ( VWAP Period 85 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  1) ( VWAP Period 86 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  1) ( VWAP Period 87 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  1) ( VWAP Period 88 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  1) ( VWAP Period 89 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  1) ( VWAP Period 90 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  1) ( VWAP Period 91 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  1) ( VWAP Period 92 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  1) ( VWAP Period 93 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  1) ( VWAP Period 94 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  1) ( VWAP Period 95 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  1) ( VWAP Period 96 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  1) ( VWAP Period 97 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  1) ( VWAP Period 98 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99625.0709250 (Profit Multiplier:  1) ( VWAP Period 99 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 97375.9636875 (Profit Multiplier:  2) ( VWAP Period  1 std increment  0 ) Total trades 50.00 
+2020-03-21T00:00:00, Ending Value 98170.7721625 (Profit Multiplier:  2) ( VWAP Period  2 std increment  0 ) Total trades 36.00 
+2020-03-21T00:00:00, Ending Value 99038.8263875 (Profit Multiplier:  2) ( VWAP Period  3 std increment  0 ) Total trades 20.00 
+2020-03-21T00:00:00, Ending Value 99349.0136750 (Profit Multiplier:  2) ( VWAP Period  4 std increment  0 ) Total trades 14.00 
+2020-03-21T00:00:00, Ending Value 99488.4313500 (Profit Multiplier:  2) ( VWAP Period  5 std increment  0 ) Total trades 9.00 
+2020-03-21T00:00:00, Ending Value 99452.5955375 (Profit Multiplier:  2) ( VWAP Period  6 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99590.6059625 (Profit Multiplier:  2) ( VWAP Period  7 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 100078.1436500 (Profit Multiplier:  2) ( VWAP Period  8 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  2) ( VWAP Period  9 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  2) ( VWAP Period 10 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  2) ( VWAP Period 11 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  2) ( VWAP Period 12 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  2) ( VWAP Period 13 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  2) ( VWAP Period 14 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  2) ( VWAP Period 15 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 99861.5336625 (Profit Multiplier:  2) ( VWAP Period 16 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99861.5336625 (Profit Multiplier:  2) ( VWAP Period 17 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  2) ( VWAP Period 18 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  2) ( VWAP Period 19 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  2) ( VWAP Period 20 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  2) ( VWAP Period 21 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  2) ( VWAP Period 22 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  2) ( VWAP Period 23 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  2) ( VWAP Period 24 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  2) ( VWAP Period 25 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  2) ( VWAP Period 26 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  2) ( VWAP Period 27 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  2) ( VWAP Period 28 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  2) ( VWAP Period 29 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  2) ( VWAP Period 30 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  2) ( VWAP Period 31 std increment  0 ) Total trades 1.00 2020-03-21T00:00:00, Ending Value 97025.6240625 (Profit Multiplier:  1) ( VWAP Period  1 std increment  0 ) Total trades 62.00 
+2020-03-21T00:00:00, Ending Value 98167.0715375 (Profit Multiplier:  1) ( VWAP Period  2 std increment  0 ) Total trades 41.00 
+2020-03-21T00:00:00, Ending Value 98705.7262250 (Profit Multiplier:  1) ( VWAP Period  3 std increment  0 ) Total trades 20.00 
+2020-03-21T00:00:00, Ending Value 99369.4025750 (Profit Multiplier:  1) ( VWAP Period  4 std increment  0 ) Total trades 14.00 
+2020-03-21T00:00:00, Ending Value 99461.1996000 (Profit Multiplier:  1) ( VWAP Period  5 std increment  0 ) Total trades 9.00 
+2020-03-21T00:00:00, Ending Value 99452.5955375 (Profit Multiplier:  1) ( VWAP Period  6 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99590.6059625 (Profit Multiplier:  1) ( VWAP Period  7 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 100026.0043250 (Profit Multiplier:  1) ( VWAP Period  8 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  1) ( VWAP Period  9 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  1) ( VWAP Period 10 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  1) ( VWAP Period 11 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  1) ( VWAP Period 12 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  1) ( VWAP Period 13 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  1) ( VWAP Period 14 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  1) ( VWAP Period 15 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 99861.5336625 (Profit Multiplier:  1) ( VWAP Period 16 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99861.5336625 (Profit Multiplier:  1) ( VWAP Period 17 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  1) ( VWAP Period 18 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  1) ( VWAP Period 19 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  1) ( VWAP Period 20 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  1) ( VWAP Period 21 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  1) ( VWAP Period 22 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  1) ( VWAP Period 23 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  1) ( VWAP Period 24 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  1) ( VWAP Period 25 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  1) ( VWAP Period 26 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  1) ( VWAP Period 27 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  1) ( VWAP Period 28 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  1) ( VWAP Period 29 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  1) ( VWAP Period 30 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  1) ( VWAP Period 31 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99903.4687875 (Profit Multiplier:  1) ( VWAP Period 32 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99903.4687875 (Profit Multiplier:  1) ( VWAP Period 33 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99903.4687875 (Profit Multiplier:  1) ( VWAP Period 34 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99903.4687875 (Profit Multiplier:  1) ( VWAP Period 35 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 36 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 37 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 38 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 39 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 40 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 41 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 42 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 43 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 44 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  1) ( VWAP Period 45 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99771.9337500 (Profit Multiplier:  1) ( VWAP Period 46 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99771.9337500 (Profit Multiplier:  1) ( VWAP Period 47 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99653.7384875 (Profit Multiplier:  1) ( VWAP Period 48 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99653.7384875 (Profit Multiplier:  1) ( VWAP Period 49 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99568.7179250 (Profit Multiplier:  1) ( VWAP Period 50 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99422.9563500 (Profit Multiplier:  1) ( VWAP Period 51 std increment  0 ) Total trades 6.00 
+2020-03-21T00:00:00, Ending Value 99422.9563500 (Profit Multiplier:  1) ( VWAP Period 52 std increment  0 ) Total trades 6.00 
+2020-03-21T00:00:00, Ending Value 99422.9563500 (Profit Multiplier:  1) ( VWAP Period 53 std increment  0 ) Total trades 6.00 
+2020-03-21T00:00:00, Ending Value 99283.6738750 (Profit Multiplier:  1) ( VWAP Period 54 std increment  0 ) Total trades 7.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  1) ( VWAP Period 55 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  1) ( VWAP Period 56 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  1) ( VWAP Period 57 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  1) ( VWAP Period 58 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  1) ( VWAP Period 59 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  1) ( VWAP Period 60 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  1) ( VWAP Period 61 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 62 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 63 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 64 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 65 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 66 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 67 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 68 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 69 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 70 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 71 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  1) ( VWAP Period 72 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 73 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 74 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 75 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 76 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 77 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 78 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 79 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 80 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 81 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 82 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 83 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  1) ( VWAP Period 84 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  1) ( VWAP Period 85 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  1) ( VWAP Period 86 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  1) ( VWAP Period 87 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  1) ( VWAP Period 88 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  1) ( VWAP Period 89 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  1) ( VWAP Period 90 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  1) ( VWAP Period 91 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  1) ( VWAP Period 92 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  1) ( VWAP Period 93 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  1) ( VWAP Period 94 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  1) ( VWAP Period 95 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  1) ( VWAP Period 96 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  1) ( VWAP Period 97 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  1) ( VWAP Period 98 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99625.0709250 (Profit Multiplier:  1) ( VWAP Period 99 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 97375.9636875 (Profit Multiplier:  2) ( VWAP Period  1 std increment  0 ) Total trades 50.00 
+2020-03-21T00:00:00, Ending Value 98170.7721625 (Profit Multiplier:  2) ( VWAP Period  2 std increment  0 ) Total trades 36.00 
+2020-03-21T00:00:00, Ending Value 99038.8263875 (Profit Multiplier:  2) ( VWAP Period  3 std increment  0 ) Total trades 20.00 
+2020-03-21T00:00:00, Ending Value 99349.0136750 (Profit Multiplier:  2) ( VWAP Period  4 std increment  0 ) Total trades 14.00 
+2020-03-21T00:00:00, Ending Value 99488.4313500 (Profit Multiplier:  2) ( VWAP Period  5 std increment  0 ) Total trades 9.00 
+2020-03-21T00:00:00, Ending Value 99452.5955375 (Profit Multiplier:  2) ( VWAP Period  6 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99590.6059625 (Profit Multiplier:  2) ( VWAP Period  7 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 100078.1436500 (Profit Multiplier:  2) ( VWAP Period  8 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  2) ( VWAP Period  9 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  2) ( VWAP Period 10 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  2) ( VWAP Period 11 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  2) ( VWAP Period 12 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  2) ( VWAP Period 13 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  2) ( VWAP Period 14 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  2) ( VWAP Period 15 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 99861.5336625 (Profit Multiplier:  2) ( VWAP Period 16 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99861.5336625 (Profit Multiplier:  2) ( VWAP Period 17 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  2) ( VWAP Period 18 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  2) ( VWAP Period 19 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  2) ( VWAP Period 20 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  2) ( VWAP Period 21 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  2) ( VWAP Period 22 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  2) ( VWAP Period 23 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  2) ( VWAP Period 24 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  2) ( VWAP Period 25 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  2) ( VWAP Period 26 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  2) ( VWAP Period 27 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  2) ( VWAP Period 28 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  2) ( VWAP Period 29 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  2) ( VWAP Period 30 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  2) ( VWAP Period 31 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99998.9893875 (Profit Multiplier:  2) ( VWAP Period 32 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99998.9893875 (Profit Multiplier:  2) ( VWAP Period 33 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99998.9893875 (Profit Multiplier:  2) ( VWAP Period 34 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99998.9893875 (Profit Multiplier:  2) ( VWAP Period 35 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  2) ( VWAP Period 36 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  2) ( VWAP Period 37 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  2) ( VWAP Period 38 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  2) ( VWAP Period 39 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  2) ( VWAP Period 40 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  2) ( VWAP Period 41 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  2) ( VWAP Period 42 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  2) ( VWAP Period 43 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  2) ( VWAP Period 44 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  2) ( VWAP Period 45 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99862.7511375 (Profit Multiplier:  2) ( VWAP Period 46 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99862.7511375 (Profit Multiplier:  2) ( VWAP Period 47 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99744.6057500 (Profit Multiplier:  2) ( VWAP Period 48 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99744.6057500 (Profit Multiplier:  2) ( VWAP Period 49 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99659.5851875 (Profit Multiplier:  2) ( VWAP Period 50 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99513.7737375 (Profit Multiplier:  2) ( VWAP Period 51 std increment  0 ) Total trades 6.00 
+2020-03-21T00:00:00, Ending Value 99513.7737375 (Profit Multiplier:  2) ( VWAP Period 52 std increment  0 ) Total trades 6.00 
+2020-03-21T00:00:00, Ending Value 99513.7737375 (Profit Multiplier:  2) ( VWAP Period 53 std increment  0 ) Total trades 6.00 
+2020-03-21T00:00:00, Ending Value 99374.4912625 (Profit Multiplier:  2) ( VWAP Period 54 std increment  0 ) Total trades 7.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  2) ( VWAP Period 55 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  2) ( VWAP Period 56 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  2) ( VWAP Period 57 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  2) ( VWAP Period 58 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  2) ( VWAP Period 59 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  2) ( VWAP Period 60 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  2) ( VWAP Period 61 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  2) ( VWAP Period 62 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  2) ( VWAP Period 63 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  2) ( VWAP Period 64 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  2) ( VWAP Period 65 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  2) ( VWAP Period 66 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  2) ( VWAP Period 67 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  2) ( VWAP Period 68 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  2) ( VWAP Period 69 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  2) ( VWAP Period 70 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  2) ( VWAP Period 71 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  2) ( VWAP Period 72 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  2) ( VWAP Period 73 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  2) ( VWAP Period 74 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  2) ( VWAP Period 75 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  2) ( VWAP Period 76 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  2) ( VWAP Period 77 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  2) ( VWAP Period 78 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  2) ( VWAP Period 79 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  2) ( VWAP Period 80 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  2) ( VWAP Period 81 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  2) ( VWAP Period 82 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  2) ( VWAP Period 83 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  2) ( VWAP Period 84 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  2) ( VWAP Period 85 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  2) ( VWAP Period 86 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  2) ( VWAP Period 87 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  2) ( VWAP Period 88 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  2) ( VWAP Period 89 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  2) ( VWAP Period 90 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  2) ( VWAP Period 91 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  2) ( VWAP Period 92 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  2) ( VWAP Period 93 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  2) ( VWAP Period 94 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  2) ( VWAP Period 95 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  2) ( VWAP Period 96 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  2) ( VWAP Period 97 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  2) ( VWAP Period 98 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99625.0709250 (Profit Multiplier:  2) ( VWAP Period 99 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 97352.3893125 (Profit Multiplier:  3) ( VWAP Period  1 std increment  0 ) Total trades 49.00 
+2020-03-21T00:00:00, Ending Value 98509.8355625 (Profit Multiplier:  3) ( VWAP Period  2 std increment  0 ) Total trades 35.00 
+2020-03-21T00:00:00, Ending Value 99020.5671500 (Profit Multiplier:  3) ( VWAP Period  3 std increment  0 ) Total trades 20.00 
+2020-03-21T00:00:00, Ending Value 99326.0911250 (Profit Multiplier:  3) ( VWAP Period  4 std increment  0 ) Total trades 14.00 
+2020-03-21T00:00:00, Ending Value 99682.6944750 (Profit Multiplier:  3) ( VWAP Period  5 std increment  0 ) Total trades 9.00 
+2020-03-21T00:00:00, Ending Value 99452.5955375 (Profit Multiplier:  3) ( VWAP Period  6 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99590.6059625 (Profit Multiplier:  3) ( VWAP Period  7 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99921.7256750 (Profit Multiplier:  3) ( VWAP Period  8 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  3) ( VWAP Period  9 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  3) ( VWAP Period 10 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  3) ( VWAP Period 11 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  3) ( VWAP Period 12 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  3) ( VWAP Period 13 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  3) ( VWAP Period 14 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  3) ( VWAP Period 15 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 99861.5336625 (Profit Multiplier:  3) ( VWAP Period 16 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99861.5336625 (Profit Multiplier:  3) ( VWAP Period 17 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  3) ( VWAP Period 18 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  3) ( VWAP Period 19 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  3) ( VWAP Period 20 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  3) ( VWAP Period 21 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  3) ( VWAP Period 22 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  3) ( VWAP Period 23 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  3) ( VWAP Period 24 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  3) ( VWAP Period 25 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  3) ( VWAP Period 26 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  3) ( VWAP Period 27 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  3) ( VWAP Period 28 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  3) ( VWAP Period 29 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  3) ( VWAP Period 30 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  3) ( VWAP Period 31 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 100094.5099875 (Profit Multiplier:  3) ( VWAP Period 32 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 100094.5099875 (Profit Multiplier:  3) ( VWAP Period 33 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 100094.5099875 (Profit Multiplier:  3) ( VWAP Period 34 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 100094.5099875 (Profit Multiplier:  3) ( VWAP Period 35 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  3) ( VWAP Period 36 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  3) ( VWAP Period 37 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  3) ( VWAP Period 38 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  3) ( VWAP Period 39 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  3) ( VWAP Period 40 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  3) ( VWAP Period 41 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  3) ( VWAP Period 42 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  3) ( VWAP Period 43 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  3) ( VWAP Period 44 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  3) ( VWAP Period 45 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99953.5685250 (Profit Multiplier:  3) ( VWAP Period 46 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99953.5685250 (Profit Multiplier:  3) ( VWAP Period 47 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99835.4730125 (Profit Multiplier:  3) ( VWAP Period 48 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99835.4730125 (Profit Multiplier:  3) ( VWAP Period 49 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99750.4524500 (Profit Multiplier:  3) ( VWAP Period 50 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99604.5911250 (Profit Multiplier:  3) ( VWAP Period 51 std increment  0 ) Total trades 6.00 
+2020-03-21T00:00:00, Ending Value 99604.5911250 (Profit Multiplier:  3) ( VWAP Period 52 std increment  0 ) Total trades 6.00 
+2020-03-21T00:00:00, Ending Value 99604.5911250 (Profit Multiplier:  3) ( VWAP Period 53 std increment  0 ) Total trades 6.00 
+2020-03-21T00:00:00, Ending Value 99465.3086500 (Profit Multiplier:  3) ( VWAP Period 54 std increment  0 ) Total trades 7.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  3) ( VWAP Period 55 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  3) ( VWAP Period 56 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  3) ( VWAP Period 57 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  3) ( VWAP Period 58 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  3) ( VWAP Period 59 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  3) ( VWAP Period 60 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  3) ( VWAP Period 61 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  3) ( VWAP Period 62 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  3) ( VWAP Period 63 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  3) ( VWAP Period 64 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  3) ( VWAP Period 65 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  3) ( VWAP Period 66 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  3) ( VWAP Period 67 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  3) ( VWAP Period 68 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  3) ( VWAP Period 69 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  3) ( VWAP Period 70 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  3) ( VWAP Period 71 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  3) ( VWAP Period 72 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  3) ( VWAP Period 73 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  3) ( VWAP Period 74 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  3) ( VWAP Period 75 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  3) ( VWAP Period 76 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  3) ( VWAP Period 77 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  3) ( VWAP Period 78 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  3) ( VWAP Period 79 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  3) ( VWAP Period 80 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  3) ( VWAP Period 81 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  3) ( VWAP Period 82 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  3) ( VWAP Period 83 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  3) ( VWAP Period 84 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  3) ( VWAP Period 85 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  3) ( VWAP Period 86 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  3) ( VWAP Period 87 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  3) ( VWAP Period 88 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  3) ( VWAP Period 89 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  3) ( VWAP Period 90 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  3) ( VWAP Period 91 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  3) ( VWAP Period 92 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  3) ( VWAP Period 93 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  3) ( VWAP Period 94 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  3) ( VWAP Period 95 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  3) ( VWAP Period 96 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  3) ( VWAP Period 97 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  3) ( VWAP Period 98 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99625.0709250 (Profit Multiplier:  3) ( VWAP Period 99 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 97148.3414625 (Profit Multiplier:  4) ( VWAP Period  1 std increment  0 ) Total trades 47.00 
+2020-03-21T00:00:00, Ending Value 98748.0453250 (Profit Multiplier:  4) ( VWAP Period  2 std increment  0 ) Total trades 33.00 
+2020-03-21T00:00:00, Ending Value 99402.3602750 (Profit Multiplier:  4) ( VWAP Period  3 std increment  0 ) Total trades 20.00 
+2020-03-21T00:00:00, Ending Value 99309.8917250 (Profit Multiplier:  4) ( VWAP Period  4 std increment  0 ) Total trades 14.00 
+2020-03-21T00:00:00, Ending Value 99161.7002250 (Profit Multiplier:  4) ( VWAP Period  5 std increment  0 ) Total trades 9.00 
+2020-03-21T00:00:00, Ending Value 99452.5955375 (Profit Multiplier:  4) ( VWAP Period  6 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99590.6059625 (Profit Multiplier:  4) ( VWAP Period  7 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99921.7256750 (Profit Multiplier:  4) ( VWAP Period  8 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  4) ( VWAP Period  9 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  4) ( VWAP Period 10 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99889.7840000 (Profit Multiplier:  4) ( VWAP Period 11 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  4) ( VWAP Period 12 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  4) ( VWAP Period 13 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  4) ( VWAP Period 14 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 100000.0000000 (Profit Multiplier:  4) ( VWAP Period 15 std increment  0 ) Total trades 0.00 
+2020-03-21T00:00:00, Ending Value 99861.5336625 (Profit Multiplier:  4) ( VWAP Period 16 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99861.5336625 (Profit Multiplier:  4) ( VWAP Period 17 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  4) ( VWAP Period 18 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  4) ( VWAP Period 19 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  4) ( VWAP Period 20 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  4) ( VWAP Period 21 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  4) ( VWAP Period 22 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  4) ( VWAP Period 23 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.8784625 (Profit Multiplier:  4) ( VWAP Period 24 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  4) ( VWAP Period 25 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  4) ( VWAP Period 26 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  4) ( VWAP Period 27 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  4) ( VWAP Period 28 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  4) ( VWAP Period 29 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  4) ( VWAP Period 30 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 99855.8281875 (Profit Multiplier:  4) ( VWAP Period 31 std increment  0 ) Total trades 1.00 
+2020-03-21T00:00:00, Ending Value 100190.0305875 (Profit Multiplier:  4) ( VWAP Period 32 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 100190.0305875 (Profit Multiplier:  4) ( VWAP Period 33 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 100190.0305875 (Profit Multiplier:  4) ( VWAP Period 34 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 100190.0305875 (Profit Multiplier:  4) ( VWAP Period 35 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  4) ( VWAP Period 36 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  4) ( VWAP Period 37 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  4) ( VWAP Period 38 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  4) ( VWAP Period 39 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  4) ( VWAP Period 40 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  4) ( VWAP Period 41 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  4) ( VWAP Period 42 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  4) ( VWAP Period 43 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  4) ( VWAP Period 44 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 99726.6388625 (Profit Multiplier:  4) ( VWAP Period 45 std increment  0 ) Total trades 2.00 
+2020-03-21T00:00:00, Ending Value 100044.3859125 (Profit Multiplier:  4) ( VWAP Period 46 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 100044.3859125 (Profit Multiplier:  4) ( VWAP Period 47 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99926.3402750 (Profit Multiplier:  4) ( VWAP Period 48 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99926.3402750 (Profit Multiplier:  4) ( VWAP Period 49 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99841.3197125 (Profit Multiplier:  4) ( VWAP Period 50 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99695.4085125 (Profit Multiplier:  4) ( VWAP Period 51 std increment  0 ) Total trades 6.00 
+2020-03-21T00:00:00, Ending Value 99695.4085125 (Profit Multiplier:  4) ( VWAP Period 52 std increment  0 ) Total trades 6.00 
+2020-03-21T00:00:00, Ending Value 99695.4085125 (Profit Multiplier:  4) ( VWAP Period 53 std increment  0 ) Total trades 6.00 
+2020-03-21T00:00:00, Ending Value 99556.1260375 (Profit Multiplier:  4) ( VWAP Period 54 std increment  0 ) Total trades 7.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  4) ( VWAP Period 55 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  4) ( VWAP Period 56 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  4) ( VWAP Period 57 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  4) ( VWAP Period 58 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  4) ( VWAP Period 59 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  4) ( VWAP Period 60 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99367.5683125 (Profit Multiplier:  4) ( VWAP Period 61 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  4) ( VWAP Period 62 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  4) ( VWAP Period 63 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  4) ( VWAP Period 64 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  4) ( VWAP Period 65 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  4) ( VWAP Period 66 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  4) ( VWAP Period 67 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  4) ( VWAP Period 68 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  4) ( VWAP Period 69 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  4) ( VWAP Period 70 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  4) ( VWAP Period 71 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99362.0463750 (Profit Multiplier:  4) ( VWAP Period 72 std increment  0 ) Total trades 5.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  4) ( VWAP Period 73 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  4) ( VWAP Period 74 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  4) ( VWAP Period 75 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  4) ( VWAP Period 76 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  4) ( VWAP Period 77 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  4) ( VWAP Period 78 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  4) ( VWAP Period 79 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  4) ( VWAP Period 80 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  4) ( VWAP Period 81 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  4) ( VWAP Period 82 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  4) ( VWAP Period 83 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99501.3288500 (Profit Multiplier:  4) ( VWAP Period 84 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  4) ( VWAP Period 85 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  4) ( VWAP Period 86 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  4) ( VWAP Period 87 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  4) ( VWAP Period 88 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  4) ( VWAP Period 89 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  4) ( VWAP Period 90 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99502.1449875 (Profit Multiplier:  4) ( VWAP Period 91 std increment  0 ) Total trades 4.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  4) ( VWAP Period 92 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  4) ( VWAP Period 93 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  4) ( VWAP Period 94 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  4) ( VWAP Period 95 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  4) ( VWAP Period 96 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  4) ( VWAP Period 97 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99619.5489875 (Profit Multiplier:  4) ( VWAP Period 98 std increment  0 ) Total trades 3.00 
+2020-03-21T00:00:00, Ending Value 99625.0709250 (Profit Multiplier:  4) ( VWAP Period 99 std increment  0 ) Total trades 3.00 
+################################################################################################
+profit multiplier: 1.00
+maperiod1: 1.00
+maperiod2: 0.00
+SQN: -4.45
+Trade Analysis Results:
+                    Total Open          Total Closed        Total Won           Total Lost          
+                    0                   62                  30                  32                  
+                    Strike Rate         Win Streak          Losing Streak       PnL Net             
+                    48.38709677419355   5                   5                   -2974.38            
+Drawdown Analysis Results:
+                    Drawdown            Moneydown           Length              
+                    2.97                2974.38             16790               
+                    Max drawdown        Max moneydown       Max len             
+                    2.97                2974.38             16790               
+################################################################################################
+profit multiplier: 1.00
+maperiod1: 2.00
+maperiod2: 0.00
+SQN: -3.33
+Trade Analysis Results:
+                    Total Open          Total Closed        Total Won           Total Lost          
+                    0                   41                  20                  21                  
+                    Strike Rate         Win Streak          Losing Streak       PnL Net             
+                    48.78048780487805   4                   4                   -1832.93            
+Drawdown Analysis Results:
+                    Drawdown            Moneydown           Length              
+                    1.83                1832.93             16402               
+                    Max drawdown        Max moneydown       Max len             
+                    1.83                1832.93             16402               
+################################################################################################
+profit multiplier: 1.00
+maperiod1: 3.00
+maperiod2: 0.00
+SQN: -3.57
+Trade Analysis Results:
+                    Total Open          Total Closed        Total Won           Total Lost          
+                    0                   20                  7                   13                  
+                    Strike Rate         Win Streak          Losing Streak       PnL Net             
+                    35.0                2                   4                   -1294.27            
+Drawdown Analysis Results:
+                    Drawdown            Moneydown           Length              
+                    1.29                1294.27             16309               
+                    Max drawdown        Max moneydown       Max len             
+                    1.29                1294.27             16309               
+################################################################################################
+profit multiplier: 1.00
+maperiod1: 4.00
+maperiod2: 0.00
+SQN: -2.19
+Trade Analysis Results:
+                    Total Open          Total Closed        Total Won           Total Lost          
+                    0                   14                  6                   8                   
+                    Strike Rate         Win Streak          Losing Streak       PnL Net             
+                    42.857142857142854  4                   3                   -630.6              
+Drawdown Analysis Results:
+                    Drawdown            Moneydown           Length              
+                    0.63                630.6               16786               
+                    Max drawdown        Max moneydown       Max len             
+                    0.63                630.6               16786               
+################################################################################################
+profit multiplier: 1.00
+maperiod1: 5.00
+maperiod2: 0.00
+SQN: -2.12
+Trade Analysis Results:
+                    Total Open          Total Closed        Total Won           Total Lost          
+                    0                   9                   4                   5                   
+                    Strike Rate         Win Streak          Losing Streak       PnL Net             
+                    44.44444444444444   2                   4                   -538.8              
+Drawdown Analysis Results:
+                    Drawdown            Moneydown           Length              
+                    0.54                538.8               16785               
+                    Max drawdown        Max moneydown       Max len             
+                    0.6                 602.07              16785               
+################################################################################################
+profit multiplier: 1.00
+maperiod1: 6.00
+maperiod2: 0.00
+SQN: -63.66
+Trade Analysis Results:
+                    Total Open          Total Closed        Total Won           Total Lost          
+                    0                   4                   0                   4                   
+                    Strike Rate         Win Streak          Losing Streak       PnL Net             
+                    0.0                 0                   4                   -547.4              
+Drawdown Analysis Results:
+                    Drawdown            Moneydown           Length              
+                    0.55                547.4               16785               
+                    Max drawdown        Max moneydown       Max len             
+                    0.55                547.4               16785               
+################################################################################################
+profit multiplier: 1.00
+maperiod1: 7.00
+maperiod2: 0.00
+SQN: -48.2
+Trade Analysis Results:
+                    Total Open          Total Closed        Total Won           Total Lost          
+                    0                   3                   0                   3                   
+                    Strike Rate         Win Streak          Losing Streak       PnL Net             
+                    0.0                 0                   3                   -409.39             
+Drawdown Analysis Results:
+                    Drawdown            Moneydown           Length              
+                    0.41                409.39              16785               
+                    Max drawdown        Max moneydown       Max len             
+                    0.41                409.39              16785               
+################################################################################################
+profit multiplier: 1.00
+maperiod1: 8.00
+maperiod2: 0.00
+SQN: 0
+Trade Analysis Results:
+                    Total Open          Total Closed        Total Won           Total Lost          
+                    0                   1                   1                   0                   
+                    Strike Rate         Win Streak          Losing Streak       PnL Net             
+                    100.0               1                   0                   26.0                
+Drawdown Analysis Results:
+                    Drawdown            Moneydown           Length              
+                    0.01                8.43                1423                
+                    Max drawdown        Max moneydown       Max len             
+                    0.02                17.0                1423                
+################################################################################################
+profit multiplier: 1.00
+maperiod1: 9.00
+maperiod2: 0.00
+SQN: 0
+Trade Analysis Results:
+                    Total Open          Total Closed        Total Won           Total Lost          
+                    0                   1                   0                   1                   
+                    Strike Rate         Win Streak          Losing Streak       PnL Net             
+                    0.0                 0                   1                   -110.22             
+Drawdown Analysis Results:
+                    Drawdown            Moneydown           Length              
+                    0.11                110.22              2482                
+                    Max drawdown        Max moneydown       Max len             
+                    0.11                110.22              2482                
+################################################################################################
+profit multiplier: 1.00
+maperiod1: 10.00
+maperiod2: 0.00
+SQN: 0
+Trade Analysis Results:
+                    Total Open          Total Closed        Total Won           Total Lost          
+                    0                   1                   0                   1                   
+                    Strike Rate         Win Streak          Losing Streak       PnL Net             
+                    0.0                 0                   1                   -110.22             
+Drawdown Analysis Results:
+                    Drawdown            Moneydown           Length              
+                    0.11                110.22              2482                
+                    Max drawdown        Max moneydown       Max len             
+                    0.11                110.22              2482                
+################################################################################################
+profit multiplier: 1.00
+maperiod1: 11.00
+maperiod2: 0.00
+SQN: 0
+Trade Analysis Results:
+                    Total Open          Total Closed        Total Won           Total Lost          
+                    0                   1                   0                   1                   
+                    Strike Rate         Win Streak          Losing Streak       PnL Net             
+                    0.0                 0                   1                   -110.22             
+Drawdown Analysis Results:
+                    Drawdown            Moneydown           Length              
+                    0.11                110.22              2482                
+                    Max drawdown        Max moneydown       Max len             
+                    0.11                110.22              2482                
+################################################################################################
+profit multiplier: 1.00
+maperiod1: 12.00
+maperiod2: 0.00
+SQN: 0

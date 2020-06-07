@@ -5,8 +5,8 @@ import datetime  # For datetime objects
 import os.path  # To manage paths
 import sys  # To find out the script name (in argv[0])
 import math
-from VolumeWeightedAveragePrice import VWAP
-
+from VWAPIndicator import VWAP
+from RSIDivergenceIndicator import RSIDiv
 
 # Import the backtrader platform
 import backtrader as bt
@@ -18,7 +18,7 @@ class TestStrategy(bt.Strategy):
         ('stoploss', 0.01),   
         ('profit_mult', 4),
         ('maperiod1', 15),
-        ('maperiod2', 30),
+        ('maperiod2', 0),
         ('printlog', False),
     )
 
@@ -55,8 +55,10 @@ class TestStrategy(bt.Strategy):
 #        self.sma2 = bt.indicators.SimpleMovingAverage(
 #            self.datas[0], period=self.params.maperiod2)
         
+        self.rsi_div = RSIDiv(rsi_period=self.params.maperiod1,hl_period=100, hl_min=25)
+        
         self.std = bt.indicators.StandardDeviation(
-            self.data.close, period=self.params.maperiod1)
+            self.data.close, period= self.params.maperiod2 + self.params.maperiod1)
         self.vwap = VWAP(period=self.params.maperiod1)
                     
                     
@@ -115,7 +117,7 @@ class TestStrategy(bt.Strategy):
 
     def next(self):
         # Simply log the closing price of the series from the reference
-        self.log('Open %.7f , High %.7f , Low %.7f , Close %.7f, Volume %.7f,  SMA %.7f , VWAP %.7f, RSI %.7f, STD %.7f' % (self.dataopen[0],self.datahigh[0],self.datalow[0], self.dataclose[0], self.datavolume[0],self.sma1[0], self.vwap[0], self.rsi[0], self.std[0]))
+        self.log('Open %.7f , High %.7f , Low %.7f , Close %.7f, Volume %.7f,  SMA %.7f , VWAP %.7f, RSI %.7f, STD %.7f , RSI-Div %.7f ' % (self.dataopen[0],self.datahigh[0],self.datalow[0], self.dataclose[0], self.datavolume[0],self.sma1[0], self.vwap[0], self.rsi[0], self.std[0], self.rsi_div.signal[0]))
         
 #        handle NaN data that causes Order Canceled/Margin/Rejected error 
         if (math.isnan(self.dataopen[0]) or math.isnan(self.dataclose[0]) or math.isnan(self.sma1[0]) or math.isnan(self.vwap[0])):
@@ -131,8 +133,8 @@ class TestStrategy(bt.Strategy):
             # price candle should be breaking out, so check the earlier candle as well
             if (self.dataclose[0] + 2*self.std[0] < self.vwap[0] ) : 
 #            self.rsi[0] > self.rsi[-1]) : #vwap breakout by price ,and rsi condition 
-                if (self.dataclose[0] < self.vwap[0] 
-#                and self.datavolume[0] > self.datavolume[-1] and self.datavolume[-1] > self.datavolume[-2] and self.datavolume[-2] > self.datavolume[-3]
+                if ( self.rsi_div.signal[0] > 0
+              and self.datavolume[0] < self.datavolume[-1] and self.datavolume[-1] < self.datavolume[-2] and self.datavolume[-2] < self.datavolume[-3]
                 ):
     
                     # BUY, BUY, BUY!!! (with all possible default parameters)
@@ -175,8 +177,8 @@ class TestStrategy(bt.Strategy):
        #         self.order = self.sell()
 
     def stop(self):
-        self.log('Ending Value %.7f (Profit Multiplier: %2d) (MA and VWAP Periods %2d ) Total trades %.2f ' %
-                 (self.broker.getvalue(),self.params.profit_mult, self.params.maperiod1, self.trades ), doprint=True)
+        self.log('Ending Value %.7f (Profit Multiplier: %2d) ( VWAP Period %2d std increment %2d ) Total trades %.2f ' %
+                 (self.broker.getvalue(),self.params.profit_mult, self.params.maperiod1, self.params.maperiod2, self.trades ), doprint=True)
 
 def printTradeAnalysis(analyzer):
         '''
@@ -252,7 +254,7 @@ if __name__ == '__main__':
 #    strats = cerebro.optstrategy(
 #        TestStrategy,
 #        maperiod1=range(10, 31))
-    cerebro.optstrategy(TestStrategy,  profit_mult = range(1,5), maperiod1 = range(3,100))
+    cerebro.optstrategy(TestStrategy,  profit_mult = range(1,5), maperiod1 = range(1,100))
     # Datas are in a subfolder of the samples. Need to find where the script is
     # because it could have been called from anywhere
     modpath = os.path.dirname(os.path.abspath(sys.argv[0]))
